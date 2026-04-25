@@ -3,5 +3,3 @@ __pycache__/
 *.pyc
 .venv/
 venv/
-knowledge/raw/
-knowledge/entries/

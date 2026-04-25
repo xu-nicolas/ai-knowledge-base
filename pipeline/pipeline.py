@@ -228,6 +228,10 @@ def step_analyze(items: list[dict[str, Any]]) -> list[dict[str, Any]]:
                 else:
                     raise json.JSONDecodeError("No JSON found", content, 0)
 
+                # 检查必要字段
+                if not analysis.get("summary"):
+                    raise KeyError("summary 字段为空")
+
                 # 合并原始数据和分析结果
                 enriched = {**item, **analysis}
                 enriched["status"] = "analyzed"

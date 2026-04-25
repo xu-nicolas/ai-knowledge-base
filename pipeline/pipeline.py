@@ -126,7 +126,7 @@ def collect_rss(limit: int = 10) -> list[dict[str, Any]]:
                     count += 1
                     results.append({
                         "title": title,
-                        "source": f"rss:{source['name']}",
+                        "source": "hacker_news",
                         "source_url": link,
                         "author": source.get("name", "unknown"),
                         "published_at": now,

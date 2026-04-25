@@ -106,9 +106,9 @@ def validate_article(data: dict[str, Any]) -> list[str]:
     if not URL_PATTERN.match(source_url):
         errors.append(f"URL 格式错误: '{source_url}'")
 
-    # 摘要长度
+    # 摘要长度（跳过 raw 状态，它们下次会重试）
     summary = data["summary"]
-    if len(summary.strip()) < SUMMARY_MIN_LENGTH:
+    if data.get("status") != "raw" and len(summary.strip()) < SUMMARY_MIN_LENGTH:
         errors.append(
             f"摘要太短: {len(summary.strip())} 字，"
             f"要求至少 {SUMMARY_MIN_LENGTH} 字"

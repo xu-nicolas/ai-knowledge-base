@@ -1,0 +1,30 @@
+{
+  "id": "2026-04-25-020",
+  "title": "How are you protecting yourself against the imminent AI dooms zero day?",
+  "source": "hacker_news",
+  "source_url": "https://lobste.rs/s/cfzhwf/how_are_you_protecting_yourself_against",
+  "summary": "讨论 AI 系统可能带来的生存风险以及个人如何防御即将到来的 AI 零日漏洞威胁。涉及 AI 安全性、对齐问题和个人防护策略等主题。社区围绕 AI 失控可能性、监管措施和开发安全协议的讨论。",
+  "tags": [
+    "AI_safety",
+    "existential_risk",
+    "zero_day",
+    "cybersecurity",
+    "AI_alignment"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-04-25T09:56:04.147500+00:00",
+  "metadata": {
+    "published_at": "2026-04-25T09:56:04.147500+00:00",
+    "analyzed_at": "2026-04-25T10:00:34.146852+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Lobsters (AI/ML)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "advanced"
+  }
+}

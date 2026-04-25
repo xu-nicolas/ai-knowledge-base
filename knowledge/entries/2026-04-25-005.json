@@ -1,30 +1,28 @@
 {
   "id": "2026-04-25-005",
-  "title": "infiniflow/ragflow",
+  "title": "anthropics/skills",
   "source": "github_trending",
-  "source_url": "https://github.com/infiniflow/ragflow",
-  "summary": "RAGFlow是一个领先的开源检索增强生成(RAG)引擎，通过融合先进的RAG技术与Agent能力，为大语言模型提供更优质的上下文理解层。该项目在GitHub Trending上获得关注，代表了当前LLM应用领域的重要技术方向。",
+  "source_url": "https://github.com/anthropics/skills",
+  "summary": "anthropics/skills是Anthropic公司维护的公开代码仓库，专注于AI Agent技能的实现与分享。该项目提供了Claude等大语言模型在代理场景下的技能扩展能力，帮助开发者构建更强大的智能代理应用。仓库内容可能包含技能定义、工具集成和最佳实践指南等核心组件。",
   "tags": [
-    "RAG",
-    "Retrieval-Augmented Generation",
+    "AI Agent",
     "LLM",
-    "Agent",
-    "Open Source",
-    "NLP",
-    "Context Engineering"
+    "Claude",
+    "Skill Framework",
+    "Automation"
   ],
   "status": "analyzed",
-  "collected_at": "2026-04-25T04:02:56.853296+00:00",
+  "collected_at": "2026-04-25T09:56:02.553083+00:00",
   "metadata": {
-    "published_at": "2026-04-24T16:33:03Z",
-    "analyzed_at": "2026-04-25T04:04:09.765368+00:00",
+    "published_at": "2026-04-23T17:07:20Z",
+    "analyzed_at": "2026-04-25T09:57:17.754114+00:00",
     "analysis": {
       "highlights": [],
       "use_cases": [],
       "risks": []
     },
-    "author": "infiniflow",
-    "stars": 78946,
+    "author": "anthropics",
+    "stars": 123606,
     "score": 7,
     "score_reason": "",
     "audience": "intermediate"

@@ -1,0 +1,30 @@
+{
+  "id": "2026-04-25-028",
+  "title": "Project Glasswing: Securing critical software for the AI era",
+  "source": "hacker_news",
+  "source_url": "https://www.anthropic.com/glasswing",
+  "summary": "Project Glasswing 是一个专注于 AI 时代软件安全的开源项目，旨在保护关键软件基础设施免受新兴 AI 相关威胁。该项目可能提供代码审计、漏洞修复和安全最佳实践等解决方案，针对 AI 系统特有的安全挑战提供防护措施。作为安全领域的新兴项目，它反映了 AI 技术快速发展背景下对系统安全性的迫切需求。",
+  "tags": [
+    "AI安全",
+    "软件安全",
+    "开源安全",
+    "漏洞防护",
+    "关键基础设施"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-04-25T09:56:04.147531+00:00",
+  "metadata": {
+    "published_at": "2026-04-25T09:56:04.147531+00:00",
+    "analyzed_at": "2026-04-25T10:01:57.186098+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Lobsters (AI/ML)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

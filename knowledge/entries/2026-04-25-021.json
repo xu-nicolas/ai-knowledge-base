@@ -1,0 +1,30 @@
+{
+  "id": "2026-04-25-021",
+  "title": "PyTexas 2026 Recap",
+  "source": "hacker_news",
+  "source_url": "https://bernat.tech/posts/pytexas-2026-recap/",
+  "summary": "PyTexas 2026是德克萨斯州一年一度的Python开发者会议，本次回顾涵盖了会议的主要演讲、技术分享和社区活动，展示了Python生态系统的最新发展和社区动态。",
+  "tags": [
+    "Python",
+    "PyTexas",
+    "conference",
+    "developer-community",
+    "open-source"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-04-25T09:56:04.147504+00:00",
+  "metadata": {
+    "published_at": "2026-04-25T09:56:04.147504+00:00",
+    "analyzed_at": "2026-04-25T10:00:42.560814+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Lobsters (AI/ML)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

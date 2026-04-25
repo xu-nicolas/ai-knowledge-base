@@ -1,0 +1,30 @@
+{
+  "id": "2026-04-25-015",
+  "title": "unclecode/crawl4ai",
+  "source": "github_trending",
+  "source_url": "https://github.com/unclecode/crawl4ai",
+  "summary": "Crawl4AI是一个开源的网络爬虫和网页抓取工具，专门针对大型语言模型（LLM）进行了优化。该工具能够以LLM友好的格式输出抓取的网页内容，大大简化了AI应用获取和处理网页数据的流程。作为一个开源项目，它为开发者和数据工程师提供了一个灵活且易用的网页数据采集解决方案。",
+  "tags": [
+    "web-crawler",
+    "open-source",
+    "LLM-friendly",
+    "web-scraper",
+    "data-extraction"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-04-25T09:56:02.553254+00:00",
+  "metadata": {
+    "published_at": "2026-04-24T16:53:57Z",
+    "analyzed_at": "2026-04-25T09:59:45.061583+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "unclecode",
+    "stars": 64563,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

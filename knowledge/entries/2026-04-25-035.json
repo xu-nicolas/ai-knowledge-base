@@ -1,0 +1,30 @@
+{
+  "id": "2026-04-25-035",
+  "title": "A CSS Engine in OCaml",
+  "source": "hacker_news",
+  "source_url": "https://gazagnaire.org/blog/2026-04-02-cascade.html",
+  "summary": "这是一个使用OCaml函数式编程语言实现的CSS引擎项目，用于解析和处理CSS样式表。该项目展示了如何利用OCaml的类型系统和函数式特性来构建高性能的CSS解析器，体现了函数式编程在前端工具开发中的应用。",
+  "tags": [
+    "OCaml",
+    "CSS引擎",
+    "函数式编程",
+    "编译器",
+    "前端工具"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-04-25T09:56:04.147556+00:00",
+  "metadata": {
+    "published_at": "2026-04-25T09:56:04.147556+00:00",
+    "analyzed_at": "2026-04-25T10:03:17.080961+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Lobsters (AI/ML)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

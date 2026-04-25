@@ -1,0 +1,29 @@
+{
+  "id": "2026-04-25-025",
+  "title": "The Origins of GPU Computing",
+  "source": "hacker_news",
+  "source_url": "https://cacm.acm.org/federal-funding-of-academic-research/the-origins-of-gpu-computing/",
+  "summary": "该内容探讨了GPU计算的发展历史，从早期的图形渲染专用硬件到演变为通用并行计算平台的过程。GPU最初设计用于加速3D图形渲染，后来通过CUDA和OpenCL等技术实现了通用计算能力。",
+  "tags": [
+    "GPU",
+    "硬件历史",
+    "并行计算",
+    "计算架构"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-04-25T09:56:04.147520+00:00",
+  "metadata": {
+    "published_at": "2026-04-25T09:56:04.147520+00:00",
+    "analyzed_at": "2026-04-25T10:01:27.981084+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Lobsters (AI/ML)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

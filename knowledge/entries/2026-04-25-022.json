@@ -1,0 +1,31 @@
+{
+  "id": "2026-04-25-022",
+  "title": "Reimplementing the Space Protocol Stack from Scratch",
+  "source": "hacker_news",
+  "source_url": "https://gazagnaire.org/blog/2026-04-15-ccsds-protocol-stack.html",
+  "summary": "该帖子讨论了从零开始重新实现太空通信协议栈的技术工作，涉及航天器通信、网络协议设计和底层系统编程等多个技术领域，反映了开源社区对航天通信技术的深入探索与实践。",
+  "tags": [
+    "protocol",
+    "space",
+    "reimplementation",
+    "networking",
+    "systems",
+    "avionics"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-04-25T09:56:04.147508+00:00",
+  "metadata": {
+    "published_at": "2026-04-25T09:56:04.147508+00:00",
+    "analyzed_at": "2026-04-25T10:00:54.443115+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Lobsters (AI/ML)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "2026-04-25-006",
+  "title": "Comfy-Org/ComfyUI",
+  "source": "github_trending",
+  "source_url": "https://github.com/Comfy-Org/ComfyUI",
+  "summary": "ComfyUI是一个基于节点/图形界面的模块化扩散模型工作流工具，提供直观的GUI和REST API接口。它采用节点式架构设计，允许用户通过可视化方式组合各种AI模型、处理器和后处理模块。ComfyUI以其高度模块化和灵活的扩展性，成为AI图像生成领域最受欢迎的创作工具之一。",
+  "tags": [
+    "diffusion_model",
+    "generative_ai",
+    "workflow_automation"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-04-25T09:56:02.553089+00:00",
+  "metadata": {
+    "published_at": "2026-04-25T03:54:02Z",
+    "analyzed_at": "2026-04-25T09:57:41.097109+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Comfy-Org",
+    "stars": 110007,
+    "score": 8,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

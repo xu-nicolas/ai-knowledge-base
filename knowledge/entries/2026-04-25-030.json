@@ -1,0 +1,29 @@
+{
+  "id": "2026-04-25-030",
+  "title": "(Artificial) Intelligence saturation and the future of work",
+  "source": "hacker_news",
+  "source_url": "https://www.brookings.edu/articles/artificial-intelligence-saturation-and-the-future-of-work/",
+  "summary": "该内容讨论AI技术饱和现象及其对未来工作的影响，探讨当AI能力变得普遍而非稀缺时，对就业市场和职业发展可能产生的深远影响，来源于Hacker News的技术社区讨论。",
+  "tags": [
+    "AI发展",
+    "未来工作",
+    "技术影响",
+    "AI饱和"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-04-25T09:56:04.147538+00:00",
+  "metadata": {
+    "published_at": "2026-04-25T09:56:04.147538+00:00",
+    "analyzed_at": "2026-04-25T10:02:14.346205+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Lobsters (AI/ML)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

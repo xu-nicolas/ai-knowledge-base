@@ -1,0 +1,30 @@
+{
+  "id": "2026-04-25-008",
+  "title": "github/spec-kit",
+  "source": "github_trending",
+  "source_url": "https://github.com/github/spec-kit",
+  "summary": "spec-kit 是一个专注于规格驱动开发（Spec-Driven Development）的工具包，帮助开发团队通过规范化的规格说明来指导开发流程，提高需求明确性和代码质量。该工具包提供了开发脚手架和最佳实践指南，适合希望采用规格优先开发模式的团队使用。",
+  "tags": [
+    "spec-driven-development",
+    "developer-tools",
+    "api-specifications",
+    "openapi",
+    "sdk-generation"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-04-25T09:56:02.553233+00:00",
+  "metadata": {
+    "published_at": "2026-04-24T21:04:05Z",
+    "analyzed_at": "2026-04-25T09:58:10.884923+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "github",
+    "stars": 90781,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

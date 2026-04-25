@@ -1,29 +1,30 @@
 {
   "id": "2026-04-25-003",
-  "title": "Shubhamsaboo/awesome-llm-apps",
+  "title": "langflow-ai/langflow",
   "source": "github_trending",
-  "source_url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
-  "summary": "这是一个汇集了100多个可运行的LLM应用的开源精选项目，涵盖AI Agent和RAG技术栈。项目提供完整的代码实现和部署指南，开发者可以直接克隆并在本地运行或进行定制开发，是学习和实践大型语言模型应用的优质资源库。",
+  "source_url": "https://github.com/langflow-ai/langflow",
+  "summary": "Langflow 是一个基于 LangChain 构建的低代码可视化平台，通过拖拽式界面简化 AI 代理和工作流的创建与部署。它支持多种 AI 模型集成，提供实时预览和调试功能，适合快速原型开发和生产环境使用。",
   "tags": [
-    "llm",
-    "ai-agent",
-    "rag",
-    "open-source",
-    "python"
+    "LangChain",
+    "AI Agents",
+    "Low-code",
+    "Workflow Automation",
+    "Python",
+    "LLM Integration"
   ],
   "status": "analyzed",
-  "collected_at": "2026-04-25T04:02:56.853294+00:00",
+  "collected_at": "2026-04-25T09:56:02.553075+00:00",
   "metadata": {
-    "published_at": "2026-04-19T06:07:13Z",
-    "analyzed_at": "2026-04-25T04:03:46.320039+00:00",
+    "published_at": "2026-04-25T00:43:30Z",
+    "analyzed_at": "2026-04-25T09:56:50.432435+00:00",
     "analysis": {
       "highlights": [],
       "use_cases": [],
       "risks": []
     },
-    "author": "Shubhamsaboo",
-    "stars": 107353,
-    "score": 7,
+    "author": "langflow-ai",
+    "stars": 147344,
+    "score": 8,
     "score_reason": "",
     "audience": "intermediate"
   }

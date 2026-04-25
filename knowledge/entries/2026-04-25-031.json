@@ -1,0 +1,30 @@
+{
+  "id": "2026-04-25-031",
+  "title": "Mathematical methods and human thought in the age of AI",
+  "source": "hacker_news",
+  "source_url": "https://arxiv.org/pdf/2603.26524",
+  "summary": "该话题探讨人工智能时代数学方法与人类思维之间的交互关系，涉及算法逻辑、认知模型及数学推理在AI系统中的应用，旨在分析技术发展对人类认知方式的影响。内容适合对AI技术有深入兴趣并具备一定数学基础的技术人员。",
+  "tags": [
+    "AI",
+    "Mathematics",
+    "Cognitive Science",
+    "Algorithm",
+    "Human Thought"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-04-25T09:56:04.147542+00:00",
+  "metadata": {
+    "published_at": "2026-04-25T09:56:04.147542+00:00",
+    "analyzed_at": "2026-04-25T10:02:25.995588+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Lobsters (AI/ML)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

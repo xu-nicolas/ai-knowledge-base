@@ -1,0 +1,31 @@
+{
+  "id": "2026-04-25-014",
+  "title": "OpenBB-finance/OpenBB",
+  "source": "github_trending",
+  "source_url": "https://github.com/OpenBB-finance/OpenBB",
+  "summary": "OpenBB是一个开源的金融数据平台，为分析师、量化交易员和AI代理提供统一的金融市场数据分析能力。该平台聚合多种数据源，支持技术分析、基本面分析、情绪分析等多种功能，并提供Python SDK和终端界面。",
+  "tags": [
+    "金融数据",
+    "量化分析",
+    "Python",
+    "开源",
+    "数据分析",
+    "投资研究"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-04-25T09:56:02.553252+00:00",
+  "metadata": {
+    "published_at": "2026-04-25T04:19:09Z",
+    "analyzed_at": "2026-04-25T09:59:35.490890+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "OpenBB-finance",
+    "stars": 66477,
+    "score": 8,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

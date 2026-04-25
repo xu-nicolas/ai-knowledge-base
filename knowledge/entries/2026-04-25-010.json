@@ -1,0 +1,30 @@
+{
+  "id": "2026-04-25-010",
+  "title": "PaddlePaddle/PaddleOCR",
+  "source": "github_trending",
+  "source_url": "https://github.com/PaddlePaddle/PaddleOCR",
+  "summary": "PaddleOCR是百度开源的轻量级OCR工具包，专注于将PDF和图像文档转换为结构化数据，支持100多种语言识别。该工具有效连接了视觉文档与大型语言模型（LLM），为AI应用提供文档智能解析能力，在GitHub上具有较高的关注度和活跃度。",
+  "tags": [
+    "OCR",
+    "文档识别",
+    "文本提取",
+    "开源工具",
+    "多语言支持"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-04-25T09:56:02.553243+00:00",
+  "metadata": {
+    "published_at": "2026-04-23T04:21:20Z",
+    "analyzed_at": "2026-04-25T09:58:56.954787+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "PaddlePaddle",
+    "stars": 76505,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

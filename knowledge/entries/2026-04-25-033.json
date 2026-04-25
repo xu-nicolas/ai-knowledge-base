@@ -1,0 +1,30 @@
+{
+  "id": "2026-04-25-033",
+  "title": "A Proposal for Voluntary AI Disclosure in OCaml Code",
+  "source": "hacker_news",
+  "source_url": "https://anil.recoil.org/notes/opam-ai-disclosure",
+  "summary": "该提案探讨了在 OCaml 代码中实现 AI 生成内容自愿披露的可行性与实施方案，旨在通过代码注释或元数据标记来提高 AI 辅助编程的透明度。提案涉及 OCaml 的语言特性和工具链，讨论了不同披露方式的优缺点，以及对代码审查和开源社区信任的影响。",
+  "tags": [
+    "OCaml",
+    "AI-Disclosure",
+    "Programming-Ethics",
+    "Open-Source",
+    "Code-Transparency"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-04-25T09:56:04.147549+00:00",
+  "metadata": {
+    "published_at": "2026-04-25T09:56:04.147549+00:00",
+    "analyzed_at": "2026-04-25T10:02:52.052975+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Lobsters (AI/ML)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

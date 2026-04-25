@@ -1,0 +1,29 @@
+{
+  "id": "2026-04-25-029",
+  "title": "Where is it like to be a language model?",
+  "source": "hacker_news",
+  "source_url": "https://www.robinsloan.com/winter-garden/where-is-it-like/",
+  "summary": "该文章探讨了语言模型是否具有类似人类的主观体验问题，引用了经典的'蝙蝠论证'哲学思想，质疑当前AI系统是否真正拥有意识或仅仅是复杂的模式匹配工具。",
+  "tags": [
+    "AI哲学",
+    "意识研究",
+    "语言模型",
+    "认知科学"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-04-25T09:56:04.147535+00:00",
+  "metadata": {
+    "published_at": "2026-04-25T09:56:04.147535+00:00",
+    "analyzed_at": "2026-04-25T10:02:05.654144+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Lobsters (AI/ML)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

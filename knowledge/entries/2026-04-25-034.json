@@ -1,0 +1,30 @@
+{
+  "id": "2026-04-25-034",
+  "title": "The Design of AI Memory Systems",
+  "source": "hacker_news",
+  "source_url": "https://tombedor.dev/approaches-to-agent-memory/",
+  "summary": "AI记忆系统是现代大型语言模型和应用的关键基础设施，负责信息的存储、检索和上下文管理。设计要点包括记忆的表示方式、层次化存储架构、高效的向量检索机制以及智能的遗忘策略。该领域正在快速发展，涉及记忆压缩、长期记忆与短期记忆的融合等前沿技术。",
+  "tags": [
+    "AI",
+    "Memory Systems",
+    "LLM",
+    "System Design",
+    "Vector Search"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-04-25T09:56:04.147553+00:00",
+  "metadata": {
+    "published_at": "2026-04-25T09:56:04.147553+00:00",
+    "analyzed_at": "2026-04-25T10:03:03.973302+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Lobsters (AI/ML)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "2026-04-25-018",
+  "title": "The Future of Deep Learning Is Photonic (2021)",
+  "source": "hacker_news",
+  "source_url": "https://spectrum.ieee.org/the-future-of-deep-learning-is-photonic",
+  "summary": "光子深度学习是使用光子（光）而非电子进行神经网络计算的前沿技术，旨在突破传统电子计算的算力瓶颈和能耗限制。该技术利用光学干涉、衍射等物理特性实现矩阵乘法等核心运算，理论上可实现超高速、低功耗的AI推理。2021年该领域开始受到关注，代表了AI硬件架构的重要演进方向。",
+  "tags": [
+    "光子计算",
+    "深度学习",
+    "AI硬件",
+    "神经形态计算",
+    "光子芯片"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-04-25T09:56:04.147492+00:00",
+  "metadata": {
+    "published_at": "2026-04-25T09:56:04.147492+00:00",
+    "analyzed_at": "2026-04-25T10:00:10.028643+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Lobsters (AI/ML)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

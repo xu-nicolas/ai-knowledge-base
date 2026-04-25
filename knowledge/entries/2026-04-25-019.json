@@ -1,0 +1,28 @@
+{
+  "id": "2026-04-25-019",
+  "title": "Mind the van Emden Gap",
+  "source": "hacker_news",
+  "source_url": "https://blog.fogus.me/llm/van-emden.html",
+  "summary": "这篇文章讨论了van Emden Gap这一技术概念，可能涉及AI或机器学习领域中某种性能或能力差距的主题。文章来源于Hacker News社区，表明这是一个值得关注的技术讨论话题。具体内容可能探讨了AI系统在特定任务或理解能力上存在的差距问题。",
+  "tags": [
+    "machine_learning",
+    "AI_research",
+    "technical_analysis"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-04-25T09:56:04.147497+00:00",
+  "metadata": {
+    "published_at": "2026-04-25T09:56:04.147497+00:00",
+    "analyzed_at": "2026-04-25T10:00:20.630966+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Lobsters (AI/ML)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

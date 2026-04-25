@@ -1,0 +1,29 @@
+{
+  "id": "2026-04-25-027",
+  "title": "Predictions Scorecard, 2026 January 01",
+  "source": "hacker_news",
+  "source_url": "https://rodneybrooks.com/predictions-scorecard-2026-january-01/",
+  "summary": "该内容为Hacker News社区发布的2026年度预测评分卡，可能汇总了年初对AI技术发展的各项预测及其实际验证结果。预测评分卡通常用于评估和对比不同技术趋势的预测准确性，对了解AI领域发展动态具有一定参考价值。",
+  "tags": [
+    "AI预测",
+    "趋势评估",
+    "HackerNews",
+    "技术趋势"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-04-25T09:56:04.147527+00:00",
+  "metadata": {
+    "published_at": "2026-04-25T09:56:04.147527+00:00",
+    "analyzed_at": "2026-04-25T10:01:45.367992+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Lobsters (AI/ML)",
+    "stars": 0,
+    "score": 6,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

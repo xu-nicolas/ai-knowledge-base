@@ -1,0 +1,29 @@
+{
+  "id": "2026-04-25-023",
+  "title": "LARQL - Query neural network weights like a graph database",
+  "source": "hacker_news",
+  "source_url": "https://github.com/chrishayuk/larql",
+  "summary": "LARQL 是一个创新工具，允许用户使用类似图数据库的查询语法来探索和分析神经网络权重，为模型可解释性和调试提供了新思路。",
+  "tags": [
+    "neural-networks",
+    "graph-database",
+    "model-analysis",
+    "query-language"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-04-25T09:56:04.147512+00:00",
+  "metadata": {
+    "published_at": "2026-04-25T09:56:04.147512+00:00",
+    "analyzed_at": "2026-04-25T10:01:06.895223+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Lobsters (AI/ML)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

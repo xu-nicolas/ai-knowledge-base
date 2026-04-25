@@ -1,0 +1,30 @@
+{
+  "id": "2026-04-25-017",
+  "title": "Reversing SynthID",
+  "source": "hacker_news",
+  "source_url": "https://hackerfactor.com/blog/index.php?/archives/1092-Reversing-SynthID.html",
+  "summary": "该内容探讨了对 Google DeepMind 的 SynthID 水印系统进行逆向工程的研究。SynthID 是一种用于 AI 生成图像的隐形水印技术，研究者尝试分析和破解其水印机制以测试其鲁棒性和安全性。这反映了 AI 安全领域对内容溯源技术的持续关注与攻防博弈。",
+  "tags": [
+    "AI水印",
+    "逆向工程",
+    "SynthID",
+    "安全研究",
+    "深度学习"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-04-25T09:56:04.147476+00:00",
+  "metadata": {
+    "published_at": "2026-04-25T09:56:04.147476+00:00",
+    "analyzed_at": "2026-04-25T09:59:59.721249+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Lobsters (AI/ML)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

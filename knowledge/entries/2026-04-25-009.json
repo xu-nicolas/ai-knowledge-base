@@ -1,0 +1,30 @@
+{
+  "id": "2026-04-25-009",
+  "title": "vllm-project/vllm",
+  "source": "github_trending",
+  "source_url": "https://github.com/vllm-project/vllm",
+  "summary": "vLLM是一个开源的大语言模型推理和服务引擎，采用PagedAttention技术优化GPU内存管理，实现高吞吐量和低延迟的推理服务。该项目支持多种LLM模型架构，提供Continuous Batching等优化策略，显著提升了LLM部署的效率和资源利用率。",
+  "tags": [
+    "LLM推理",
+    "深度学习",
+    "GPU优化",
+    "服务引擎",
+    "高性能计算"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-04-25T09:56:02.553241+00:00",
+  "metadata": {
+    "published_at": "2026-04-25T09:11:09Z",
+    "analyzed_at": "2026-04-25T09:58:41.817535+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "vllm-project",
+    "stars": 78088,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

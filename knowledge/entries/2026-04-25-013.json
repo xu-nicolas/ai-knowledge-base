@@ -1,0 +1,30 @@
+{
+  "id": "2026-04-25-013",
+  "title": "ansible/ansible",
+  "source": "github_trending",
+  "source_url": "https://github.com/ansible/ansible",
+  "summary": "Ansible 是一个开源的 IT 自动化平台，通过 SSH 协议和接近自然语言的 DSL，让用户能够自动化部署应用、管理配置和协调云资源。该平台采用无代理架构，无需在目标主机上安装额外软件，降低了维护成本，适合管理大规模基础设施。",
+  "tags": [
+    "自动化",
+    "配置管理",
+    "DevOps",
+    "基础设施即代码",
+    "SSH"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-04-25T09:56:02.553249+00:00",
+  "metadata": {
+    "published_at": "2026-04-24T14:42:24Z",
+    "analyzed_at": "2026-04-25T09:59:24.972427+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "ansible",
+    "stars": 68410,
+    "score": 8,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

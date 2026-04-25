@@ -1,0 +1,30 @@
+{
+  "id": "2026-04-25-032",
+  "title": "Embarrassingly Simple Self-Distillation Improves Code Generation",
+  "source": "hacker_news",
+  "source_url": "https://arxiv.org/abs/2604.01193",
+  "summary": "该研究提出了一种非常简单的自蒸馏方法来提升代码生成模型的性能。通过让模型从自身生成的高质量输出中进行学习，无需外部数据或复杂技术即可显著改善代码生成的准确性和质量。这种方法利用了模型自身的知识作为监督信号，实现了高效且实用的模型优化。",
+  "tags": [
+    "self-distillation",
+    "code-generation",
+    "model-optimization",
+    "knowledge-distillation",
+    "LLM"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-04-25T09:56:04.147546+00:00",
+  "metadata": {
+    "published_at": "2026-04-25T09:56:04.147546+00:00",
+    "analyzed_at": "2026-04-25T10:02:42.339127+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Lobsters (AI/ML)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

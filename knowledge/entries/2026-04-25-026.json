@@ -1,0 +1,30 @@
+{
+  "id": "2026-04-25-026",
+  "title": "How is your org/company measuring the impact of AI adoption?",
+  "source": "hacker_news",
+  "source_url": "https://lobste.rs/s/bzcjrl/how_is_your_org_company_measuring_impact",
+  "summary": "Hacker News上关于组织如何衡量AI采用效果的讨论，聚焦于量化AI投资回报率、追踪生产力提升和评估AI项目成功的关键指标。这是当前企业AI实施中面临的实际挑战。",
+  "tags": [
+    "AI Adoption",
+    "Measurement",
+    "ROI",
+    "Enterprise AI",
+    "Productivity Metrics"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-04-25T09:56:04.147523+00:00",
+  "metadata": {
+    "published_at": "2026-04-25T09:56:04.147523+00:00",
+    "analyzed_at": "2026-04-25T10:01:35.941213+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Lobsters (AI/ML)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

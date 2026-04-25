@@ -1,0 +1,30 @@
+{
+  "id": "2026-04-25-024",
+  "title": "TESSERA — A pixel-wise earth observation foundation model",
+  "source": "hacker_news",
+  "source_url": "https://geotessera.org",
+  "summary": "TESSERA 是一个面向地球观测领域的像素级基础模型，旨在为遥感图像分析提供通用的像素级特征表示。该模型基于大规模地球观测数据训练，可以应用于土地覆盖分类、变化检测、目标分割等遥感任务。",
+  "tags": [
+    "earth-observation",
+    "foundation-model",
+    "remote-sensing",
+    "pixel-level",
+    "computer-vision"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-04-25T09:56:04.147516+00:00",
+  "metadata": {
+    "published_at": "2026-04-25T09:56:04.147516+00:00",
+    "analyzed_at": "2026-04-25T10:01:15.043854+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Lobsters (AI/ML)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

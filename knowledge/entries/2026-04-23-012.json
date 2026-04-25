@@ -1,0 +1,27 @@
+{
+  "id": "2026-04-23-012",
+  "title": "leigest519/OpenGame",
+  "source": "github_trending",
+  "source_url": "https://github.com/leigest519/OpenGame",
+  "summary": "面向游戏开发的Agentic Coding框架，通过AI Agent自动化完成游戏逻辑编码。Agentic Coding在游戏开发领域的垂直应用，降低游戏开发门槛使非专业开发者也能参与，AI Agent驱动的游戏逻辑自动生成。",
+  "tags": ["agent", "gaming", "agentic-coding", "游戏原型开发", "独立游戏开发", "AI辅助游戏设计"],
+  "status": "analyzed",
+  "collected_at": "2026-04-23T09:00:00Z",
+  "metadata": {
+    "analyzed_at": "2026-04-23T09:05:00Z",
+    "analysis": {
+      "highlights": [
+        "Agentic Coding在游戏开发领域的垂直应用",
+        "降低游戏开发门槛，非专业开发者也能参与",
+        "AI Agent驱动的游戏逻辑自动生成"
+      ],
+      "use_cases": ["游戏原型开发", "独立游戏开发", "AI辅助游戏设计"],
+      "risks": ["仅569星，游戏开发场景复杂度和开源项目的实际完成度存疑"]
+    },
+    "author": "leigest519",
+    "stars": 569,
+    "quality": "medium",
+    "score": 5,
+    "score_reason": "Agentic Coding+游戏的交叉方向有趣，但仅569星，游戏开发场景复杂度和开源项目的实际完成度存疑。"
+  }
+}

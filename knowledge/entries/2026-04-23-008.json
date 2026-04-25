@@ -1,0 +1,27 @@
+{
+  "id": "2026-04-23-008",
+  "title": "browser-use/browser-harness",
+  "source": "github_trending",
+  "source_url": "https://github.com/browser-use/browser-harness",
+  "summary": "自修复浏览器操控框架，使LLM能完成任意浏览器操作任务，适用于自动化测试和Agent交互。自修复机制自动处理DOM变化和异常，提升浏览器自动化鲁棒性，LLM驱动的通用浏览器操控不局限于预定义动作。",
+  "tags": ["browser-automation", "llm", "agent", "self-healing", "自动化测试", "Agent网页交互", "数据采集"],
+  "status": "analyzed",
+  "collected_at": "2026-04-23T09:00:00Z",
+  "metadata": {
+    "analyzed_at": "2026-04-23T09:05:00Z",
+    "analysis": {
+      "highlights": [
+        "自修复机制：自动处理DOM变化和异常，提升浏览器自动化鲁棒性",
+        "LLM驱动的通用浏览器操控，不局限于预定义动作",
+        "多场景覆盖：自动化测试、网页抓取、Agent网页交互"
+      ],
+      "use_cases": ["自动化测试", "Agent网页交互", "数据采集"],
+      "risks": []
+    },
+    "author": "browser-use",
+    "stars": 5600,
+    "quality": "high",
+    "score": 8,
+    "score_reason": "自修复浏览器自动化是Agent领域重要拼图，5600星验证需求，解决了LLM操控浏览器的核心稳定性问题，实用价值高。"
+  }
+}

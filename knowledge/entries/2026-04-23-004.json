@@ -1,0 +1,27 @@
+{
+  "id": "2026-04-23-004",
+  "title": "huggingface/ml-intern",
+  "source": "github_trending",
+  "source_url": "https://github.com/huggingface/ml-intern",
+  "summary": "Hugging Face自动化ML工程师，能读论文、训练模型并交付可用成果，降低ML门槛。端到端自动化覆盖从文献阅读到模型训练交付的完整ML工作流，面向非技术用户的降低门槛导向设计。",
+  "tags": ["ml", "automation", "ai", "auto-ml", "自动化ML", "模型实验", "降低ML门槛"],
+  "status": "analyzed",
+  "collected_at": "2026-04-23T09:00:00Z",
+  "metadata": {
+    "analyzed_at": "2026-04-23T09:05:00Z",
+    "analysis": {
+      "highlights": [
+        "Hugging Face官方出品，信用背书强",
+        "端到端自动化：从文献阅读到模型训练交付，覆盖完整ML工作流",
+        "降低ML开发门槛的非技术用户导向设计"
+      ],
+      "use_cases": ["自动化ML", "模型实验", "降低ML门槛"],
+      "risks": ["仅2051星说明尚处早期，实际交付质量待验证"]
+    },
+    "author": "huggingface",
+    "stars": 2051,
+    "quality": "medium",
+    "score": 7,
+    "score_reason": "概念前沿（自动化ML工程师），Hugging Face出品值得关注，但仅2051星说明尚处早期，实际交付质量待验证。"
+  }
+}

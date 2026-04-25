@@ -1,0 +1,27 @@
+{
+  "id": "2026-04-23-009",
+  "title": "alchaincyf/huashu-design",
+  "source": "github_trending",
+  "source_url": "https://github.com/alchaincyf/huashu-design",
+  "summary": "Claude Code的HTML原生设计技能，一键生成高保真原型和交互动画，扩展AI到UI设计。HTML原生输出无需额外编译或框架依赖即开即用，具备交互动画生成能力超越静态UI设计。",
+  "tags": ["design", "claude-code", "ui-prototype", "html", "UI原型设计", "快速设计迭代", "设计-开发一体化"],
+  "status": "analyzed",
+  "collected_at": "2026-04-23T09:00:00Z",
+  "metadata": {
+    "analyzed_at": "2026-04-23T09:05:00Z",
+    "analysis": {
+      "highlights": [
+        "HTML原生输出，无需额外编译或框架依赖，即开即用",
+        "交互动画生成能力，超越静态UI设计",
+        "将AI编码能力从功能实现扩展到UI/UX设计领域"
+      ],
+      "use_cases": ["UI原型设计", "快速设计迭代", "设计-开发一体化"],
+      "risks": ["与cc-design、web-design-skill高度同质，差异化不足"]
+    },
+    "author": "alchaincyf",
+    "stars": 5100,
+    "quality": "medium",
+    "score": 6,
+    "score_reason": "AI设计工具方向有价值，5100星说明有需求，但设计与后文cc-design、web-design-skill高度同质，差异化不足。"
+  }
+}

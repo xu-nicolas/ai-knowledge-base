@@ -1,0 +1,27 @@
+{
+  "id": "2026-04-23-007",
+  "title": "mksglu/context-mode",
+  "source": "github_trending",
+  "source_url": "https://github.com/mksglu/context-mode",
+  "summary": "通过沙盒化工具输出优化AI编码Agent上下文窗口，支持12平台，体积缩减98%。上下文体积缩减98%对长上下文场景有显著的token成本节省，沙盒化工具输出设计兼顾安全性与效率。",
+  "tags": ["context-optimization", "agent", "token-efficiency", "编码Agent优化", "长上下文处理", "成本控制"],
+  "status": "analyzed",
+  "collected_at": "2026-04-23T09:00:00Z",
+  "metadata": {
+    "analyzed_at": "2026-04-23T09:05:00Z",
+    "analysis": {
+      "highlights": [
+        "上下文体积缩减98%，对长上下文场景有显著的token成本节省",
+        "支持12个平台，跨平台兼容性强",
+        "沙盒化工具输出设计兼顾安全性与效率"
+      ],
+      "use_cases": ["编码Agent优化", "长上下文处理", "成本控制"],
+      "risks": ["核心算法细节和边界情况处理需进一步了解"]
+    },
+    "author": "mksglu",
+    "stars": 9144,
+    "quality": "high",
+    "score": 7,
+    "score_reason": "上下文优化是编码Agent的刚需（9144星验证），98%缩减数据亮眼，但核心算法细节和边界情况处理需进一步了解。"
+  }
+}

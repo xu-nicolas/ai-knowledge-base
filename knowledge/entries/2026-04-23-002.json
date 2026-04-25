@@ -1,0 +1,27 @@
+{
+  "id": "2026-04-23-002",
+  "title": "cline/cline",
+  "source": "github_trending",
+  "source_url": "https://github.com/cline/cline",
+  "summary": "IDE内自主编码Agent，支持文件操作、命令执行、浏览器交互全流程自动化。自主性设计实现从需求理解到代码产出的闭环自动化，非被动补全，多模态工具调用能力覆盖文件系统、终端和浏览器。",
+  "tags": ["agent", "coding-assistant", "autonomous-coding", "AI辅助开发", "代码自动化", "IDE增强"],
+  "status": "analyzed",
+  "collected_at": "2026-04-23T09:00:00Z",
+  "metadata": {
+    "analyzed_at": "2026-04-23T09:05:00Z",
+    "analysis": {
+      "highlights": [
+        "60693星遥遥领先，编码Agent赛道事实上的开源标杆",
+        "自主性设计：从需求理解到代码产出的闭环自动化，非被动补全",
+        "多模态工具调用能力（文件系统+终端+浏览器），工具链完整"
+      ],
+      "use_cases": ["AI辅助开发", "代码自动化", "IDE增强"],
+      "risks": []
+    },
+    "author": "cline",
+    "stars": 60693,
+    "quality": "high",
+    "score": 10,
+    "score_reason": "编码Agent范式转移级别项目，超高star数验证社区规模，自主编码能力代表开发范式的根本性转变，改变格局。"
+  }
+}

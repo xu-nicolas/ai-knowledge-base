@@ -1,0 +1,27 @@
+{
+  "id": "2026-04-23-003",
+  "title": "microsoft/onnxruntime",
+  "source": "github_trending",
+  "source_url": "https://github.com/microsoft/onnxruntime",
+  "summary": "微软开源跨平台ML推理加速引擎，支持多后端硬件，是AI模型部署的行业标准基础设施。广泛的硬件后端支持覆盖CPU、GPU、NPU、移动端全场景部署，同时支持推理与训练加速，生态成熟度高。",
+  "tags": ["ml", "inference", "onnx", "model-deployment", "模型部署", "边缘计算", "推理优化"],
+  "status": "analyzed",
+  "collected_at": "2026-04-23T09:00:00Z",
+  "metadata": {
+    "analyzed_at": "2026-04-23T09:05:00Z",
+    "analysis": {
+      "highlights": [
+        "20015星，微软背书，ML部署领域的行业标准基础设施",
+        "广泛的硬件后端支持（CPU/GPU/NPU/移动端），覆盖全场景部署",
+        "同时支持推理与训练加速，生态成熟度高"
+      ],
+      "use_cases": ["模型部署", "边缘计算", "推理优化"],
+      "risks": []
+    },
+    "author": "microsoft",
+    "stars": 20015,
+    "quality": "high",
+    "score": 9,
+    "score_reason": "AI部署基础设施的标杆项目，改变模型部署范式，2万星验证其不可替代性，属于改变格局的基础设施级项目。"
+  }
+}

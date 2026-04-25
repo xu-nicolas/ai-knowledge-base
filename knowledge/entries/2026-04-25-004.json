@@ -1,0 +1,30 @@
+{
+  "id": "2026-04-25-004",
+  "title": "browser-use/browser-use",
+  "source": "github_trending",
+  "source_url": "https://github.com/browser-use/browser-use",
+  "summary": "browser-use是一个开源框架,旨在让AI代理能够访问和自动化操作网站。该项目通过将网页转换为AI可理解的接口,实现AI agent对web应用的自动化控制,可用于网页任务自动化、数据采集、表单填写等场景。技术层面涉及浏览器自动化、DOM解析和AI决策系统的集成。",
+  "tags": [
+    "AI Agent",
+    "Web Automation",
+    "Browser Control",
+    "RPA",
+    "Open Source"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-04-25T04:02:56.853295+00:00",
+  "metadata": {
+    "published_at": "2026-04-25T01:08:00Z",
+    "analyzed_at": "2026-04-25T04:03:56.931218+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "browser-use",
+    "stars": 90062,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

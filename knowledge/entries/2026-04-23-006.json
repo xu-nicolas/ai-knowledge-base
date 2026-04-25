@@ -1,0 +1,27 @@
+{
+  "id": "2026-04-23-006",
+  "title": "kyegomez/OpenMythos",
+  "source": "github_trending",
+  "source_url": "https://github.com/kyegomez/OpenMythos",
+  "summary": "基于研究文献从第一性原理重建Claude Mythos架构，为大模型架构设计提供开源参考。第一性原理方法论从可用研究文献出发而非逆向工程，为理解和复现大模型架构提供开源学术参考实现。",
+  "tags": ["llm", "architecture", "open-research", "架构学习", "学术研究", "大模型理解"],
+  "status": "analyzed",
+  "collected_at": "2026-04-23T09:00:00Z",
+  "metadata": {
+    "analyzed_at": "2026-04-23T09:05:00Z",
+    "analysis": {
+      "highlights": [
+        "9400星反映社区对大模型架构透明度的高度关注",
+        "第一性原理方法论：从可用研究文献出发而非逆向工程",
+        "为理解和复现大模型架构提供开源学术参考实现"
+      ],
+      "use_cases": ["架构学习", "学术研究", "大模型理解"],
+      "risks": ["属于架构解析参考而非可直接使用的工具，实际应用场景有限"]
+    },
+    "author": "kyegomez",
+    "stars": 9400,
+    "quality": "medium",
+    "score": 6,
+    "score_reason": "学术价值高、社区关注度高（9400星），但属于架构解析参考而非可直接使用的工具，实际应用场景有限。"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "2026-04-23-014",
+  "title": "cosmicstack-labs/mercury-agent",
+  "source": "github_trending",
+  "source_url": "https://github.com/cosmicstack-labs/mercury-agent",
+  "summary": "具备权限硬化、Token预算管理和多渠道接入的AI Agent，支持CLI或Telegram 24/7运行。权限硬化工具面向生产环境的安全设计非玩具项目，Token预算管理控制Agent运行成本，多渠道接入加24/7运行体现生产就绪导向。",
+  "tags": ["agent", "security", "token-management", "automation", "生产Agent部署", "Agent安全治理", "自动化运维"],
+  "status": "analyzed",
+  "collected_at": "2026-04-23T09:00:00Z",
+  "metadata": {
+    "analyzed_at": "2026-04-23T09:05:00Z",
+    "analysis": {
+      "highlights": [
+        "权限硬化工具：面向生产环境的安全设计，非玩具项目",
+        "Token预算管理：控制Agent运行成本的关键能力",
+        "多渠道接入（CLI+Telegram）+ 24/7运行，生产就绪导向"
+      ],
+      "use_cases": ["生产Agent部署", "Agent安全治理", "自动化运维"],
+      "risks": ["556星偏低但项目设计思路成熟，需持续观察"]
+    },
+    "author": "cosmicstack-labs",
+    "stars": 556,
+    "quality": "high",
+    "score": 7,
+    "score_reason": "权限硬化和Token预算管理切中生产Agent的两大核心痛点，556星偏低但项目设计思路成熟，值得关注。"
+  }
+}

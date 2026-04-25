@@ -1,0 +1,27 @@
+{
+  "id": "2026-04-23-015",
+  "title": "brexhq/CrabTrap",
+  "source": "github_trending",
+  "source_url": "https://github.com/brexhq/CrabTrap",
+  "summary": "Brex开源LLM-as-a-judge HTTP代理，在生产环境审核AI Agent输出，防止不安全行为。LLM-as-a-judge模式用AI审核AI实现实时安全护栏，HTTP代理架构可无缝集成到任何Agent部署中。",
+  "tags": ["llm", "security", "agent", "llm-as-a-judge", "guardrails", "AI安全审核", "生产Agent防护", "合规检查"],
+  "status": "analyzed",
+  "collected_at": "2026-04-23T09:00:00Z",
+  "metadata": {
+    "analyzed_at": "2026-04-23T09:05:00Z",
+    "analysis": {
+      "highlights": [
+        "Brex（金融科技公司）出品，生产级AI安全审核方案",
+        "LLM-as-a-judge模式，用AI审核AI，实时安全护栏",
+        "HTTP代理架构，可无缝集成到任何Agent部署中"
+      ],
+      "use_cases": ["AI安全审核", "生产Agent防护", "合规检查"],
+      "risks": ["359星偏低但Brex金融场景背书强，需持续观察社区增长"]
+    },
+    "author": "brexhq",
+    "stars": 359,
+    "quality": "high",
+    "score": 8,
+    "score_reason": "AI Agent安全护栏是生产部署的必选项，359星偏低但Brex金融场景背书强，LLM-as-a-judge代理模式具有前瞻性。"
+  }
+}

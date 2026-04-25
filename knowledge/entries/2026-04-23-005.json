@@ -1,0 +1,27 @@
+{
+  "id": "2026-04-23-005",
+  "title": "zilliztech/claude-context",
+  "source": "github_trending",
+  "source_url": "https://github.com/zilliztech/claude-context",
+  "summary": "面向Claude Code的代码搜索MCP工具，将代码库作为上下文供给编码Agent。MCP协议实践标杆将代码搜索标准化为Agent可调用的工具，精准解决大模型理解大型代码库的痛点。",
+  "tags": ["mcp", "code-search", "claude", "agent-tooling", "代码理解", "编码Agent增强", "项目上下文注入"],
+  "status": "analyzed",
+  "collected_at": "2026-04-23T09:00:00Z",
+  "metadata": {
+    "analyzed_at": "2026-04-23T09:05:00Z",
+    "analysis": {
+      "highlights": [
+        "MCP协议实践标杆，将代码搜索标准化为Agent可调用的工具",
+        "8144星验证需求强烈，精准解决大模型理解大型代码库的痛点",
+        "Zilliz（向量数据库Milvus厂商）出品，检索能力有底层技术支撑"
+      ],
+      "use_cases": ["代码理解", "编码Agent增强", "项目上下文注入"],
+      "risks": ["依赖Claude Code生态"]
+    },
+    "author": "zilliztech",
+    "stars": 8144,
+    "quality": "high",
+    "score": 8,
+    "score_reason": "MCP协议+代码搜索的组合切中编码Agent核心痛点，8千星说明需求旺盛，实用价值高但依赖Claude Code生态。"
+  }
+}

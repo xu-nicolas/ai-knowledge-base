@@ -1,0 +1,30 @@
+{
+  "id": "2026-04-25-002",
+  "title": "NousResearch/hermes-agent",
+  "source": "github_trending",
+  "source_url": "https://github.com/NousResearch/hermes-agent",
+  "summary": "NousResearch/hermes-agent 是由知名AI研究组织 NousResearch 开发的智能代理框架。该项目遵循「与你一同成长」的设计理念，提供可扩展和自适应的AI代理能力，支持多种复杂任务处理场景，在GitHub趋势榜上获得广泛关注。",
+  "tags": [
+    "AI-Agent",
+    "NousResearch",
+    "机器学习",
+    "开源",
+    "GitHub-Trending"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-04-25T04:02:56.853292+00:00",
+  "metadata": {
+    "published_at": "2026-04-25T03:43:48Z",
+    "analyzed_at": "2026-04-25T04:03:36.892872+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "NousResearch",
+    "stars": 115402,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

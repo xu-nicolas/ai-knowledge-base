@@ -1,0 +1,27 @@
+{
+  "id": "2026-04-23-010",
+  "title": "OranAi-Ltd/oransim",
+  "source": "github_trending",
+  "source_url": "https://github.com/OranAi-Ltd/oransim",
+  "summary": "基于因果推断的营销数字孪生平台，预算投入前预测决策效果，提供AI量化依据。因果推断而非相关性分析提供可解释的营销决策依据，数字孪生方法论在营销领域的应用概念前沿。",
+  "tags": ["causal-inference", "digital-twin", "marketing-analytics", "营销决策", "预算优化", "A/B测试模拟"],
+  "status": "analyzed",
+  "collected_at": "2026-04-23T09:00:00Z",
+  "metadata": {
+    "analyzed_at": "2026-04-23T09:05:00Z",
+    "analysis": {
+      "highlights": [
+        "因果推断而非相关性分析，提供可解释的营销决策依据",
+        "数字孪生方法论在营销领域的应用，概念前沿",
+        "预算模拟能力帮助量化决策风险"
+      ],
+      "use_cases": ["营销决策", "预算优化", "A/B测试模拟"],
+      "risks": ["仅656星且营销垂直领域受众窄，技术通用性和开源社区活跃度有限"]
+    },
+    "author": "OranAi-Ltd",
+    "stars": 656,
+    "quality": "medium",
+    "score": 5,
+    "score_reason": "因果推断+数字孪生概念新颖，但仅656星且营销垂直领域受众窄，技术通用性和开源社区活跃度有限。"
+  }
+}

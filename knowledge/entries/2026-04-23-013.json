@@ -1,0 +1,27 @@
+{
+  "id": "2026-04-23-013",
+  "title": "ZeroZ-lab/cc-design",
+  "source": "github_trending",
+  "source_url": "https://github.com/ZeroZ-lab/cc-design",
+  "summary": "为AI Agent提供高保真HTML设计与原型生成能力，支持快速产出可交互UI原型。可交互原型而非静态设计图更接近真实产品，快速设计迭代能力适合产品设计敏捷流程。",
+  "tags": ["design", "ai", "prototype", "ui", "产品原型", "设计迭代", "AI辅助设计"],
+  "status": "analyzed",
+  "collected_at": "2026-04-23T09:00:00Z",
+  "metadata": {
+    "analyzed_at": "2026-04-23T09:05:00Z",
+    "analysis": {
+      "highlights": [
+        "可交互原型而非静态设计图，更接近真实产品",
+        "快速设计迭代能力，适合产品设计敏捷流程",
+        "AI Agent集成设计，支持工作流自动化"
+      ],
+      "use_cases": ["产品原型", "设计迭代", "AI辅助设计"],
+      "risks": ["608星较低且与huashu-design、web-design-skill三个设计工具严重同质，缺乏明显差异化"]
+    },
+    "author": "ZeroZ-lab",
+    "stars": 608,
+    "quality": "medium",
+    "score": 5,
+    "score_reason": "高保真原型生成有实用价值，但608星较低且与huashu-design、web-design-skill三个设计工具严重同质，缺乏明显差异化。"
+  }
+}

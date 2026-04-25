@@ -1,0 +1,127 @@
+{
+  "source": "github_trending",
+  "skill": "github-trending",
+  "collected_at": "2026-04-23T09:00:00Z",
+  "items": [
+    {
+      "name": "HKUDS/RAG-Anything",
+      "url": "https://github.com/HKUDS/RAG-Anything",
+      "summary": "RAG-Anything 是一个全能的 RAG（检索增强生成）框架，整合多种数据源的检索与生成能力，适用于构建端到端的智能问答系统。",
+      "stars": 17936,
+      "language": "Python",
+      "topics": ["rag", "ai", "framework"]
+    },
+    {
+      "name": "cline/cline",
+      "url": "https://github.com/cline/cline",
+      "summary": "Cline 是集成在 IDE 中的自主编码 Agent，能够自动创建/编辑文件、执行命令、使用浏览器，实现从需求到代码的全流程自动化。",
+      "stars": 60693,
+      "language": "TypeScript",
+      "topics": ["agent", "coding-assistant", "ai"]
+    },
+    {
+      "name": "microsoft/onnxruntime",
+      "url": "https://github.com/microsoft/onnxruntime",
+      "summary": "ONNX Runtime 是微软开源的跨平台高性能 ML 推理与训练加速引擎，支持多种后端硬件，是部署 AI 模型的行业标准基础设施。",
+      "stars": 20015,
+      "language": "C++",
+      "topics": ["ml", "inference", "onnx", "ai"]
+    },
+    {
+      "name": "huggingface/ml-intern",
+      "url": "https://github.com/huggingface/ml-intern",
+      "summary": "ml-intern 是 Hugging Face 开源的自动化 ML 工程师，能够阅读论文、训练模型并交付可用的 ML 成果，大幅降低 ML 开发门槛。",
+      "stars": 2051,
+      "language": "Python",
+      "topics": ["ml", "automation", "ai"]
+    },
+    {
+      "name": "zilliztech/claude-context",
+      "url": "https://github.com/zilliztech/claude-context",
+      "summary": "claude-context 是面向 Claude Code 的代码搜索 MCP 工具，将整个代码库作为上下文供给编码 Agent，提升大模型对项目的理解能力。",
+      "stars": 8144,
+      "language": "TypeScript",
+      "topics": ["mcp", "code-search", "ai", "claude"]
+    },
+    {
+      "name": "kyegomez/OpenMythos",
+      "url": "https://github.com/kyegomez/OpenMythos",
+      "summary": "OpenMythos 基于可用研究文献，从第一性原理出发重建 Claude Mythos 架构，为理解和复现大模型架构设计提供开源参考实现。",
+      "stars": 9400,
+      "language": "Python",
+      "topics": ["ai", "llm", "architecture"]
+    },
+    {
+      "name": "mksglu/context-mode",
+      "url": "https://github.com/mksglu/context-mode",
+      "summary": "context-mode 通过沙盒化工具输出实现 AI 编码 Agent 的上下文窗口优化，支持 12 个平台，可将上下文体积缩减 98%。",
+      "stars": 9144,
+      "language": "TypeScript",
+      "topics": ["ai", "context-optimization", "agent"]
+    },
+    {
+      "name": "browser-use/browser-harness",
+      "url": "https://github.com/browser-use/browser-harness",
+      "summary": "browser-harness 是自修复的浏览器操控框架，使 LLM 能够完成任意浏览器操作任务，适用于自动化测试、网页抓取和 Agent 交互。",
+      "stars": 5600,
+      "language": "Python",
+      "topics": ["browser-automation", "llm", "agent"]
+    },
+    {
+      "name": "alchaincyf/huashu-design",
+      "url": "https://github.com/alchaincyf/huashu-design",
+      "summary": "Huashu Design 是 Claude Code 的 HTML 原生设计技能，可一键生成高保真原型和交互动画，将 AI 编码能力扩展到 UI/UX 设计领域。",
+      "stars": 5100,
+      "language": "HTML",
+      "topics": ["design", "ai", "claude-code"]
+    },
+    {
+      "name": "OranAi-Ltd/oransim",
+      "url": "https://github.com/OranAi-Ltd/oransim",
+      "summary": "oransim 是基于因果推断的营销数字孪生平台，能够在投入预算前预测各类营销决策的效果，为市场投放提供 AI 驱动的量化依据。",
+      "stars": 656,
+      "language": "Python",
+      "topics": ["ai", "marketing", "digital-twin"]
+    },
+    {
+      "name": "ConardLi/web-design-skill",
+      "url": "https://github.com/ConardLi/web-design-skill",
+      "summary": "web-design-skill 是一个 AI Agent 技能插件，能将 AI 生成的网页从"可用"提升到"精美"级别，显著改善 AI 前端设计产出质量。",
+      "stars": 626,
+      "language": "TypeScript",
+      "topics": ["design", "ai", "agent"]
+    },
+    {
+      "name": "leigest519/OpenGame",
+      "url": "https://github.com/leigest519/OpenGame",
+      "summary": "OpenGame 是面向游戏开发的 Agentic Coding 框架，通过 AI Agent 自动化完成游戏逻辑编码，降低游戏开发的技术门槛。",
+      "stars": 569,
+      "language": "Python",
+      "topics": ["agent", "gaming", "ai"]
+    },
+    {
+      "name": "ZeroZ-lab/cc-design",
+      "url": "https://github.com/ZeroZ-lab/cc-design",
+      "summary": "cc-design 为 AI Agent 提供高保真 HTML 设计与原型生成能力，支持快速产出可交互的 UI 原型，适合产品设计迭代场景。",
+      "stars": 608,
+      "language": "TypeScript",
+      "topics": ["design", "ai", "prototype"]
+    },
+    {
+      "name": "cosmicstack-labs/mercury-agent",
+      "url": "https://github.com/cosmicstack-labs/mercury-agent",
+      "summary": "Mercury Agent 是具有权限硬化工具、Token 预算管理和多渠道接入的 AI Agent，支持通过 CLI 或 Telegram 24/7 不间断运行。",
+      "stars": 556,
+      "language": "Python",
+      "topics": ["agent", "ai", "automation"]
+    },
+    {
+      "name": "brexhq/CrabTrap",
+      "url": "https://github.com/brexhq/CrabTrap",
+      "summary": "CrabTrap 是 Brex 开源的 LLM-as-a-judge HTTP 代理，用于在生产环境中对 AI Agent 的输出进行安全审核，防止恶意或不安全行为。",
+      "stars": 359,
+      "language": "TypeScript",
+      "topics": ["llm", "security", "agent"]
+    }
+  ]
+}

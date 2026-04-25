@@ -1,0 +1,27 @@
+{
+  "id": "2026-04-23-001",
+  "title": "HKUDS/RAG-Anything",
+  "source": "github_trending",
+  "source_url": "https://github.com/HKUDS/RAG-Anything",
+  "summary": "全能RAG框架，整合多数据源检索与生成，适用于构建端到端智能问答系统。全数据源整合能力覆盖结构化、非结构化、多模态数据，端到端架构设计从数据接入到问答生成一站式完成。",
+  "tags": ["rag", "llm", "information-retrieval", "智能问答", "知识库构建", "企业搜索"],
+  "status": "analyzed",
+  "collected_at": "2026-04-23T09:00:00Z",
+  "metadata": {
+    "analyzed_at": "2026-04-23T09:05:00Z",
+    "analysis": {
+      "highlights": [
+        "17936星验证社区认可，香港大学数据科学实验室出品",
+        "全数据源整合能力，覆盖结构化/非结构化/多模态数据",
+        "端到端架构设计，从数据接入到问答生成一站式完成"
+      ],
+      "use_cases": ["智能问答", "知识库构建", "企业搜索"],
+      "risks": ["RAG框架赛道已成熟（LangChain/llama-index等），属优秀但非颠覆性"]
+    },
+    "author": "HKUDS",
+    "stars": 17936,
+    "quality": "high",
+    "score": 8,
+    "score_reason": "RAG领域标杆项目，star数高、架构完整，但RAG框架赛道已成熟（LangChain/llama-index等），属优秀但非颠覆性。"
+  }
+}

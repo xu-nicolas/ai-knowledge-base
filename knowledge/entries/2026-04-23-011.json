@@ -1,0 +1,27 @@
+{
+  "id": "2026-04-23-011",
+  "title": "ConardLi/web-design-skill",
+  "source": "github_trending",
+  "source_url": "https://github.com/ConardLi/web-design-skill",
+  "summary": "AI Agent技能插件，将AI生成网页从「可用」提升到「精美」，改善AI前端设计质量。精准定位AI设计产出的质量痛点，Agent技能插件架构可插拔集成到现有Agent工作流，专注于视觉和设计质量的专项提升。",
+  "tags": ["design", "ai", "agent", "frontend", "AI前端质量提升", "设计优化", "Agent技能扩展"],
+  "status": "analyzed",
+  "collected_at": "2026-04-23T09:00:00Z",
+  "metadata": {
+    "analyzed_at": "2026-04-23T09:05:00Z",
+    "analysis": {
+      "highlights": [
+        "精准定位AI设计产出的质量痛点：可用但不够精美",
+        "Agent技能插件架构，可插拔集成到现有Agent工作流",
+        "专注于视觉和设计质量的专项提升"
+      ],
+      "use_cases": ["AI前端质量提升", "设计优化", "Agent技能扩展"],
+      "risks": ["仅626星且与同赛道多个设计工具高度同质，差异化和技术深度有限"]
+    },
+    "author": "ConardLi",
+    "stars": 626,
+    "quality": "medium",
+    "score": 5,
+    "score_reason": "解决AI设计质量痛点，概念明确，但仅626星且与同赛道多个设计工具高度同质，差异化和技术深度有限。"
+  }
+}

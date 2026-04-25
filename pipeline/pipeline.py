@@ -46,7 +46,7 @@ def collect_github(limit: int = 10) -> list[dict[str, Any]]:
     if token:
         headers["Authorization"] = f"Bearer {token}"
 
-    query = "AI agent llm language:python pushed:>2026-04-18"
+    query = "AI OR agent OR llm OR mcp OR rag OR agentic language:python pushed:>2026-04-18"
     url = "https://api.github.com/search/repositories"
     params = {
         "q": query,

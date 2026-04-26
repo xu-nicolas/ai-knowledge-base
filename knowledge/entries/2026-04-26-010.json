@@ -1,0 +1,30 @@
+{
+  "id": "2026-04-26-010",
+  "title": "Transformers are Inherently Succinct",
+  "source": "hacker_news",
+  "source_url": "https://arxiv.org/abs/2510.19315",
+  "summary": "这篇来自Hacker News的技术讨论围绕Transformer架构的理论分析展开，指出Transformer模型在设计上具有内在的简洁性。研究者探讨了Transformer的容量和表达能力与其参数规模之间的关系，挑战了Transformer计算成本高昂的常见认知。",
+  "tags": [
+    "transformers",
+    "neural-network",
+    "deep-learning",
+    "model-efficiency",
+    "architecture"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-04-26T01:21:16.307825+00:00",
+  "metadata": {
+    "published_at": "2026-04-26T01:21:16.307825+00:00",
+    "analyzed_at": "2026-04-26T01:24:36.336998+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Lobsters (AI/ML)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

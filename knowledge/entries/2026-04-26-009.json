@@ -1,0 +1,30 @@
+{
+  "id": "2026-04-26-009",
+  "title": "South Korea police arrest man for posting AI photo of runaway wolf",
+  "source": "hacker_news",
+  "source_url": "https://www.bbc.com/news/articles/c4gx1n0dl9no",
+  "summary": "韩国警方逮捕了一名因发布 AI 生成狼逃跑照片的男子，这反映了 AI 生成内容（AIGC）在实际应用中引发的法律和监管问题。该事件突显了深度伪造和 AI 生成图像技术带来的伦理挑战，以及各国正在加强对 AI 生成内容传播的管控。",
+  "tags": [
+    "AIGC",
+    "深度伪造",
+    "AI监管",
+    "图像生成",
+    "法律案例"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-04-26T01:21:15.866279+00:00",
+  "metadata": {
+    "published_at": "2026-04-26T01:21:15.866279+00:00",
+    "analyzed_at": "2026-04-26T01:24:29.554949+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Hacker News (Best)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "2026-04-26-006",
+  "title": "The AI industry is discovering that the public hates it",
+  "source": "hacker_news",
+  "source_url": "https://newrepublic.com/article/209163/ai-industry-discovering-public-backlash",
+  "summary": "文章讨论了AI行业近期面临公众负面态度上升的问题，反映了社会对AI技术快速发展带来的隐私、就业、伦理等担忧。Hacker News社区对此展开了热烈讨论，关注AI企业如何应对日益增长的公众不信任感。",
+  "tags": [
+    "AI社会影响",
+    "公众舆论",
+    "AI伦理",
+    "技术接受度"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-04-26T01:21:15.866257+00:00",
+  "metadata": {
+    "published_at": "2026-04-26T01:21:15.866257+00:00",
+    "analyzed_at": "2026-04-26T01:24:08.911982+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Hacker News (Best)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

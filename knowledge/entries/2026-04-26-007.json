@@ -1,0 +1,30 @@
+{
+  "id": "2026-04-26-007",
+  "title": "Show HN: A Karpathy-style LLM wiki your agents maintain (Markdown and Git)",
+  "source": "hacker_news",
+  "source_url": "https://github.com/nex-crm/wuphf",
+  "summary": "这是一个基于 Markdown 和 Git 的 wiki 系统，由 AI agent 自动维护，灵感来源于 Andrej Karpathy 的教育风格。项目旨在让大语言模型能够创建、编辑和组织技术文档，适合作为 AI agent 的知识管理工具或团队协作平台。",
+  "tags": [
+    "llm",
+    "agents",
+    "wiki",
+    "markdown",
+    "git"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-04-26T01:21:15.866272+00:00",
+  "metadata": {
+    "published_at": "2026-04-26T01:21:15.866272+00:00",
+    "analyzed_at": "2026-04-26T01:24:14.879690+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Hacker News (Best)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

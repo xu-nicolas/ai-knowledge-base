@@ -1,0 +1,29 @@
+{
+  "id": "2026-04-26-011",
+  "title": "Build yourself flowers",
+  "source": "hacker_news",
+  "source_url": "https://vickiboykis.com/2026/04/20/build-yourself-flowers/",
+  "summary": "这是一个关于使用编程和AI技术生成花卉图像的项目，展示了生成式AI在创意艺术领域的应用，可能涉及GANs或扩散模型等技术实现花卉图像的自动化生成。",
+  "tags": [
+    "generative-art",
+    "AI-art",
+    "creative-coding",
+    "python"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-04-26T01:21:16.307838+00:00",
+  "metadata": {
+    "published_at": "2026-04-26T01:21:16.307838+00:00",
+    "analyzed_at": "2026-04-26T01:24:41.074862+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Lobsters (AI/ML)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

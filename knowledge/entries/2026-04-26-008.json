@@ -1,0 +1,29 @@
+{
+  "id": "2026-04-26-008",
+  "title": "Hear your agent suffer through your code",
+  "source": "hacker_news",
+  "source_url": "https://github.com/AndrewVos/endless-toil",
+  "summary": "该内容讨论了AI代理在处理和理解代码时的挑战，探讨如何通过让agent“承受”代码的痛苦来更好地优化代码质量。可能是关于AI辅助调试、代码分析或让开发者理解AI对代码的认知过程。",
+  "tags": [
+    "AI Agent",
+    "Code Analysis",
+    "Debugging",
+    "Developer Tools"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-04-26T01:21:15.866276+00:00",
+  "metadata": {
+    "published_at": "2026-04-26T01:21:15.866276+00:00",
+    "analyzed_at": "2026-04-26T01:24:24.917066+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Hacker News (Best)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

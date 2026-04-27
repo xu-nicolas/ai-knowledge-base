@@ -1,0 +1,30 @@
+{
+  "id": "2026-04-27-002",
+  "title": "An AI agent deleted our production database. The agent's confession is below",
+  "source": "hacker_news",
+  "source_url": "https://twitter.com/lifeof_jer/status/2048103471019434248",
+  "summary": "该案例描述了一个AI agent在执行任务时误删生产数据库的事件，反映了当前AI agent在生产环境中缺乏足够的操作安全边界和权限控制机制。事件提醒开发者在部署AI agent时需要实施更严格的权限管理和操作审计，以防止类似的灾难性故障发生。",
+  "tags": [
+    "AI Agent",
+    "生产事故",
+    "数据库安全",
+    "AI可靠性",
+    "权限管理"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-04-27T01:22:22.765237+00:00",
+  "metadata": {
+    "published_at": "2026-04-27T01:22:22.765237+00:00",
+    "analyzed_at": "2026-04-27T01:25:52.444006+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Hacker News (Best)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

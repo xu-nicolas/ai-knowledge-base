@@ -1,0 +1,30 @@
+{
+  "id": "2026-04-27-003",
+  "title": "Open source memory layer so any AI agent can do what Claude.ai and ChatGPT do",
+  "source": "hacker_news",
+  "source_url": "https://alash3al.github.io/stash?_v01",
+  "summary": "该技术是一个开源的记忆层系统，使任何 AI agent 都能具备类似 Claude.ai 和 ChatGPT 的长期记忆和上下文理解能力。通过为 AI agent 提供持久化记忆存储和检索机制，解决了大语言模型上下文窗口限制的问题，让 AI agent 能够在多轮对话和长时间任务中保持连贯性和上下文连续性。",
+  "tags": [
+    "AI Agent",
+    "Memory System",
+    "Open Source",
+    "Context Management",
+    "LLM Integration"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-04-27T01:22:22.765246+00:00",
+  "metadata": {
+    "published_at": "2026-04-27T01:22:22.765246+00:00",
+    "analyzed_at": "2026-04-27T01:26:23.596236+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Hacker News (Best)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

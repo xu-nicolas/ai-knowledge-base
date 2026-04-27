@@ -1,0 +1,29 @@
+{
+  "id": "2026-04-27-001",
+  "title": "AI should elevate your thinking, not replace it",
+  "source": "hacker_news",
+  "source_url": "https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/",
+  "summary": "该讨论强调AI应作为人类思维的增强工具而非替代品，聚焦于人机协作的最佳实践。核心观点认为有效的AI应用应当扩展用户的认知能力，同时保留人类在创造性思维和批判性分析方面的核心角色。这一理念反映了当前AI发展中对Human-AI Collaboration的重视。",
+  "tags": [
+    "human_ai_collaboration",
+    "ai_philosophy",
+    "cognitive_enhancement",
+    "productivity_tools"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-04-27T01:22:22.765223+00:00",
+  "metadata": {
+    "published_at": "2026-04-27T01:22:22.765223+00:00",
+    "analyzed_at": "2026-04-27T01:25:42.874092+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Hacker News (Best)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

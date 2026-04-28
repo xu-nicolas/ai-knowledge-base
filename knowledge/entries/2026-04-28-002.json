@@ -1,0 +1,30 @@
+{
+  "id": "2026-04-28-002",
+  "title": "China blocks Meta's acquisition of AI startup Manus",
+  "source": "hacker_news",
+  "source_url": "https://www.cnbc.com/2026/04/27/meta-manus-china-blocks-acquisition-ai-startup.html",
+  "summary": "中国监管机构阻止Meta收购AI创业公司Manus，反映出跨境AI技术交易面临更严格的监管审查。该事件涉及AI核心技术和数据安全考量，可能对中国AI生态系统产生深远影响，并凸显全球AI领域的投资限制趋势。",
+  "tags": [
+    "AI",
+    "M&A",
+    "regulation",
+    "data security",
+    "cross-border investment"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-04-28T01:28:42.183263+00:00",
+  "metadata": {
+    "published_at": "2026-04-28T01:28:42.183263+00:00",
+    "analyzed_at": "2026-04-28T01:32:27.609269+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Hacker News (Best)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

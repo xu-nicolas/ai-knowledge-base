@@ -1,0 +1,30 @@
+{
+  "id": "2026-04-28-004",
+  "title": "TurboQuant: A First-Principles Walkthrough",
+  "source": "hacker_news",
+  "source_url": "https://arkaung.github.io/interactive-turboquant/",
+  "summary": "TurboQuant是一个基于第一性原理的量化分析工具或教程项目，从基础概念出发讲解量化技术的核心原理与应用实践。该内容可能涵盖量化交易的数学基础、算法设计或数据处理方法，适合希望深入理解量化技术本质的技术人员学习参考。",
+  "tags": [
+    "量化分析",
+    "量化交易",
+    "教程",
+    "第一性原理",
+    "算法"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-04-28T01:28:42.344681+00:00",
+  "metadata": {
+    "published_at": "2026-04-28T01:28:42.344681+00:00",
+    "analyzed_at": "2026-04-28T01:33:07.802246+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Lobsters (AI/ML)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

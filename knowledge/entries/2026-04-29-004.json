@@ -1,0 +1,30 @@
+{
+  "id": "2026-04-29-004",
+  "title": "Introducing talkie: a 13B vintage language model from 1930",
+  "source": "hacker_news",
+  "source_url": "https://talkie-lm.com/introducing-talkie",
+  "summary": "这是一个来自Hacker News的创意性项目，标题暗示了一个虚构的1930年代13B参数语言模型。内容可能包含对现代AI技术的讽刺性评论，或者是对早期计算历史的创意性重现，体现了技术社区对AI发展的反思与幽默。",
+  "tags": [
+    "AI",
+    "语言模型",
+    "讽刺",
+    "Hacker News",
+    "创意项目"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-04-29T01:44:59.921347+00:00",
+  "metadata": {
+    "published_at": "2026-04-29T01:44:59.921347+00:00",
+    "analyzed_at": "2026-04-29T01:49:45.894002+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Lobsters (AI/ML)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

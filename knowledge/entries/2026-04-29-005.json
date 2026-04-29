@@ -1,0 +1,30 @@
+{
+  "id": "2026-04-29-005",
+  "title": "Ditching GitHub",
+  "source": "hacker_news",
+  "source_url": "https://lonami.dev/blog/ditching-github/",
+  "summary": "本文讨论了开发者放弃使用GitHub平台的决定，可能涉及对平台政策、数据隐私或开源生态的考量。文章来自Hacker News社区，反映了开发者社区对主流代码托管平台的讨论和反思。内容可能包含对GitHub替代方案的推荐或个人使用体验分享。",
+  "tags": [
+    "GitHub",
+    "开发者工具",
+    "开源社区",
+    "版本控制",
+    "平台迁移"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-04-29T01:44:59.921359+00:00",
+  "metadata": {
+    "published_at": "2026-04-29T01:44:59.921359+00:00",
+    "analyzed_at": "2026-04-29T01:49:55.257688+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Lobsters (AI/ML)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

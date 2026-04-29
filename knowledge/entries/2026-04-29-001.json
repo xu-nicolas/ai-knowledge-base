@@ -1,0 +1,30 @@
+{
+  "id": "2026-04-29-001",
+  "title": "Claude.ai unavailable and elevated errors on the API",
+  "source": "hacker_news",
+  "source_url": "https://status.claude.com/incidents/9l93x2ht4s5w",
+  "summary": "Claude.ai服务近期出现不可用情况，API错误率显著升高。该问题可能影响依赖Anthropic API的应用程序和服务正常运行，开发者可能需要检查API调用日志并关注官方状态更新。",
+  "tags": [
+    "Claude.ai",
+    "API故障",
+    "服务可用性",
+    "服务中断",
+    "技术问题"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-04-29T01:44:59.753796+00:00",
+  "metadata": {
+    "published_at": "2026-04-29T01:44:59.753796+00:00",
+    "analyzed_at": "2026-04-29T01:48:47.896144+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Hacker News (Best)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

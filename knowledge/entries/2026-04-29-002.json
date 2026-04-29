@@ -1,0 +1,30 @@
+{
+  "id": "2026-04-29-002",
+  "title": "Google and Pentagon reportedly agree on deal for 'any lawful' use of AI",
+  "source": "hacker_news",
+  "source_url": "https://www.theverge.com/ai-artificial-intelligence/919494/google-pentagon-classified-ai-deal",
+  "summary": "Google 与美国五角大楼达成 AI 合作协议，授权军方在「任何合法」范围内使用其 AI 技术。此举延续了 Google 之前的军事 AI 合作项目，引发关于 AI 军事化应用和科技公司伦理边界的讨论。",
+  "tags": [
+    "AI",
+    "军事科技",
+    "Google",
+    "国防合同",
+    "AI伦理"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-04-29T01:44:59.753815+00:00",
+  "metadata": {
+    "published_at": "2026-04-29T01:44:59.753815+00:00",
+    "analyzed_at": "2026-04-29T01:48:56.111751+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Hacker News (Best)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

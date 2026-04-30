@@ -1,0 +1,29 @@
+{
+  "id": "2026-04-30-002",
+  "title": "Triton language for Huawei Ascend",
+  "source": "hacker_news",
+  "source_url": "https://github.com/triton-lang/triton-ascend",
+  "summary": "Triton是由OpenAI开发的开源编程语言，专门用于编写高效的深度学习计算核。该项目探索将Triton语言适配到华为Ascend昇腾AI加速器平台，实现跨硬件的统一深度学习内核开发，这对于减少针对不同AI硬件的重复开发工作具有重要意义。",
+  "tags": [
+    "Triton",
+    "Huawei Ascend",
+    "Deep Learning Compilation",
+    "AI Hardware"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-04-30T01:30:29.134166+00:00",
+  "metadata": {
+    "published_at": "2026-04-30T01:30:29.134166+00:00",
+    "analyzed_at": "2026-04-30T01:34:52.919789+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Lobsters (AI/ML)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "2026-04-30-001",
+  "title": "Localisation Engineering Platform",
+  "source": "hacker_news",
+  "source_url": "https://lingo.dev/en/blog/introducing-lingodotdev-v1",
+  "summary": "A technical platform designed to streamline and automate software localisation workflows, likely integrating translation management systems, automated testing, and continuous integration pipelines to support multilingual product releases efficiently.",
+  "tags": [
+    "localisation",
+    "i18n",
+    "automation",
+    "devops",
+    "translation"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-04-30T01:30:29.134155+00:00",
+  "metadata": {
+    "published_at": "2026-04-30T01:30:29.134155+00:00",
+    "analyzed_at": "2026-04-30T01:34:38.575234+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Lobsters (AI/ML)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

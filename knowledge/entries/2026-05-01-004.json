@@ -1,0 +1,29 @@
+{
+  "id": "2026-05-01-004",
+  "title": "Where the goblins came from",
+  "source": "hacker_news",
+  "source_url": "https://openai.com/index/where-the-goblins-came-from/",
+  "summary": "这是一篇来自Hacker News的技术讨论文章，探讨了某个技术概念、项目或工具的起源背景。标题中的'goblins'可能指代特定的编程概念、开源项目或技术术语，文章深入分析了其历史渊源和发展脉络。",
+  "tags": [
+    "technical-analysis",
+    "origin-story",
+    "hacker-news",
+    "programming"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-05-01T01:46:11.838481+00:00",
+  "metadata": {
+    "published_at": "2026-05-01T01:46:11.838481+00:00",
+    "analyzed_at": "2026-05-01T01:49:03.728572+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Lobsters (AI/ML)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

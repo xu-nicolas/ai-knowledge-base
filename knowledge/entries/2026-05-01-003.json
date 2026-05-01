@@ -1,0 +1,30 @@
+{
+  "id": "2026-05-01-003",
+  "title": "Porting microgpt to Futhark, Part I",
+  "source": "hacker_news",
+  "source_url": "https://www.kmjn.org/notes/microgpt_futhark.html",
+  "summary": "作者将 microgpt（一个简化的 GPT 实现）移植到 Futhark 函数式数组编程语言中。文章探讨了从传统编程语言到函数式编程语言的移植挑战，包括性能优化和语言特性适配。作为系列文章的第一部分，为后续深入技术细节奠定基础。",
+  "tags": [
+    "Futhark",
+    "microgpt",
+    "函数式编程",
+    "AI移植",
+    "性能优化"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-05-01T01:46:11.838469+00:00",
+  "metadata": {
+    "published_at": "2026-05-01T01:46:11.838469+00:00",
+    "analyzed_at": "2026-05-01T01:48:52.133010+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Lobsters (AI/ML)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "2026-05-01-006",
+  "title": "AI Terminology is Poorly Defined and Oft Misused",
+  "source": "hacker_news",
+  "source_url": "https://vale.rocks/posts/ai-terminology",
+  "summary": "文章讨论了当前AI领域术语定义混乱、概念被滥用的现象，涵盖了机器学习、深度学习、神经网络等核心概念在不同场景下的误用问题。作者指出这种术语不规范现象不仅影响专业交流，还可能导致公众对AI技术的误解，对于技术从业者和研究人员准确理解和使用AI术语具有重要参考价值。",
+  "tags": [
+    "AI",
+    "terminology",
+    "nomenclature",
+    "technical-writing",
+    "machine-learning"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-05-01T01:46:11.838487+00:00",
+  "metadata": {
+    "published_at": "2026-05-01T01:46:11.838487+00:00",
+    "analyzed_at": "2026-05-01T01:49:21.857119+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Lobsters (AI/ML)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

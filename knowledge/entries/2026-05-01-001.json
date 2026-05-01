@@ -1,0 +1,30 @@
+{
+  "id": "2026-05-01-001",
+  "title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
+  "source": "hacker_news",
+  "source_url": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/",
+  "summary": "在PyTorch Lightning AI训练库中发现了以《沙丘》中沙虫\"Shai-Hulud\"命名的恶意软件，这是一个针对AI/ML框架的安全威胁事件。该恶意软件通过PyTorch Lightning的依赖链植入，可能影响使用该库进行模型训练的开发者。",
+  "tags": [
+    "malware",
+    "security",
+    "pytorch",
+    "machine-learning",
+    "vulnerability"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-05-01T01:46:09.905074+00:00",
+  "metadata": {
+    "published_at": "2026-05-01T01:46:09.905074+00:00",
+    "analyzed_at": "2026-05-01T01:48:37.648099+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Hacker News (Best)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

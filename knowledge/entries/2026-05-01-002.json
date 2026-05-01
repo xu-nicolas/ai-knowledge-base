@@ -1,0 +1,30 @@
+{
+  "id": "2026-05-01-002",
+  "title": "The Zig project's rationale for their anti-AI contribution policy",
+  "source": "hacker_news",
+  "source_url": "https://simonwillison.net/2026/Apr/30/zig-anti-ai/",
+  "summary": "Zig编程语言项目制定了明确的反AI贡献政策，要求贡献者不使用AI生成的代码，并严格审查代码来源。该政策反映了开源社区对AI生成代码质量、版权和伦理问题的担忧，旨在维护代码库的质量标准和贡献者的信任。",
+  "tags": [
+    "开源治理",
+    "AI政策",
+    "编程语言",
+    "代码质量",
+    "软件开发"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-05-01T01:46:09.905089+00:00",
+  "metadata": {
+    "published_at": "2026-05-01T01:46:09.905089+00:00",
+    "analyzed_at": "2026-05-01T01:48:42.912048+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Hacker News (Best)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

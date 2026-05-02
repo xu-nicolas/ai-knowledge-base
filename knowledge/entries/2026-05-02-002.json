@@ -1,0 +1,31 @@
+{
+  "id": "2026-05-02-002",
+  "title": "Uber torches 2026 AI budget on Claude Code in four months",
+  "source": "hacker_news",
+  "source_url": "https://www.briefs.co/news/uber-torches-entire-2026-ai-budget-on-claude-code-in-four-months/",
+  "summary": "据Hacker News报道，Uber在2026年AI预算中，仅四个月内就因使用Claude Code而耗尽了全部预算。此事件反映了企业级AI应用成本控制的挑战，以及AI编程助手在软件开发中的广泛应用。Claude Code作为Anthropic推出的AI代码助手，其企业采用速度快但成本管理也成为新的关注点。",
+  "tags": [
+    "Claude Code",
+    "AI成本",
+    "企业AI",
+    "Anthropic",
+    "预算管理",
+    "软件开发"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-05-02T01:24:00.040291+00:00",
+  "metadata": {
+    "published_at": "2026-05-02T01:24:00.040291+00:00",
+    "analyzed_at": "2026-05-02T01:28:09.287394+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Hacker News (Best)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

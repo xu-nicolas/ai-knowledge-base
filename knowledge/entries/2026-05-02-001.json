@@ -1,0 +1,30 @@
+{
+  "id": "2026-05-02-001",
+  "title": "AI uses less water than the public thinks",
+  "source": "hacker_news",
+  "source_url": "https://californiawaterblog.com/2026/04/26/ai-water-use-distractions-and-lessons-for-california/",
+  "summary": "研究表明AI系统的水消耗量比公众普遍认知的要少。研究显示数据中心在冷却过程中会消耗大量水，但AI模型训练的水足迹相对于其他行业应用并不显著。公众对AI环境影响的担忧往往被夸大，实际水消耗数据需要更透明的披露。",
+  "tags": [
+    "AI环境",
+    "水资源",
+    "数据中心",
+    "可持续发展",
+    "公众认知"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-05-02T01:24:00.040277+00:00",
+  "metadata": {
+    "published_at": "2026-05-02T01:24:00.040277+00:00",
+    "analyzed_at": "2026-05-02T01:27:55.467610+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Hacker News (Best)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "2026-05-02-003",
+  "title": "Upcoming Blender Development Fund and AI Policies",
+  "source": "hacker_news",
+  "source_url": "https://www.blender.org/news/upcoming-blender-development-fund-and-ai-policies/",
+  "summary": "Blender基金会将推出新的开发基金项目,旨在支持开源3D软件的持续迭代。相关AI政策涉及AI生成内容的合规性和许可问题,对开源社区的AI集成方式产生重要影响。该项目反映了开源组织对AI技术应用日益重视的趋势。",
+  "tags": [
+    "AI政策",
+    "开源软件",
+    "3D渲染",
+    "Blender",
+    "开发基金"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-05-02T01:24:07.209734+00:00",
+  "metadata": {
+    "published_at": "2026-05-02T01:24:07.209734+00:00",
+    "analyzed_at": "2026-05-02T01:28:28.797999+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Lobsters (AI/ML)",
+    "stars": 0,
+    "score": 6,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

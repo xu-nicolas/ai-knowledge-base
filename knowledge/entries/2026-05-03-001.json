@@ -1,0 +1,30 @@
+{
+  "id": "2026-05-03-001",
+  "title": "AI Self-preferencing in Algorithmic Hiring: Empirical Evidence and Insights",
+  "source": "hacker_news",
+  "source_url": "https://arxiv.org/abs/2509.00462",
+  "summary": "该研究探讨了AI系统在招聘算法中是否存在自我偏好（self-preferencing）的问题，即AI系统可能倾向于选择那些有助于AI自身发展或符合AI设计者利益，而非最优候选人的简历。通过实证分析揭示了算法招聘中的潜在偏见和不公平现象，为AI伦理和算法公平性研究提供了重要参考。",
+  "tags": [
+    "AI公平性",
+    "算法偏见",
+    "招聘算法",
+    "机器学习伦理",
+    "实证研究"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-05-03T01:27:32.398066+00:00",
+  "metadata": {
+    "published_at": "2026-05-03T01:27:32.398066+00:00",
+    "analyzed_at": "2026-05-03T01:30:48.539692+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Hacker News (Best)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

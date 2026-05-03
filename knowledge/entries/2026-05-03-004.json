@@ -1,0 +1,30 @@
+{
+  "id": "2026-05-03-004",
+  "title": "NHS Goes To War Against Open Source",
+  "source": "hacker_news",
+  "source_url": "https://shkspr.mobi/blog/2026/05/nhs-goes-to-war-against-open-source/",
+  "summary": "英国国家医疗服务体系（NHS）近期对开源软件采取限制性措施，引发技术社区争议。NHS认为开源方案在安全性、合规性和维护方面存在风险，更倾向于选择商业闭源解决方案。这一政策转变反映了公共医疗系统在数字化转型中对于技术供应商选择和知识产权管理的重新考量。",
+  "tags": [
+    "医疗IT",
+    "开源软件",
+    "公共政策",
+    "数字转型",
+    "NHS"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-05-03T01:27:32.785881+00:00",
+  "metadata": {
+    "published_at": "2026-05-03T01:27:32.785881+00:00",
+    "analyzed_at": "2026-05-03T01:31:45.328380+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Lobsters (AI/ML)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

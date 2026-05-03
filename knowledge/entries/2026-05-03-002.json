@@ -1,0 +1,29 @@
+{
+  "id": "2026-05-03-002",
+  "title": "Spotify adds 'Verified' badges to distinguish human artists from AI",
+  "source": "hacker_news",
+  "source_url": "https://www.bbc.com/news/articles/c5yerr4m1yno",
+  "summary": "Spotify 推出了艺术家'已验证'徽章系统，旨在帮助用户区分真实人类创作者与 AI 生成内容，这是流媒体平台应对 AI 音乐泛滥的重要举措。该功能通过身份验证机制为原创艺术家提供官方标识，同时可能影响 AI 生成音乐的发现和变现策略。",
+  "tags": [
+    "平台治理",
+    "内容认证",
+    "艺术家身份",
+    "AI音乐检测"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-05-03T01:27:32.398088+00:00",
+  "metadata": {
+    "published_at": "2026-05-03T01:27:32.398088+00:00",
+    "analyzed_at": "2026-05-03T01:31:13.620354+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Hacker News (Best)",
+    "stars": 0,
+    "score": 6,
+    "score_reason": "",
+    "audience": "beginner"
+  }
+}

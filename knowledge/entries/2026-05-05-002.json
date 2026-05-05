@@ -1,0 +1,30 @@
+{
+  "id": "2026-05-05-002",
+  "title": "DeepClaude – Claude Code agent loop with DeepSeek V4 Pro",
+  "source": "hacker_news",
+  "source_url": "https://github.com/aattaran/deepclaude",
+  "summary": "DeepClaude 是一个开源项目，将 Claude Code 的代理循环架构与 DeepSeek V4 Pro 模型相结合，实现更高效的 AI 编程辅助。该项目通过集成两个不同 AI 系统的优势，探索了多模型协作在代码生成和自动化任务执行中的应用潜力。",
+  "tags": [
+    "AI Agent",
+    "Claude Code",
+    "DeepSeek",
+    "Code Generation",
+    "Open Source"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-05-05T01:26:40.035991+00:00",
+  "metadata": {
+    "published_at": "2026-05-05T01:26:40.035991+00:00",
+    "analyzed_at": "2026-05-05T01:30:06.352276+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Hacker News (Best)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

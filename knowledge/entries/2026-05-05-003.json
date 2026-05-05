@@ -1,0 +1,26 @@
+{
+  "id": "2026-05-05-003",
+  "title": "Specsmaxxing – On overcoming AI psychosis, and why I write specs in YAML",
+  "source": "hacker_news",
+  "source_url": "https://acai.sh/blog/specsmaxxing",
+  "summary": "",
+  "tags": [
+    "llm"
+  ],
+  "status": "raw",
+  "collected_at": "2026-05-05T01:26:40.035996+00:00",
+  "metadata": {
+    "published_at": "2026-05-05T01:26:40.035996+00:00",
+    "analyzed_at": "2026-05-05T01:30:27.415075+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Hacker News (Best)",
+    "stars": 0,
+    "score": 5,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

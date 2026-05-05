@@ -1,0 +1,31 @@
+{
+  "id": "2026-05-05-001",
+  "title": "How OpenAI delivers low-latency voice AI at scale",
+  "source": "hacker_news",
+  "source_url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/",
+  "summary": "OpenAI 通过模型优化、架构改进和基础设施升级实现语音 AI 的大规模低延迟部署。核心策略包括采用更高效的推理引擎、边缘计算结合和流式处理技术，以满足实时对话场景的延迟要求。",
+  "tags": [
+    "语音AI",
+    "低延迟",
+    "模型优化",
+    "实时推理",
+    "OpenAI",
+    "大规模部署"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-05-05T01:26:40.035974+00:00",
+  "metadata": {
+    "published_at": "2026-05-05T01:26:40.035974+00:00",
+    "analyzed_at": "2026-05-05T01:29:59.192137+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Hacker News (Best)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "2026-05-06-002",
+  "title": "AI didn't delete your database, you did",
+  "source": "hacker_news",
+  "source_url": "https://idiallo.com/blog/ai-didnt-delete-your-database-you-did",
+  "summary": "这篇文章讨论了在 AI 代理（AI agents）时代，用户在使用 AI 工具时容易将责任归咎于 AI 系统，但实际上数据库被删除等事故往往源于用户对 AI 操作的监督不足或配置错误。作者强调 AI 是工具，使用者的决策和监控才是关键，需要建立更好的权限管理和安全边界。",
+  "tags": [
+    "ai-safety",
+    "database",
+    "devops",
+    "software-engineering"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-05-06T01:24:44.536471+00:00",
+  "metadata": {
+    "published_at": "2026-05-06T01:24:44.536471+00:00",
+    "analyzed_at": "2026-05-06T01:29:25.289994+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Hacker News (Best)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "2026-05-06-007",
+  "title": "Agent MetaSKILLs",
+  "source": "hacker_news",
+  "source_url": "https://swival.dev/pages/metaskills.html",
+  "summary": "Agent MetaSKILLs 是关于 AI Agent 元技能框架的讨论，探讨了如何在大型语言模型中构建和管理可复用的技能模块。该技术旨在提升 AI Agent 的灵活性和可扩展性，通过标准化的技能定义和组合方式来实现更高效的 AI 应用开发。",
+  "tags": [
+    "AI Agent",
+    "LLM",
+    "MetaSKILLs",
+    "HackerNews"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-05-06T01:24:45.228942+00:00",
+  "metadata": {
+    "published_at": "2026-05-06T01:24:45.228942+00:00",
+    "analyzed_at": "2026-05-06T01:30:45.513929+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Lobsters (AI/ML)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

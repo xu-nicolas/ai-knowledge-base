@@ -1,0 +1,29 @@
+{
+  "id": "2026-05-06-001",
+  "title": "Three Inverse Laws of AI",
+  "source": "hacker_news",
+  "source_url": "https://susam.net/inverse-laws-of-robotics.html",
+  "summary": "文章探讨AI发展中的三个反向定律，可能涉及模型规模与效率的逆向关系、训练成本与性能的悖论等技术议题。这类内容通常关注AI系统的反向优化规律，对理解AI系统设计和资源约束具有参考价值。",
+  "tags": [
+    "AI",
+    "Machine Learning",
+    "Scaling Laws",
+    "Optimization"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-05-06T01:24:44.536458+00:00",
+  "metadata": {
+    "published_at": "2026-05-06T01:24:44.536458+00:00",
+    "analyzed_at": "2026-05-06T01:29:00.892715+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Hacker News (Best)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

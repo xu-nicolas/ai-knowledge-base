@@ -1,0 +1,29 @@
+{
+  "id": "2026-05-06-003",
+  "title": "When everyone has AI and the company still learns nothing",
+  "source": "hacker_news",
+  "source_url": "https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/",
+  "summary": "这篇文章探讨了在AI工具普及后企业面临的组织学习挑战。虽然个人开发者可以快速使用AI提升生产力，但企业往往难以系统性地积累和分享知识。需要建立有效的知识管理机制和流程来真正发挥AI的价值。",
+  "tags": [
+    "organizational-learning",
+    "AI-adoption",
+    "knowledge-management",
+    "enterprise"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-05-06T01:24:44.536475+00:00",
+  "metadata": {
+    "published_at": "2026-05-06T01:24:44.536475+00:00",
+    "analyzed_at": "2026-05-06T01:29:37.353768+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Hacker News (Best)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

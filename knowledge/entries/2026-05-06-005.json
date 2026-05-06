@@ -1,0 +1,30 @@
+{
+  "id": "2026-05-06-005",
+  "title": "Train Your Own LLM from Scratch",
+  "source": "hacker_news",
+  "source_url": "https://github.com/angelos-p/llm-from-scratch",
+  "summary": "这是一个关于从零开始训练大型语言模型的技术主题，涵盖了数据收集与处理、模型架构设计、分布式训练策略以及计算资源管理等核心环节。内容可能包括实践经验、工具选择建议以及常见的训练挑战与解决方案。",
+  "tags": [
+    "LLM训练",
+    "深度学习",
+    "模型预训练",
+    "分布式计算",
+    "AI基础设施"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-05-06T01:24:44.536480+00:00",
+  "metadata": {
+    "published_at": "2026-05-06T01:24:44.536480+00:00",
+    "analyzed_at": "2026-05-06T01:30:09.427242+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Hacker News (Best)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

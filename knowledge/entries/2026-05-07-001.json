@@ -1,0 +1,29 @@
+{
+  "id": "2026-05-07-001",
+  "title": "Google’s Prompt API",
+  "source": "hacker_news",
+  "source_url": "https://wil.to/posts/googles-prompt-api/",
+  "summary": "Google的Prompt API是一项允许开发者通过标准化接口与大语言模型交互的服务，通常集成在Google Cloud的AI平台上。该API支持多种用途，包括文本生成、对话系统和内容创作等场景。",
+  "tags": [
+    "AI API",
+    "Google Cloud",
+    "LLM",
+    "开发工具"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-05-07T01:29:28.513146+00:00",
+  "metadata": {
+    "published_at": "2026-05-07T01:29:28.513146+00:00",
+    "analyzed_at": "2026-05-07T01:34:14.948170+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Lobsters (AI/ML)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "2026-05-07-002",
+  "title": "A Path Not Taken for OxCaml",
+  "source": "hacker_news",
+  "source_url": "https://joel.place/blog/path-not-taken/",
+  "summary": "这篇文章讨论了OxCaml项目中一个未被采用的设计选择或技术路径，文章回顾了为什么某个特定的设计决策最终没有被采纳，并分析了其中的权衡考量。内容涉及OCaml语言相关的编译器或工具链设计决策，适合对函数式编程语言实现感兴趣的开发者阅读。",
+  "tags": [
+    "OCaml",
+    "函数式编程",
+    "编程语言设计",
+    "编译器",
+    "技术决策"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-05-07T01:29:28.513161+00:00",
+  "metadata": {
+    "published_at": "2026-05-07T01:29:28.513161+00:00",
+    "analyzed_at": "2026-05-07T01:34:27.391371+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Lobsters (AI/ML)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

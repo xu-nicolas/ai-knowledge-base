@@ -1,0 +1,30 @@
+{
+  "id": "2026-05-08-002",
+  "title": "Mojo v1.0.0b1",
+  "source": "hacker_news",
+  "source_url": "https://mojolang.org/releases/v1.0.0b1",
+  "summary": "Mojo是由Modular公司开发的AI编程语言，结合了Python的易用性和系统级性能，v1.0.0b1是其首个Beta版本发布。该语言由Swift创始人Chris Lattner主导开发，目标是为AI硬件加速器提供高效编程能力。",
+  "tags": [
+    "Mojo",
+    "编程语言",
+    "AI开发",
+    "性能优化",
+    "系统编程"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-05-08T01:46:09.022998+00:00",
+  "metadata": {
+    "published_at": "2026-05-08T01:46:09.022998+00:00",
+    "analyzed_at": "2026-05-08T01:50:03.702580+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Lobsters (AI/ML)",
+    "stars": 0,
+    "score": 8,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

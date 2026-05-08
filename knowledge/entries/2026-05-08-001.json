@@ -1,0 +1,30 @@
+{
+  "id": "2026-05-08-001",
+  "title": "AI slop is killing online communities",
+  "source": "hacker_news",
+  "source_url": "https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/",
+  "summary": "这篇文章讨论了AI生成的低质量内容（称为AI slop）对在线技术社区造成的负面影响。作者认为大量由AI批量生成的平庸内容正在降低技术讨论的质量，稀释有价值信息的密度，并可能导致用户参与度和社区凝聚力的下降。问题核心在于缺乏有效的机制来区分人类创作与AI生成内容，以及社区规范未能及时适应这一新变化。",
+  "tags": [
+    "AI内容质量",
+    "在线社区",
+    "内容审核",
+    "生成式AI",
+    "技术社区治理"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-05-08T01:46:08.191985+00:00",
+  "metadata": {
+    "published_at": "2026-05-08T01:46:08.191985+00:00",
+    "analyzed_at": "2026-05-08T01:49:53.587674+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Hacker News (Best)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

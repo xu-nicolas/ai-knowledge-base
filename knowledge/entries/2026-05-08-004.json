@@ -1,0 +1,29 @@
+{
+  "id": "2026-05-08-004",
+  "title": "Open weights are quietly closing up - and that's a problem",
+  "source": "hacker_news",
+  "source_url": "https://martinalderson.com/posts/open-weights-are-quietly-closing-up/",
+  "summary": "文章指出开源AI模型权重正在逐渐变得更加封闭和受限，这反映了AI开源生态的重要变化趋势。作者认为这种趋势对AI社区的创新、透明度和可访问性构成潜在威胁，呼吁关注开源AI的可持续发展问题。",
+  "tags": [
+    "开源AI",
+    "模型权重",
+    "AI开放性",
+    "开源生态"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-05-08T01:46:09.023020+00:00",
+  "metadata": {
+    "published_at": "2026-05-08T01:46:09.023020+00:00",
+    "analyzed_at": "2026-05-08T01:50:49.655476+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Lobsters (AI/ML)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

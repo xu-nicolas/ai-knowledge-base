@@ -1,0 +1,30 @@
+{
+  "id": "2026-05-08-003",
+  "title": "jlearn: Machine Learning Library in J",
+  "source": "hacker_news",
+  "source_url": "https://github.com/jonghough/jlearn",
+  "summary": "jlearn是一个用J语言实现的机器学习库，专注于数组式编程范式。J语言源自APL，具有强大的矩阵运算能力，jlearn利用这一特性提供高效的机器学习算法实现。该项目为熟悉函数式编程和数据处理的开发者提供了一个独特的机器学习工具选择。",
+  "tags": [
+    "机器学习",
+    "J语言",
+    "数组编程",
+    "函数式编程",
+    "开源库"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-05-08T01:46:09.023012+00:00",
+  "metadata": {
+    "published_at": "2026-05-08T01:46:09.023012+00:00",
+    "analyzed_at": "2026-05-08T01:50:16.151513+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Lobsters (AI/ML)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

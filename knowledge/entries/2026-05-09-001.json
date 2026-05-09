@@ -1,0 +1,30 @@
+{
+  "id": "2026-05-09-001",
+  "title": "What We Lost the Last Time Code Got Cheap",
+  "source": "hacker_news",
+  "source_url": "https://www.poppastring.com/blog/what-we-lost-the-last-time-code-got-cheap",
+  "summary": "这篇文章讨论了代码成本降低的历史演变及其影响，类似于软件开发的民主化过程。作者探讨了当编程变得更加简单和廉价时，我们失去的某些价值，可能涉及软件开发的专业性、复杂性管理或技术深度的权衡。",
+  "tags": [
+    "software_development",
+    "programming",
+    "tech_history",
+    "abstraction",
+    "software_engineering"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-05-09T01:29:41.605077+00:00",
+  "metadata": {
+    "published_at": "2026-05-09T01:29:41.605077+00:00",
+    "analyzed_at": "2026-05-09T01:33:00.586077+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Lobsters (AI/ML)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

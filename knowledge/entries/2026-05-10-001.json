@@ -1,0 +1,30 @@
+{
+  "id": "2026-05-10-001",
+  "title": "AI is breaking two vulnerability cultures",
+  "source": "hacker_news",
+  "source_url": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures",
+  "summary": "文章探讨AI技术如何颠覆传统漏洞研究与修复的两大文化体系，改变了安全研究者的思维方式和工作流程。随着AI工具在代码分析、漏洞挖掘中的应用普及，原有的手动分析文化和防御策略正面临根本性重构。",
+  "tags": [
+    "AI",
+    "cybersecurity",
+    "vulnerability",
+    "software_development",
+    "culture"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-05-10T01:42:40.678923+00:00",
+  "metadata": {
+    "published_at": "2026-05-10T01:42:40.678923+00:00",
+    "analyzed_at": "2026-05-10T01:46:03.403332+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Hacker News (Best)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

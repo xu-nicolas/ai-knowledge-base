@@ -1,21 +1,21 @@
 {
   "id": "2026-05-10-001",
-  "title": "AI is breaking two vulnerability cultures",
+  "title": "Meta's embrace of AI is making its employees miserable",
   "source": "hacker_news",
-  "source_url": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures",
-  "summary": "文章探讨AI技术如何颠覆传统漏洞研究与修复的两大文化体系，改变了安全研究者的思维方式和工作流程。随着AI工具在代码分析、漏洞挖掘中的应用普及，原有的手动分析文化和防御策略正面临根本性重构。",
+  "source_url": "https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html",
+  "summary": "这篇来自Hacker News的内容报道了Meta公司在大力推进AI技术的过程中，其员工对这种快速转型表示不满。文章揭示了Meta在AI采用策略上面临的内部挑战，包括员工对工作压力和技术焦虑的担忧，反映了科技公司在AI革命中平衡业务发展与员工福祉的困境。",
   "tags": [
-    "AI",
-    "cybersecurity",
-    "vulnerability",
-    "software_development",
-    "culture"
+    "meta",
+    "ai-strategy",
+    "employee-satisfaction",
+    "workplace-culture",
+    "tech-industry"
   ],
   "status": "analyzed",
-  "collected_at": "2026-05-10T01:42:40.678923+00:00",
+  "collected_at": "2026-05-10T05:43:02.581083+00:00",
   "metadata": {
-    "published_at": "2026-05-10T01:42:40.678923+00:00",
-    "analyzed_at": "2026-05-10T01:46:03.403332+00:00",
+    "published_at": "2026-05-10T05:43:02.581083+00:00",
+    "analyzed_at": "2026-05-10T05:47:01.542116+00:00",
     "analysis": {
       "highlights": [],
       "use_cases": [],

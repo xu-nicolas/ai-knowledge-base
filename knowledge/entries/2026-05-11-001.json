@@ -1,0 +1,30 @@
+{
+  "id": "2026-05-11-001",
+  "title": "Training an LLM in Swift, Part 1: Taking matrix multiplication from Gflop/s to Tflop/s",
+  "source": "hacker_news",
+  "source_url": "https://www.cocoawithlove.com/blog/matrix-multiplications-swift.html",
+  "summary": "文章介绍如何在Swift语言环境下训练大型语言模型，重点讲述矩阵乘法的性能优化技术，通过一系列优化手段实现计算性能从Gflop/s到Tflop/s的质的飞跃。",
+  "tags": [
+    "swift",
+    "llm训练",
+    "矩阵乘法",
+    "性能优化",
+    "硬件加速"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-05-11T01:50:07.284954+00:00",
+  "metadata": {
+    "published_at": "2026-05-11T01:50:07.284954+00:00",
+    "analyzed_at": "2026-05-11T01:54:33.903192+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Lobsters (AI/ML)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

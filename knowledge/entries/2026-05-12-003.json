@@ -1,0 +1,29 @@
+{
+  "id": "2026-05-12-003",
+  "title": "Local AI needs to be the norm",
+  "source": "hacker_news",
+  "source_url": "https://unix.foo/posts/local-ai-needs-to-be-norm/",
+  "summary": "该帖子讨论了本地化AI部署的重要性和发展趋势，强调在本地设备上运行AI模型对于保护用户隐私、降低延迟和减少对云服务依赖的价值。技术层面涉及模型压缩、边缘计算优化以及开源本地AI框架的发展。",
+  "tags": [
+    "local-ai",
+    "privacy",
+    "edge-computing",
+    "model-deployment"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-05-12T01:44:52.938863+00:00",
+  "metadata": {
+    "published_at": "2026-05-12T01:44:52.938863+00:00",
+    "analyzed_at": "2026-05-12T01:48:59.847791+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Hacker News (Best)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

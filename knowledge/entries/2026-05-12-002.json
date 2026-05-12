@@ -1,0 +1,30 @@
+{
+  "id": "2026-05-12-002",
+  "title": "Maryland citizens hit with $2B power grid upgrade for out-of-state AI",
+  "source": "hacker_news",
+  "source_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/maryland-citizens-slapped-with-usd2-billion-grid-upgrade-bill-for-out-of-state-ai-data-centers-state-complains-to-federal-energy-regulators-says-additional-cost-breaks-ratepayer-protection-pledge-promises",
+  "summary": "马里兰州计划投资20亿美元升级电网基础设施，主要目的是为州外AI数据中心提供电力支持。该项目反映了AI计算需求对能源消耗的巨大影响，以及电力基础设施与AI产业发展之间的紧密联系。电网升级费用将转嫁给当地居民，引发了关于AI发展成本分配公平性的讨论。",
+  "tags": [
+    "AI基础设施",
+    "电力系统",
+    "能源消耗",
+    "数据中心",
+    "政策分析"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-05-12T01:44:52.938857+00:00",
+  "metadata": {
+    "published_at": "2026-05-12T01:44:52.938857+00:00",
+    "analyzed_at": "2026-05-12T01:48:49.013697+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Hacker News (Best)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

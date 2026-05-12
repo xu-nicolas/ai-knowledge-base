@@ -1,0 +1,30 @@
+{
+  "id": "2026-05-12-005",
+  "title": "The Crystallization of Transformer Architectures (2017-2025)",
+  "source": "hacker_news",
+  "source_url": "https://jytan.net/blog/2025/transformer-architectures/",
+  "summary": "文章探讨了Transformer架构自2017年提出以来的演变历程，分析了从原始注意力机制到BERT、GPT等里程碑模型的架构优化过程。重点关注了多头注意力、位置编码、层归一化等核心组件的演进，以及当代大语言模型如何继承和发展这一基础架构。",
+  "tags": [
+    "Transformer",
+    "Deep Learning",
+    "NLP",
+    "Neural Architecture",
+    "LLM"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-05-12T01:44:53.220925+00:00",
+  "metadata": {
+    "published_at": "2026-05-12T01:44:53.220925+00:00",
+    "analyzed_at": "2026-05-12T01:49:45.502049+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Lobsters (AI/ML)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

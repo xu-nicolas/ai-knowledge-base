@@ -1,0 +1,30 @@
+{
+  "id": "2026-05-12-001",
+  "title": "An AI coding agent, used to write code, needs to reduce your maintenance costs",
+  "source": "hacker_news",
+  "source_url": "https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs",
+  "summary": "AI 编码代理工具正在被开发用于自动化代码编写和修改，旨在帮助开发团队降低软件维护成本。这类工具通过机器学习和代码分析技术，能够自动生成代码、修复 bug 并进行代码优化，从而减少人工干预的需求。尽管这类技术能显著提升开发效率，但在实际应用中仍需考虑代码质量、版权和安全性等关键问题。",
+  "tags": [
+    "AI编码代理",
+    "自动化开发",
+    "成本优化",
+    "代码维护",
+    "开发者工具"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-05-12T01:44:52.938841+00:00",
+  "metadata": {
+    "published_at": "2026-05-12T01:44:52.938841+00:00",
+    "analyzed_at": "2026-05-12T01:48:41.557314+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Hacker News (Best)",
+    "stars": 0,
+    "score": 8,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

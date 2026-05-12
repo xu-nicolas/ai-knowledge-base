@@ -1,0 +1,30 @@
+{
+  "id": "2026-05-12-004",
+  "title": "Task Paralysis and AI",
+  "source": "hacker_news",
+  "source_url": "https://g5t.de/articles/20260510-task-paralysis-and-ai/index.html",
+  "summary": "Task Paralysis（任务瘫痪）是指面对多项待办任务时产生的决策困难和行动力丧失的状态。文章探讨了AI如何通过自动化任务优先级排序、智能建议和减少认知负荷来帮助用户克服任务瘫痪。AI工具通过提供结构化的任务分解和执行路径，使复杂项目更易管理，从而缓解用户的心理压力。",
+  "tags": [
+    "AI",
+    "productivity",
+    "mental-health",
+    "automation",
+    "task-management"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-05-12T01:44:52.938871+00:00",
+  "metadata": {
+    "published_at": "2026-05-12T01:44:52.938871+00:00",
+    "analyzed_at": "2026-05-12T01:49:28.736635+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Hacker News (Best)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "2026-05-13-002",
+  "title": "If AI writes your code, why use Python?",
+  "source": "hacker_news",
+  "source_url": "https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055",
+  "summary": "该讨论探讨了AI代码生成工具日益普及背景下Python语言仍然重要的原因。主要观点包括Python的简洁语法使其成为AI工具的理想输出语言，同时Python在数据科学和机器学习领域的生态系统优势，以及其作为胶水语言连接AI模型与实际应用的桥梁作用。",
+  "tags": [
+    "AI",
+    "Python",
+    "代码生成",
+    "编程语言"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-05-13T01:50:33.767087+00:00",
+  "metadata": {
+    "published_at": "2026-05-13T01:50:33.767087+00:00",
+    "analyzed_at": "2026-05-13T01:54:49.260739+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Hacker News (Best)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

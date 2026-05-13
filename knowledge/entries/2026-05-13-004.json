@@ -1,0 +1,30 @@
+{
+  "id": "2026-05-13-004",
+  "title": "Shrinking the OxCaml js_of_ocaml bundle: 285 MB to 4 MB",
+  "source": "hacker_news",
+  "source_url": "https://kcsrk.info/ocaml/oxcaml/modes/2026/05/10/shrinking-the-oxcaml-bundle/",
+  "summary": "该案例展示了如何通过代码优化和技术调整，将 OxCaml 的 js_of_ocaml bundle 从 285 MB 大幅缩减至 4 MB，实现了约 98.6% 的体积压缩。这一优化涉及编译器配置、依赖管理和代码精简等多个层面的技术改进，为类似项目提供了宝贵的性能优化实践经验。",
+  "tags": [
+    "js_of_ocaml",
+    "bundle_optimization",
+    "performance",
+    "compiler",
+    "OCaml"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-05-13T01:50:33.960083+00:00",
+  "metadata": {
+    "published_at": "2026-05-13T01:50:33.960083+00:00",
+    "analyzed_at": "2026-05-13T01:55:08.550978+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Lobsters (AI/ML)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

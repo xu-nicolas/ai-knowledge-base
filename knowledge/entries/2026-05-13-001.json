@@ -1,0 +1,29 @@
+{
+  "id": "2026-05-13-001",
+  "title": "I let AI build a tool to help me figure out what was waking me up at night",
+  "source": "hacker_news",
+  "source_url": "https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/",
+  "summary": "描述了一位开发者利用 AI 技术构建工具来分析影响夜间睡眠的因素，体现了 AI 在辅助个人问题解决中的应用实践。",
+  "tags": [
+    "AI工具开发",
+    "个人健康",
+    "睡眠监测",
+    "自动化"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-05-13T01:50:33.767073+00:00",
+  "metadata": {
+    "published_at": "2026-05-13T01:50:33.767073+00:00",
+    "analyzed_at": "2026-05-13T01:54:41.037386+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Hacker News (Best)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

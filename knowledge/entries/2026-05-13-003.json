@@ -1,0 +1,30 @@
+{
+  "id": "2026-05-13-003",
+  "title": "Google says criminal hackers used AI to find a major software flaw",
+  "source": "hacker_news",
+  "source_url": "https://www.nytimes.com/2026/05/11/us/politics/google-hackers-attack-ai.html",
+  "summary": "Google 披露网络犯罪分子正在利用 AI 技术来自动识别和发现软件中的重大安全漏洞，这标志着 AI 已开始被武器化用于网络攻击活动。这种 AI 驱动的漏洞挖掘方法相比传统手动方式效率更高，对现有安全防护体系构成新的严峻挑战。",
+  "tags": [
+    "ai-security",
+    "vulnerability-discovery",
+    "cyber-threats",
+    "google",
+    "machine-learning"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-05-13T01:50:33.767091+00:00",
+  "metadata": {
+    "published_at": "2026-05-13T01:50:33.767091+00:00",
+    "analyzed_at": "2026-05-13T01:54:57.677603+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Hacker News (Best)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

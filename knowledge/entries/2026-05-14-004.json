@@ -1,0 +1,30 @@
+{
+  "id": "2026-05-14-004",
+  "title": "AI as Social Technology",
+  "source": "hacker_news",
+  "source_url": "https://knightcolumbia.org/content/ai-as-social-technology",
+  "summary": "AI as Social Technology探讨人工智能在社交互动中的应用，包括AI驱动的对话系统、情感识别、社交网络优化等技术方向。该主题关注如何利用AI技术增强人际沟通效率，改善社交体验，以及探索AI在模拟人类社交行为方面的技术可能性。",
+  "tags": [
+    "AI",
+    "Social Interaction",
+    "Conversational AI",
+    "Human-Computer Interaction",
+    "Social Networks"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-05-14T01:53:03.478970+00:00",
+  "metadata": {
+    "published_at": "2026-05-14T01:53:03.478970+00:00",
+    "analyzed_at": "2026-05-14T01:57:49.694836+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Lobsters (AI/ML)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

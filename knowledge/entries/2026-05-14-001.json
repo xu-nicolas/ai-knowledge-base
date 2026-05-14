@@ -1,0 +1,30 @@
+{
+  "id": "2026-05-14-001",
+  "title": "Reimagining the mouse pointer for the AI era",
+  "source": "hacker_news",
+  "source_url": "https://deepmind.google/blog/ai-pointer/",
+  "summary": "本文探讨了在AI时代重新设计传统鼠标指针的概念，思考如何将AI能力（如智能助手、上下文感知、自动完成任务等）融入到基本的用户交互元素中。这是一个关于人机交互演进的讨论，涉及到UI/UX设计与AI集成的创新方向。",
+  "tags": [
+    "人机交互",
+    "UI设计",
+    "AI应用",
+    "用户体验",
+    "界面创新"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-05-14T01:53:02.816193+00:00",
+  "metadata": {
+    "published_at": "2026-05-14T01:53:02.816193+00:00",
+    "analyzed_at": "2026-05-14T01:57:05.156142+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Hacker News (Best)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

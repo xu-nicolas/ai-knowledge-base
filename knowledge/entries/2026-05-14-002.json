@@ -1,0 +1,30 @@
+{
+  "id": "2026-05-14-002",
+  "title": "Amazon employees are \"tokenmaxxing\" due to pressure to use AI tools",
+  "source": "hacker_news",
+  "source_url": "https://arstechnica.com/ai/2026/05/amazon-employees-are-tokenmaxxing-due-to-pressure-to-use-ai-tools/",
+  "summary": "Amazon员工正在因公司压力而最大化利用AI工具进行工作，这一现象被称为'tokenmaxxing'，反映了企业级AI工具应用的普及趋势。该现象揭示了AI在企业工作流程中的深度整合，同时也引发了对员工工作压力和AI依赖程度的讨论。",
+  "tags": [
+    "企业AI应用",
+    "Amazon",
+    "AI工具",
+    "工作效率",
+    "职场AI"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-05-14T01:53:02.816204+00:00",
+  "metadata": {
+    "published_at": "2026-05-14T01:53:02.816204+00:00",
+    "analyzed_at": "2026-05-14T01:57:11.497370+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Hacker News (Best)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

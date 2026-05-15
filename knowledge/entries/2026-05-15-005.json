@@ -1,0 +1,29 @@
+{
+  "id": "2026-05-15-005",
+  "title": "A few works on DS4",
+  "source": "hacker_news",
+  "source_url": "https://antirez.com/news/165",
+  "summary": "DS4相关的工作或项目分享，涉及数据科学或特定技术领域的实践内容。Hacker News上的讨论通常聚焦于技术创新和工程实践，可能包含代码实现或技术方案讨论。",
+  "tags": [
+    "data_science",
+    "hacker_news",
+    "development",
+    "projects"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-05-15T01:50:48.602742+00:00",
+  "metadata": {
+    "published_at": "2026-05-15T01:50:48.602742+00:00",
+    "analyzed_at": "2026-05-15T01:55:01.841879+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Lobsters (AI/ML)",
+    "stars": 0,
+    "score": 5,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

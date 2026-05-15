@@ -1,0 +1,33 @@
+{
+  "id": "2026-05-15-001",
+  "title": "bytedance/deer-flow",
+  "source": "github_trending",
+  "source_url": "https://github.com/bytedance/deer-flow",
+  "summary": "ByteDance 的 Deer-Flow 是一个开源的多智能体框架，专注于处理从几分钟到几小时的长时序任务，整合了研究、编码和内容创作能力。该框架通过沙箱、记忆系统、工具库、技能模块和子代理协调器构建复杂的 AI 工作流，支持自主执行复杂任务。",
+  "tags": [
+    "multi-agent",
+    "SuperAgent",
+    "autonomous-agents",
+    "open-source",
+    "Bytedance",
+    "long-horizon",
+    "sandbox",
+    "AI-agent"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-05-15T01:50:46.750974+00:00",
+  "metadata": {
+    "published_at": "2026-05-14T04:10:26Z",
+    "analyzed_at": "2026-05-15T01:54:30.525779+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "bytedance",
+    "stars": 67735,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

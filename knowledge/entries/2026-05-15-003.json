@@ -1,0 +1,30 @@
+{
+  "id": "2026-05-15-003",
+  "title": "The US is winning the AI race where it matters most: commercialization",
+  "source": "hacker_news",
+  "source_url": "https://avkcode.github.io/blog/us-winning-ai-race.html",
+  "summary": "美国在AI商业化竞争中展现出领先优势，重点体现在企业级AI应用和产品落地方面。相比单纯的学术研究或模型竞赛，美国科技产业更注重将AI技术转化为商业价值和实际产品，这种务实策略使美国在AI领域的关键战场占据有利地位。",
+  "tags": [
+    "AI商业化",
+    "美国AI战略",
+    "AI产业",
+    "技术竞争",
+    "产品落地"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-05-15T01:50:47.914454+00:00",
+  "metadata": {
+    "published_at": "2026-05-15T01:50:47.914454+00:00",
+    "analyzed_at": "2026-05-15T01:54:45.193095+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Hacker News (Best)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

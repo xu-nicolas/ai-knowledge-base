@@ -1,0 +1,29 @@
+{
+  "id": "2026-05-15-004",
+  "title": "What Coding Is Starting to Lose",
+  "source": "hacker_news",
+  "source_url": "https://caio.ca/blog/what-coding-is-starting-to-lose",
+  "summary": "该文章讨论了 AI 编程工具的兴起对传统编码实践的影响，指出随着 AI 代码生成技术的普及，开发者可能逐渐失去手动编写代码的核心技能和深度理解，文章分析了这种趋势对软件开发行业的潜在影响。",
+  "tags": [
+    "AI编程",
+    "软件开发",
+    "技术趋势",
+    "编程技能"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-05-15T01:50:48.602727+00:00",
+  "metadata": {
+    "published_at": "2026-05-15T01:50:48.602727+00:00",
+    "analyzed_at": "2026-05-15T01:54:53.225244+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Lobsters (AI/ML)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

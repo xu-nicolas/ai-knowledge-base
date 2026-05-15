@@ -1,0 +1,29 @@
+{
+  "id": "2026-05-15-002",
+  "title": "AI is making me dumb",
+  "source": "hacker_news",
+  "source_url": "https://jpain.io/god-damn-ai-is-making-me-dumb/",
+  "summary": "本文探讨了AI工具的广泛使用可能导致人类认知能力下降的担忧。讨论了过度依赖AI进行思考、写作和问题解决可能削弱独立思考能力和学习动机的现象，以及对长期认知发展的潜在影响。",
+  "tags": [
+    "AI依赖",
+    "认知影响",
+    "学习能力",
+    "技术伦理"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-05-15T01:50:47.914440+00:00",
+  "metadata": {
+    "published_at": "2026-05-15T01:50:47.914440+00:00",
+    "analyzed_at": "2026-05-15T01:54:39.630350+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Hacker News (Best)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

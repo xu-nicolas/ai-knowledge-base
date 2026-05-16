@@ -1,0 +1,30 @@
+{
+  "id": "2026-05-16-004",
+  "title": "Ontario auditors find doctors' AI note takers routinely blow basic facts",
+  "source": "hacker_news",
+  "source_url": "https://www.theregister.com/ai-ml/2026/05/14/ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts/5240771",
+  "summary": "安大略省审计报告揭示，医生使用的AI笔记工具在日常记录中频繁出现基本事实错误，暴露出当前医疗AI应用中准确性和可靠性方面的严重问题。该事件凸显了AI辅助临床文档工具在投入实际医疗环境前需要进行更严格验证的必要性，同时也引发了对AI在关键医疗决策支持中角色的重新审视。",
+  "tags": [
+    "医疗AI",
+    "AI准确性",
+    "临床文档",
+    "医疗审计",
+    "AI验证"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-05-16T01:30:39.587996+00:00",
+  "metadata": {
+    "published_at": "2026-05-16T01:30:39.587996+00:00",
+    "analyzed_at": "2026-05-16T01:32:58.980159+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Hacker News (Best)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

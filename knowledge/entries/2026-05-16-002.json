@@ -1,0 +1,30 @@
+{
+  "id": "2026-05-16-002",
+  "title": "Amazon workers under pressure to up their AI usage are making up tasks",
+  "source": "hacker_news",
+  "source_url": "https://www.fastcompany.com/91541586/amazon-workers-pressured-to-up-ai-use-extraneous-tasks",
+  "summary": "报道显示 Amazon 员工在管理层压力下被迫提高 AI 使用率，但为满足指标要求而出现编造任务的现象。这反映了企业 AI 实施过程中过度追求工具使用率而忽视实际效能的问题，凸显了 AI 绩效评估机制可能导致的异化效应。",
+  "tags": [
+    "AI应用",
+    "Amazon",
+    "工作场所AI",
+    "AI绩效管理",
+    "企业AI实施"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-05-16T01:30:39.587987+00:00",
+  "metadata": {
+    "published_at": "2026-05-16T01:30:39.587987+00:00",
+    "analyzed_at": "2026-05-16T01:32:52.523360+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Hacker News (Best)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "2026-05-16-005",
+  "title": "why use F# for scripting and automation?",
+  "source": "hacker_news",
+  "source_url": "https://iev.ee/blog/why-use-fsharp/",
+  "summary": "F# 是一门基于 .NET 平台的功能性优先编程语言，其简洁的语法和强大的类型系统使其成为脚本和自动化任务的理想选择。该语言结合了函数式编程的表达力与 .NET 生态系统的丰富库支持，同时提供交互式脚本编写能力，适合快速原型开发和系统自动化。",
+  "tags": [
+    "F#",
+    "scripting",
+    "automation",
+    "functional_programming",
+    ".NET"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-05-16T01:30:39.679194+00:00",
+  "metadata": {
+    "published_at": "2026-05-16T01:30:39.679194+00:00",
+    "analyzed_at": "2026-05-16T01:33:06.609388+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Lobsters (AI/ML)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

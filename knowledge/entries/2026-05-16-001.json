@@ -1,0 +1,29 @@
+{
+  "id": "2026-05-16-001",
+  "title": "I believe there are entire companies right now under AI psychosis",
+  "source": "hacker_news",
+  "source_url": "https://twitter.com/mitchellh/status/2055380239711457578",
+  "summary": "该内容讨论了当前某些公司可能正在经历与AI相关的非理性状态，暗示企业在AI应用和依赖方面可能存在过度或不当的情况。这是一个关于AI伦理和AI应用风险的讨论，反映了技术界对AI过度热的担忧。",
+  "tags": [
+    "AI风险",
+    "AI伦理",
+    "企业AI应用",
+    "技术治理"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-05-16T01:30:39.587970+00:00",
+  "metadata": {
+    "published_at": "2026-05-16T01:30:39.587970+00:00",
+    "analyzed_at": "2026-05-16T01:32:46.858709+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Hacker News (Best)",
+    "stars": 0,
+    "score": 6,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

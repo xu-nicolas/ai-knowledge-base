@@ -1,0 +1,29 @@
+{
+  "id": "2026-05-16-007",
+  "title": "O(x)Caml in Space",
+  "source": "hacker_news",
+  "source_url": "https://gazagnaire.org/blog/2026-05-14-borealis.html",
+  "summary": "O(x)Caml in Space 是一个关于在空间/太空计算环境中使用 OCaml 编程语言的项目或讨论。该项目可能涉及函数式编程语言在特定计算环境中的部署和应用，体现了编程语言在不同计算场景中的适应性探索。",
+  "tags": [
+    "OCaml",
+    "函数式编程",
+    "编程语言",
+    "开发工具"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-05-16T01:30:39.679209+00:00",
+  "metadata": {
+    "published_at": "2026-05-16T01:30:39.679209+00:00",
+    "analyzed_at": "2026-05-16T01:33:22.804339+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Lobsters (AI/ML)",
+    "stars": 0,
+    "score": 6,
+    "score_reason": "",
+    "audience": "advanced"
+  }
+}

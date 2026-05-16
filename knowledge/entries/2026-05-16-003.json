@@ -1,0 +1,30 @@
+{
+  "id": "2026-05-16-003",
+  "title": "Show HN: Find the best local LLM for your hardware, ranked by benchmarks",
+  "source": "hacker_news",
+  "source_url": "https://github.com/Andyyyy64/whichllm",
+  "summary": "这是一个开源项目，旨在帮助用户根据本地硬件配置找到最适合运行的大语言模型。工具通过基准测试对比不同LLM在各类硬件上的性能表现，为用户在本地部署AI模型提供优化建议。",
+  "tags": [
+    "LLM",
+    "本地部署",
+    "基准测试",
+    "硬件优化",
+    "开源工具"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-05-16T01:30:39.587992+00:00",
+  "metadata": {
+    "published_at": "2026-05-16T01:30:39.587992+00:00",
+    "analyzed_at": "2026-05-16T01:32:55.658825+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Hacker News (Best)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "2026-05-16-006",
+  "title": "Autonomous AI research for nanogpt speedrun",
+  "source": "hacker_news",
+  "source_url": "https://www.primeintellect.ai/auto-nanogpt",
+  "summary": "",
+  "tags": [
+    "llm"
+  ],
+  "status": "raw",
+  "collected_at": "2026-05-16T01:30:39.679205+00:00",
+  "metadata": {
+    "published_at": "2026-05-16T01:30:39.679205+00:00",
+    "analyzed_at": "2026-05-16T01:33:14.254361+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Lobsters (AI/ML)",
+    "stars": 0,
+    "score": 5,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

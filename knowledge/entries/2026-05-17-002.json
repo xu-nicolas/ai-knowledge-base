@@ -1,21 +1,21 @@
 {
   "id": "2026-05-17-002",
-  "title": "Access to frontier AI will soon be limited by economic and security constraints",
+  "title": "DeepSeek-V4-Flash means LLM steering is interesting again",
   "source": "hacker_news",
-  "source_url": "https://writing.antonleicht.me/p/cut-off",
-  "summary": "文章讨论了前沿AI模型访问将很快受到经济和安全限制的影响，指出训练和部署成本不断攀升使得资源获取门槛提高，同时安全考虑也导致了访问限制的增加。这种趋势可能导致AI能力集中在少数大型组织手中，对AI民主化和创新生态产生深远影响。",
+  "source_url": "https://www.seangoedecke.com/steering-vectors/",
+  "summary": "DeepSeek-V4-Flash 的发布重新引发了关于 LLM steering（语言模型引导）技术的兴趣。该模型在控制模型行为和输出方向方面展现了新的可能性，使开发者能够更灵活地调整和引导模型表现。这反映了 AI 社区对模型可控性和可解释性日益增长的关注。",
   "tags": [
-    "AI政策",
-    "资源限制",
-    "安全合规",
-    "成本分析",
-    "AI民主化"
+    "LLM",
+    "DeepSeek",
+    "Model Steering",
+    "AI Control",
+    "Language Models"
   ],
   "status": "analyzed",
-  "collected_at": "2026-05-17T01:47:54.287548+00:00",
+  "collected_at": "2026-05-17T05:54:39.027375+00:00",
   "metadata": {
-    "published_at": "2026-05-17T01:47:54.287548+00:00",
-    "analyzed_at": "2026-05-17T01:50:09.949375+00:00",
+    "published_at": "2026-05-17T05:54:39.027375+00:00",
+    "analyzed_at": "2026-05-17T05:57:33.927751+00:00",
     "analysis": {
       "highlights": [],
       "use_cases": [],

@@ -1,0 +1,30 @@
+{
+  "id": "2026-05-17-003",
+  "title": "Data race freedom in OxCaml",
+  "source": "hacker_news",
+  "source_url": "https://kcsrk.info/ocaml/oxcaml/x-ocaml/blogging/2026/05/07/data-race-freedom-in-oxcaml/",
+  "summary": "OxCaml 是一种基于 OCaml 的编程语言变体，旨在通过类型系统和运行时机制实现数据竞争自由。该项目可能在语言层面引入了新的并发模型或内存管理策略，以确保多线程程序的安全性。",
+  "tags": [
+    "programming_language",
+    "ocaml",
+    "concurrency",
+    "data_race",
+    "type_systems"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-05-17T01:47:55.253422+00:00",
+  "metadata": {
+    "published_at": "2026-05-17T01:47:55.253422+00:00",
+    "analyzed_at": "2026-05-17T01:50:15.049322+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Lobsters (AI/ML)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

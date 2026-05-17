@@ -1,0 +1,30 @@
+{
+  "id": "2026-05-17-001",
+  "title": "Frontier AI has broken the open CTF format",
+  "source": "hacker_news",
+  "source_url": "https://kabir.au/blog/the-ctf-scene-is-dead",
+  "summary": "前沿AI模型已在公开的CTF（夺旗赛）网络安全竞赛中展现出超人类水平的能力，这可能标志着AI在网络安全领域的重大突破。此类AI系统能够快速解决复杂的逆向工程和漏洞利用挑战，对传统CTF比赛的公平性和教育意义构成挑战。",
+  "tags": [
+    "AI",
+    "网络安全",
+    "CTF竞赛",
+    "前沿AI",
+    "AI能力"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-05-17T01:47:54.287518+00:00",
+  "metadata": {
+    "published_at": "2026-05-17T01:47:54.287518+00:00",
+    "analyzed_at": "2026-05-17T01:49:52.547551+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Hacker News (Best)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "2026-05-18-003",
+  "title": "AI subscriptions are a ticking time bomb for enterprise",
+  "source": "hacker_news",
+  "source_url": "https://www.thestateofbrand.com/news/ai-subscription-time-bomb",
+  "summary": "该文章指出AI订阅模式可能为企业带来潜在风险，包括成本不可预测、供应商锁定以及长期技术债务等问题。随着AI服务价格不断上涨，企业需要重新评估订阅模式的经济效益和战略灵活性。",
+  "tags": [
+    "AI订阅",
+    "企业风险",
+    "商业模式"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-05-18T01:56:46.240174+00:00",
+  "metadata": {
+    "published_at": "2026-05-18T01:56:46.240174+00:00",
+    "analyzed_at": "2026-05-18T02:00:18.542294+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Hacker News (Best)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "2026-05-18-005",
+  "title": "Data race freedom in OxCaml",
+  "source": "hacker_news",
+  "source_url": "https://kcsrk.info/ocaml/oxcaml/x-ocaml/blogging/2026/05/07/data-race-freedom-in-oxcaml/",
+  "summary": "OxCaml 是一个通过类型系统静态保证数据竞争自由的编程语言，它利用线性类型和所有权系统来消除并发程序中的数据竞争问题，无需运行时垃圾回收或锁机制即可实现线程安全的内存访问。",
+  "tags": [
+    "OCaml",
+    "并发编程",
+    "类型系统",
+    "数据竞争",
+    "函数式编程",
+    "编译器"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-05-18T01:56:46.814038+00:00",
+  "metadata": {
+    "published_at": "2026-05-18T01:56:46.814038+00:00",
+    "analyzed_at": "2026-05-18T02:01:09.507123+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Lobsters (AI/ML)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

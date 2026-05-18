@@ -1,0 +1,29 @@
+{
+  "id": "2026-05-18-002",
+  "title": "I don't think AI will make your processes go faster",
+  "source": "hacker_news",
+  "source_url": "https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/",
+  "summary": "该内容讨论了AI在实际应用中可能无法显著加快业务流程的观点，强调AI实施过程中存在的挑战和局限性，质疑业界对AI效率提升的过度乐观预期，反映了技术社区对AI落地效果的真实反思。",
+  "tags": [
+    "AI实施挑战",
+    "技术评估",
+    "业务流程优化",
+    "AI局限性"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-05-18T01:56:46.240171+00:00",
+  "metadata": {
+    "published_at": "2026-05-18T01:56:46.240171+00:00",
+    "analyzed_at": "2026-05-18T02:00:02.639569+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Hacker News (Best)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

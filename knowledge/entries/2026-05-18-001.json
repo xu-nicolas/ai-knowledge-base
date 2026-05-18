@@ -1,0 +1,28 @@
+{
+  "id": "2026-05-18-001",
+  "title": "AI is a technology not a product",
+  "source": "hacker_news",
+  "source_url": "https://daringfireball.net/2026/05/ai_is_technology_not_a_product",
+  "summary": "该观点强调人工智能应被视为底层技术而非独立产品，类似于电力或互联网基础设施，AI 更多是赋能其他产品和服务的工具。文章讨论了 AI 在商业定位上的区别，即作为核心技术支撑还是可直接交付给用户的终端产品。",
+  "tags": [
+    "AI定义",
+    "技术观点",
+    "产品策略"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-05-18T01:56:46.240158+00:00",
+  "metadata": {
+    "published_at": "2026-05-18T01:56:46.240158+00:00",
+    "analyzed_at": "2026-05-18T01:59:53.960176+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Hacker News (Best)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

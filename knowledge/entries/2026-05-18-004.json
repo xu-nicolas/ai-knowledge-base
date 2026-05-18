@@ -1,0 +1,30 @@
+{
+  "id": "2026-05-18-004",
+  "title": "Frontier AI has broken the open CTF format",
+  "source": "hacker_news",
+  "source_url": "https://kabir.au/blog/the-ctf-scene-is-dead",
+  "summary": "前沿AI系统已具备解决CTF（网络安全夺旗赛）挑战的能力，突破了传统开放CTF格式的边界。这一发展表明AI在网络安全领域的推理和漏洞利用能力显著提升，可能对传统安全竞赛和攻防演练产生深远影响。",
+  "tags": [
+    "frontier AI",
+    "cybersecurity",
+    "CTF",
+    "AI capabilities",
+    "red teaming"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-05-18T01:56:46.240181+00:00",
+  "metadata": {
+    "published_at": "2026-05-18T01:56:46.240181+00:00",
+    "analyzed_at": "2026-05-18T02:00:46.664355+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Hacker News (Best)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

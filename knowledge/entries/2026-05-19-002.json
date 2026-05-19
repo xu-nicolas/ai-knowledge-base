@@ -1,0 +1,30 @@
+{
+  "id": "2026-05-19-002",
+  "title": "Eric Schmidt speech about AI booed during graduation",
+  "source": "hacker_news",
+  "source_url": "https://www.nbcnews.com/tech/tech-news/former-google-ceo-booed-graduation-speech-ai-rcna345585",
+  "summary": "前谷歌CEO Eric Schmidt在毕业典礼上发表关于AI的演讲时遭到观众嘘声，反映出公众对科技巨头在AI领域影响力日益增长的担忧和不满。这一事件凸显了AI技术发展与公众接受度之间的紧张关系，以及科技领袖在推广AI技术时面临的信任挑战。",
+  "tags": [
+    "AI",
+    "Eric Schmidt",
+    "公众反应",
+    "科技领袖",
+    "AI伦理"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-05-19T01:57:01.877550+00:00",
+  "metadata": {
+    "published_at": "2026-05-19T01:57:01.877550+00:00",
+    "analyzed_at": "2026-05-19T02:01:02.867625+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Hacker News (Best)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

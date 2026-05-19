@@ -1,0 +1,30 @@
+{
+  "id": "2026-05-19-001",
+  "title": "We stopped AI bot spam in our GitHub repo using Git's –author flag",
+  "source": "hacker_news",
+  "source_url": "https://archestra.ai/blog/only-responsible-ai",
+  "summary": "这篇文章介绍了如何利用 Git 的 --author 标志来阻止 AI 机器人对 GitHub 仓库的垃圾提交攻击。通过过滤提交者的作者信息，开发者可以识别并阻止来自自动化机器人的垃圾内容。这种方法利用了 Git 内置功能，无需额外的第三方工具即可实现仓库的安全防护。",
+  "tags": [
+    "git",
+    "github",
+    "spam-prevention",
+    "bot-detection",
+    "automation"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-05-19T01:57:01.877533+00:00",
+  "metadata": {
+    "published_at": "2026-05-19T01:57:01.877533+00:00",
+    "analyzed_at": "2026-05-19T02:00:55.507246+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Hacker News (Best)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

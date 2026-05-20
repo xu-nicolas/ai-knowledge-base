@@ -1,0 +1,30 @@
+{
+  "id": "2026-05-20-001",
+  "title": "Categorizing without an LLM",
+  "source": "hacker_news",
+  "source_url": "https://softwaremaniacs.org/blog/2026/05/18/shoppy/",
+  "summary": "本文讨论了在文本分类任务中不使用大语言模型的方法，探讨了传统机器学习技术如朴素贝叶斯、支持向量机和决策树在分类任务中的应用。作者分享了利用 TF-IDF 特征提取结合轻量级模型实现高效分类的实践经验，并指出对于特定领域的小规模分类任务，传统方法可能比 LLM 更经济高效。",
+  "tags": [
+    "机器学习",
+    "文本分类",
+    "朴素贝叶斯",
+    "特征提取",
+    "TF-IDF"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-05-20T01:56:44.774727+00:00",
+  "metadata": {
+    "published_at": "2026-05-20T01:56:44.774727+00:00",
+    "analyzed_at": "2026-05-20T01:59:52.322122+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Lobsters (AI/ML)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

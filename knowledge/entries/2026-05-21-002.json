@@ -1,0 +1,30 @@
+{
+  "id": "2026-05-21-002",
+  "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+  "source": "hacker_news",
+  "source_url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture/",
+  "summary": "OpenAI开发的数学定理证明模型成功在离散几何领域取得重要突破，通过形式化推理反驳了一个长期存在的中心猜想。这一成果展示了AI在纯数学研究中的潜力，证明了深度学习不仅能处理模式识别任务，还能在高水平数学推理中发挥作用。",
+  "tags": [
+    "openai",
+    "discrete_geometry",
+    "mathematical_proof",
+    "ai_for_science",
+    "theorem_proving"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-05-21T01:55:42.000257+00:00",
+  "metadata": {
+    "published_at": "2026-05-21T01:55:42.000257+00:00",
+    "analyzed_at": "2026-05-21T01:58:50.532768+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Lobsters (AI/ML)",
+    "stars": 0,
+    "score": 8,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

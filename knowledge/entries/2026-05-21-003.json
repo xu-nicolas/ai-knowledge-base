@@ -1,0 +1,29 @@
+{
+  "id": "2026-05-21-003",
+  "title": "AI Resist List",
+  "source": "hacker_news",
+  "source_url": "https://airesistlist.org/",
+  "summary": "AI Resist List 是一个关于AI系统抵抗或规避技术的主题，可能涉及对抗性攻击、模型防护或AI伦理限制等相关技术讨论。该话题在技术社区引发关注，通常与AI安全性和可控性研究相关。",
+  "tags": [
+    "AI安全",
+    "对抗性技术",
+    "AI伦理",
+    "模型防护"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-05-21T01:55:42.000260+00:00",
+  "metadata": {
+    "published_at": "2026-05-21T01:55:42.000260+00:00",
+    "analyzed_at": "2026-05-21T01:58:58.903831+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Lobsters (AI/ML)",
+    "stars": 0,
+    "score": 6,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

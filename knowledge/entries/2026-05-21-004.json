@@ -1,0 +1,26 @@
+{
+  "id": "2026-05-21-004",
+  "title": "2ality blog: temporarily offline",
+  "source": "hacker_news",
+  "source_url": "https://2ality.com/",
+  "summary": "",
+  "tags": [
+    "llm"
+  ],
+  "status": "raw",
+  "collected_at": "2026-05-21T01:55:42.000263+00:00",
+  "metadata": {
+    "published_at": "2026-05-21T01:55:42.000263+00:00",
+    "analyzed_at": "2026-05-21T01:59:09.490996+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Lobsters (AI/ML)",
+    "stars": 0,
+    "score": 5,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

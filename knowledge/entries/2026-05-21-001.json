@@ -1,0 +1,30 @@
+{
+  "id": "2026-05-21-001",
+  "title": "I spent 31 hours on the math behind TurboQuant so you don't have to",
+  "source": "hacker_news",
+  "source_url": "https://www.baseten.co/blog/i-spent-31-hours-on-the-math-behind-turboquant-so-you-dont-have-to/",
+  "summary": "这是一篇关于TurboQuant量化交易系统背后数学原理的深度技术分享，作者用31小时深入研究其核心算法和数学模型，并分享给技术社区，旨在帮助读者理解量化交易中的复杂数学推导和模型实现。",
+  "tags": [
+    "量化交易",
+    "数学建模",
+    "算法优化",
+    "金融AI",
+    "深度学习"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-05-21T01:55:42.000243+00:00",
+  "metadata": {
+    "published_at": "2026-05-21T01:55:42.000243+00:00",
+    "analyzed_at": "2026-05-21T01:58:39.944720+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Lobsters (AI/ML)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

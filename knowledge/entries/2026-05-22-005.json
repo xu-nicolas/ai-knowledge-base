@@ -1,0 +1,29 @@
+{
+  "id": "2026-05-22-005",
+  "title": "Qwen3.7-Max: The Agent Frontier",
+  "source": "hacker_news",
+  "source_url": "https://qwen.ai/blog?id=qwen3.7",
+  "summary": "Qwen3.7-Max是阿里巴巴通义千问推出的旗舰大语言模型，专注于AI Agent领域的能力提升，代表了国产大模型在自主智能体应用方面的重要进展。",
+  "tags": [
+    "大语言模型",
+    "AI Agent",
+    "通义千问",
+    "自主智能"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-05-22T01:57:40.295529+00:00",
+  "metadata": {
+    "published_at": "2026-05-22T01:57:40.295529+00:00",
+    "analyzed_at": "2026-05-22T02:02:17.089589+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Hacker News (Best)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

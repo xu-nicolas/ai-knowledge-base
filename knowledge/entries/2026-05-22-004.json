@@ -1,0 +1,30 @@
+{
+  "id": "2026-05-22-004",
+  "title": "College students drown out AI-praising commencement speeches with boos",
+  "source": "hacker_news",
+  "source_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/college-students-drown-out-ai-praising-commencement-speeches-with-boos-deal-with-it-one-speaker-fires-back-as-students-heckle-positive-pitches-for-ais-role",
+  "summary": "近期多所高校毕业典礼上，学生对校方赞扬AI技术的演讲发出嘘声，反映出年轻群体对AI快速发展的复杂情绪和潜在担忧。这一现象凸显了AI技术普及过程中面临的公众接受度挑战，以及技术伦理和社会影响讨论的必要性。",
+  "tags": [
+    "AI社会影响",
+    "技术伦理",
+    "公众态度",
+    "教育科技",
+    "AI争议"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-05-22T01:57:40.295525+00:00",
+  "metadata": {
+    "published_at": "2026-05-22T01:57:40.295525+00:00",
+    "analyzed_at": "2026-05-22T02:02:15.272776+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Hacker News (Best)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "2026-05-22-003",
+  "title": "Throwing AI-generated walls of text into conversations",
+  "source": "hacker_news",
+  "source_url": "https://noslopgrenade.com/",
+  "summary": "该标题讨论了在在线对话和讨论中过度使用 AI 生成冗长文本的问题，涉及 AI 生成内容的质量控制、用户体验影响以及对话效率等关键议题。",
+  "tags": [
+    "AI内容生成",
+    "LLM",
+    "对话系统",
+    "用户体验",
+    "技术伦理"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-05-22T01:57:40.295521+00:00",
+  "metadata": {
+    "published_at": "2026-05-22T01:57:40.295521+00:00",
+    "analyzed_at": "2026-05-22T02:02:00.846630+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Hacker News (Best)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

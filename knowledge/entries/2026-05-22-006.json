@@ -1,0 +1,31 @@
+{
+  "id": "2026-05-22-006",
+  "title": "OCaml Infrastructure: How the opam-repository Works",
+  "source": "hacker_news",
+  "source_url": "https://ocaml.org/backstage/2025-11-05-how-the-opam-repository-works",
+  "summary": "本文深入介绍 OCaml 生态系统中 opam-repository 的基础设施架构，探讨其作为开源包仓库的工作机制、组织结构以及在 OCaml 社区中的关键作用。",
+  "tags": [
+    "ocaml",
+    "opam",
+    "infrastructure",
+    "package-management",
+    "open-source",
+    "compilers"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-05-22T01:57:40.515076+00:00",
+  "metadata": {
+    "published_at": "2026-05-22T01:57:40.515076+00:00",
+    "analyzed_at": "2026-05-22T02:02:46.395304+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Lobsters (AI/ML)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

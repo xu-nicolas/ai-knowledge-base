@@ -1,0 +1,29 @@
+{
+  "id": "2026-05-24-001",
+  "title": "Is AI Profitable Yet?",
+  "source": "hacker_news",
+  "source_url": "https://isaiprofitable.com/",
+  "summary": "本文探讨了AI技术的商业盈利性问题，分析了当前AI企业在不同应用场景下的收入状况、成本结构以及盈利模式。讨论了从基础模型开发到垂直行业应用等各类AI业务的经济可行性，并涉及投资回报周期、市场竞争格局等商业维度的思考。",
+  "tags": [
+    "AI商业化",
+    "盈利模式",
+    "创业投资",
+    "技术经济"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-05-24T01:54:31.313124+00:00",
+  "metadata": {
+    "published_at": "2026-05-24T01:54:31.313124+00:00",
+    "analyzed_at": "2026-05-24T01:56:19.352280+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Hacker News (Best)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

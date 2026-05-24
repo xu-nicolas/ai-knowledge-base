@@ -1,0 +1,30 @@
+{
+  "id": "2026-05-24-005",
+  "title": "Steve Wozniak cheered after telling students they have AI – actual intelligence",
+  "source": "hacker_news",
+  "source_url": "https://www.businessinsider.com/steve-wozniak-apple-ai-graduation-speech-2026-5",
+  "summary": "苹果联合创始人 Steve Wozniak 在一次学生演讲中区分了人工智能与人类实际智能，引发科技社区关注。该事件反映了当前 AI 技术热潮中，业界对机器智能与人类智能本质差异的持续讨论。作为资深技术先驱的观点，对当前 AI 发展具有参考意义。",
+  "tags": [
+    "artificial-intelligence",
+    "human-intelligence",
+    "steve-wozniak",
+    "tech-opinion",
+    "AI-discourse"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-05-24T01:54:31.313147+00:00",
+  "metadata": {
+    "published_at": "2026-05-24T01:54:31.313147+00:00",
+    "analyzed_at": "2026-05-24T01:56:52.095397+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Hacker News (Best)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

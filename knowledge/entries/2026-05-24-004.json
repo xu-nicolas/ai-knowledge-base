@@ -1,0 +1,26 @@
+{
+  "id": "2026-05-24-004",
+  "title": "Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark",
+  "source": "hacker_news",
+  "source_url": "https://modelrift.com/blog/openscad-llm-benchmark/",
+  "summary": "",
+  "tags": [
+    "llm"
+  ],
+  "status": "raw",
+  "collected_at": "2026-05-24T01:54:31.313145+00:00",
+  "metadata": {
+    "published_at": "2026-05-24T01:54:31.313145+00:00",
+    "analyzed_at": "2026-05-24T01:56:45.910874+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Hacker News (Best)",
+    "stars": 0,
+    "score": 5,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

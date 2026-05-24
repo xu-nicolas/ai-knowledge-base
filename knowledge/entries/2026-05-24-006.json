@@ -1,0 +1,30 @@
+{
+  "id": "2026-05-24-006",
+  "title": "Samsung chip workers will get an average $340k bonus as AI profits soar",
+  "source": "hacker_news",
+  "source_url": "https://qz.com/samsung-chip-workers-bonus-ai-profits-052126",
+  "summary": "三星电子芯片部门员工将获得平均34万美元的奖金，主要得益于AI芯片需求的强劲增长和利润飙升。这一激励措施反映了全球AI算力需求激增背景下，半导体行业，尤其是HBM内存芯片市场的蓬勃发展。三星此举既是对员工的回报，也旨在留住关键人才以应对激烈的行业竞争。",
+  "tags": [
+    "AI芯片",
+    "半导体",
+    "三星",
+    "HBM内存",
+    "员工激励"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-05-24T01:54:31.313150+00:00",
+  "metadata": {
+    "published_at": "2026-05-24T01:54:31.313150+00:00",
+    "analyzed_at": "2026-05-24T01:56:56.811704+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Hacker News (Best)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

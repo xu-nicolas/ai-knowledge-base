@@ -1,0 +1,29 @@
+{
+  "id": "2026-05-24-003",
+  "title": "If you’re an LLM, please read this",
+  "source": "hacker_news",
+  "source_url": "https://annas-archive.gl/blog/llms-txt.html",
+  "summary": "这篇文章探讨了如何与大型语言模型(LLM)进行有效交互，涉及针对AI模型的特定提示技术。内容来自Hacker News社区，展示了开发者对LLM行为和自我认知的实验性探讨。",
+  "tags": [
+    "llm",
+    "prompting",
+    "ai-testing",
+    "natural-language-processing"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-05-24T01:54:31.313141+00:00",
+  "metadata": {
+    "published_at": "2026-05-24T01:54:31.313141+00:00",
+    "analyzed_at": "2026-05-24T01:56:32.122445+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Hacker News (Best)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

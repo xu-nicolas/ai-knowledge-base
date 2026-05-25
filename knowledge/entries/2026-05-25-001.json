@@ -1,0 +1,30 @@
+{
+  "id": "2026-05-25-001",
+  "title": "A Network Allow-List Won't Stop Exfiltration",
+  "source": "hacker_news",
+  "source_url": "https://www.dergraf.org/notes/canister-egress-proxy-dlp/",
+  "summary": "该文章讨论了网络安全中网络允许列表（allow-list）的局限性，指出即使采用严格的入站允许列表策略也无法完全阻止数据泄露（exfiltration）。攻击者可以通过DNS隧道、协议滥用或侧信道技术绕过传统网络控制，文章强调了需要结合出站监控、行为分析和零信任架构来应对数据泄露风险。",
+  "tags": [
+    "网络安全",
+    "数据泄露",
+    "网络控制",
+    "零信任",
+    "网络安全策略"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-05-25T02:01:09.118801+00:00",
+  "metadata": {
+    "published_at": "2026-05-25T02:01:09.118801+00:00",
+    "analyzed_at": "2026-05-25T02:05:53.393905+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Lobsters (AI/ML)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

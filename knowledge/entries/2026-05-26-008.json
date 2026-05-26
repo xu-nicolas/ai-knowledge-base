@@ -1,0 +1,30 @@
+{
+  "id": "2026-05-26-008",
+  "title": "The Open/Closed Problem in AI",
+  "source": "hacker_news",
+  "source_url": "https://blog.mempko.com/the-open-closed-problem-in-ai/",
+  "summary": "The Open/Closed Problem探讨人工智能系统在开放世界与封闭世界假设下的能力边界问题。开放世界假设要求AI能够处理训练数据中从未出现的新情况，而封闭世界假设则限制系统只能处理预定义的类别。该问题对理解AI系统的泛化能力和适应性具有重要意义。",
+  "tags": [
+    "AI理论",
+    "开放世界",
+    "泛化能力",
+    "知识表示",
+    "机器学习"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-05-26T01:53:09.073093+00:00",
+  "metadata": {
+    "published_at": "2026-05-26T01:53:09.073093+00:00",
+    "analyzed_at": "2026-05-26T01:55:41.029366+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Lobsters (AI/ML)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

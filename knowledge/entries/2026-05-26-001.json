@@ -1,0 +1,29 @@
+{
+  "id": "2026-05-26-001",
+  "title": "Pope Leo XIV says AI must serve humanity, not the powerful few",
+  "source": "hacker_news",
+  "source_url": "https://religionnews.com/2026/05/25/in-his-first-encyclical-pope-leo-xiv-says-ai-must-serve-humanity-not-the-powerful-few/",
+  "summary": "教皇利奥十四世发表声明，强调人工智能应当服务于全人类而非少数权贵，这一观点反映了当前AI发展中关于公平性和可访问性的重要讨论。该声明呼吁在AI开发和部署过程中更加关注社会公平和道德责任，引发了技术社区对AI权力集中问题的深入思考。",
+  "tags": [
+    "AI伦理",
+    "AI治理",
+    "技术政策",
+    "社会责任"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-05-26T01:53:08.742092+00:00",
+  "metadata": {
+    "published_at": "2026-05-26T01:53:08.742092+00:00",
+    "analyzed_at": "2026-05-26T01:55:03.623705+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Hacker News (Best)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

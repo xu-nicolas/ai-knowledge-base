@@ -1,0 +1,30 @@
+{
+  "id": "2026-05-26-003",
+  "title": "'AI washing': firms are scrambling to rebrand themselves as tech-focused",
+  "source": "hacker_news",
+  "source_url": "https://www.theguardian.com/technology/2026/may/24/ai-washing-pr-firms-scrambling-rebrand",
+  "summary": "当前科技行业出现'AI washing'现象，即大量企业通过将自己重新定位为AI或科技聚焦型公司来吸引投资和提升估值。这种趋势反映了市场对AI技术的狂热追捧，但也引发了关于真实技术能力与宣传之间差距的讨论。企业和投资者需要具备识别真正AI能力的能力，以避免被营销炒作误导。",
+  "tags": [
+    "AI",
+    "tech-washing",
+    "rebranding",
+    "market-trend",
+    "investment"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-05-26T01:53:08.742114+00:00",
+  "metadata": {
+    "published_at": "2026-05-26T01:53:08.742114+00:00",
+    "analyzed_at": "2026-05-26T01:55:09.154945+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Hacker News (Best)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

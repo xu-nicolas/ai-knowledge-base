@@ -1,0 +1,30 @@
+{
+  "id": "2026-05-26-005",
+  "title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
+  "source": "hacker_news",
+  "source_url": "https://esengine.github.io/DeepSeek-Reasonix/",
+  "summary": "DeepSeek 推出了原生编程智能体产品 reasonix，通过高缓存机制优化资源利用，实现低成本的代码生成和辅助开发服务，该产品主要面向需要高效编程辅助的开发者群体。",
+  "tags": [
+    "AI编程",
+    "代码智能体",
+    "缓存优化",
+    "大语言模型",
+    "开发工具"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-05-26T01:53:08.742122+00:00",
+  "metadata": {
+    "published_at": "2026-05-26T01:53:08.742122+00:00",
+    "analyzed_at": "2026-05-26T01:55:22.218400+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Hacker News (Best)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

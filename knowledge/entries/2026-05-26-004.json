@@ -1,0 +1,30 @@
+{
+  "id": "2026-05-26-004",
+  "title": "DeepSeek to Make Permanent 75% Discount on Flagship AI Model",
+  "source": "hacker_news",
+  "source_url": "https://www.bloomberg.com/news/articles/2026-05-23/deepseek-to-make-permanent-75-discount-on-flagship-ai-model",
+  "summary": "DeepSeek 宣布将其旗舰 AI 模型 API 价格永久降低 75%，这是继之前大幅折扣后的又一次重大价格调整。此举将显著降低企业和开发者使用高性能大语言模型的成本，进一步加剧 AI 领域的定价竞争。",
+  "tags": [
+    "AI定价",
+    "大语言模型",
+    "API成本",
+    "DeepSeek",
+    "价格战"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-05-26T01:53:08.742118+00:00",
+  "metadata": {
+    "published_at": "2026-05-26T01:53:08.742118+00:00",
+    "analyzed_at": "2026-05-26T01:55:12.309234+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Hacker News (Best)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

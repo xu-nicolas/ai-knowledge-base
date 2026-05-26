@@ -1,0 +1,30 @@
+{
+  "id": "2026-05-26-006",
+  "title": "Constraint Decay: The Fragility of LLM Agents in Back End Code Generation",
+  "source": "hacker_news",
+  "source_url": "https://arxiv.org/abs/2605.06445",
+  "summary": "The article investigates 'constraint decay' in LLM agents used for back‑end code generation, showing that as the model generates longer sequences, its adherence to specified constraints weakens, leading to fragile output. It highlights the need for stronger enforcement mechanisms and better monitoring of constraint satisfaction throughout the generation process. Empirical results indicate that current LLM agents often produce incorrect or insecure code when constraints are not explicitly tracked.",
+  "tags": [
+    "LLM agents",
+    "constraint decay",
+    "backend code generation",
+    "AI reliability",
+    "software engineering"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-05-26T01:53:08.742125+00:00",
+  "metadata": {
+    "published_at": "2026-05-26T01:53:08.742125+00:00",
+    "analyzed_at": "2026-05-26T01:55:26.466486+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Hacker News (Best)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

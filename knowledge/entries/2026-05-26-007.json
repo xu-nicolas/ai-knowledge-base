@@ -1,0 +1,29 @@
+{
+  "id": "2026-05-26-007",
+  "title": "Encyclical Letter of His Holiness Leo XIV Magnifica Humanitas",
+  "source": "hacker_news",
+  "source_url": "http://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html",
+  "summary": "这是一个关于教宗通谕的标题，\"Magnifica Humanitas\"（辉煌人类）主题暗示了人文主义关怀，可能涉及AI时代的人类价值观讨论，在Hacker News技术社区引发关注。",
+  "tags": [
+    "religious_document",
+    "humanism",
+    "philosophy",
+    "community_discussion"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-05-26T01:53:09.073079+00:00",
+  "metadata": {
+    "published_at": "2026-05-26T01:53:09.073079+00:00",
+    "analyzed_at": "2026-05-26T01:55:30.248980+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Lobsters (AI/ML)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

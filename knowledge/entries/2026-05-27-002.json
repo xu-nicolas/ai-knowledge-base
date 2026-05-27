@@ -1,0 +1,30 @@
+{
+  "id": "2026-05-27-002",
+  "title": "Intent to Prototype: Embedding API",
+  "source": "hacker_news",
+  "source_url": "https://groups.google.com/a/chromium.org/g/blink-dev/c/EjL1gAy3k3Q/m/31Cnh22MBgAJ",
+  "summary": "Chrome 团队宣布计划原型化 Embedding API，这是一个新的浏览器 API 提案，旨在支持在浏览器环境中嵌入外部内容或应用。该 API 目前处于讨论和原型设计阶段，具体实现细节和 API 设计仍在开发中。此提案反映了浏览器厂商对扩展 Web 平台能力的持续探索。",
+  "tags": [
+    "Chrome",
+    "Web API",
+    "Embedding",
+    "Prototype",
+    "Browser"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-05-27T02:01:06.140409+00:00",
+  "metadata": {
+    "published_at": "2026-05-27T02:01:06.140409+00:00",
+    "analyzed_at": "2026-05-27T02:03:29.296736+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Lobsters (AI/ML)",
+    "stars": 0,
+    "score": 6,
+    "score_reason": "",
+    "audience": "advanced"
+  }
+}

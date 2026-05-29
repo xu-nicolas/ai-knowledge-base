@@ -1,0 +1,29 @@
+{
+  "id": "2026-05-29-004",
+  "title": "I'm Tired of Talking to AI",
+  "source": "hacker_news",
+  "source_url": "https://orchidfiles.com/im-tired-of-ai-generated-answers/",
+  "summary": "该帖子反映了用户对当前AI对话交互体验的疲惫感，讨论了AI在持续对话中可能出现的重复性、缺乏深度理解以及情感共鸣不足等问题，体现了AI应用在用户接受度和长期使用方面面临的挑战。",
+  "tags": [
+    "AI交互",
+    "用户体验",
+    "AI疲劳",
+    "对话系统"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-05-29T01:54:23.338051+00:00",
+  "metadata": {
+    "published_at": "2026-05-29T01:54:23.338051+00:00",
+    "analyzed_at": "2026-05-29T01:56:11.774841+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Hacker News (Best)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

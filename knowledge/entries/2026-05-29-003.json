@@ -1,0 +1,29 @@
+{
+  "id": "2026-05-29-003",
+  "title": "Tech CEOs are apparently suffering from AI psychosis",
+  "source": "hacker_news",
+  "source_url": "https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/",
+  "summary": "该文章讨论了科技行业CEO们对AI技术过度乐观或痴迷的现象，被称为「AI精神病」。这种现象反映了当前AI领域存在严重的炒作周期问题，CEO们可能在非理性地推动AI集成到各项业务中，从而忽视了潜在的技术局限性和商业风险。",
+  "tags": [
+    "AI行业趋势",
+    "技术领导力",
+    "AI炒作",
+    "企业管理"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-05-29T01:54:23.338048+00:00",
+  "metadata": {
+    "published_at": "2026-05-29T01:54:23.338048+00:00",
+    "analyzed_at": "2026-05-29T01:56:09.724996+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Hacker News (Best)",
+    "stars": 0,
+    "score": 6,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

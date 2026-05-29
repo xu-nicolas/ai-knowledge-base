@@ -1,0 +1,30 @@
+{
+  "id": "2026-05-29-002",
+  "title": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
+  "source": "hacker_news",
+  "source_url": "https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/",
+  "summary": "DuckDuckGo 搜索引擎在 Google 发布 AI 模式后实现了 28% 的访问量增长，反映出用户对隐私保护和无追踪搜索的持续需求。该事件揭示了搜索引擎市场中传统搜索与 AI 驱动搜索之间的竞争态势，同时也表明用户对多元化搜索选择的态度正在发生积极变化。",
+  "tags": [
+    "搜索引擎",
+    "AI竞争",
+    "隐私保护",
+    "用户增长",
+    "市场动态"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-05-29T01:54:23.338044+00:00",
+  "metadata": {
+    "published_at": "2026-05-29T01:54:23.338044+00:00",
+    "analyzed_at": "2026-05-29T01:56:06.861305+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Hacker News (Best)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "2026-05-29-001",
+  "title": "YouTube to automatically label AI-generated videos",
+  "source": "hacker_news",
+  "source_url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
+  "summary": "YouTube 宣布将利用 AI 自动检测和标记 AI 生成的视频内容，这是内容平台在 AI 生成内容(AIGC)治理方面的重要举措。该技术通过计算机视觉和深度学习模型识别 AI 生成特征，实现规模化内容标注。此举将有助于提高平台内容透明度，应对 AI 生成内容的真实性挑战。",
+  "tags": [
+    "AI内容检测",
+    "内容平台治理",
+    "深度学习应用",
+    "计算机视觉"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-05-29T01:54:23.338032+00:00",
+  "metadata": {
+    "published_at": "2026-05-29T01:54:23.338032+00:00",
+    "analyzed_at": "2026-05-29T01:56:04.878855+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Hacker News (Best)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

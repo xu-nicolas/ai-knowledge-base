@@ -1,0 +1,29 @@
+{
+  "id": "2026-05-30-002",
+  "title": "Please Use AI",
+  "source": "hacker_news",
+  "source_url": "https://shawnsmucker.substack.com/p/please-use-ai",
+  "summary": "该内容来自Hacker News社区，讨论了AI技术的实际应用建议和使用指导。从标题推测这是一篇关于如何有效使用AI工具的讨论文章，可能涉及AI应用的最佳实践、开发指南或使用建议等方面。",
+  "tags": [
+    "AI应用",
+    "开发指南",
+    "工具使用",
+    "最佳实践"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-05-30T01:49:59.774179+00:00",
+  "metadata": {
+    "published_at": "2026-05-30T01:49:59.774179+00:00",
+    "analyzed_at": "2026-05-30T01:51:33.432909+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Hacker News (Best)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

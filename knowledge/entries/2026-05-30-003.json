@@ -1,0 +1,30 @@
+{
+  "id": "2026-05-30-003",
+  "title": "Is AI causing a repeat of frontend’s lost decade?",
+  "source": "hacker_news",
+  "source_url": "https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/",
+  "summary": "该讨论探讨了AI工具对前端开发领域可能产生的影响，质疑当前AI辅助编程工具的快速发展是否会导致前端开发者面临类似于过去'失去的十年'中的技能贬值和岗位减少问题。社区关注焦点在于如何在AI时代保持前端开发的核心价值和职业竞争力。",
+  "tags": [
+    "AI",
+    "frontend",
+    "web-development",
+    "career",
+    "programming"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-05-30T01:49:59.774185+00:00",
+  "metadata": {
+    "published_at": "2026-05-30T01:49:59.774185+00:00",
+    "analyzed_at": "2026-05-30T01:51:36.456025+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Hacker News (Best)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

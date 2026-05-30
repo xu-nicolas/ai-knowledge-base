@@ -1,0 +1,30 @@
+{
+  "id": "2026-05-30-004",
+  "title": "Various LLM Smells",
+  "source": "hacker_news",
+  "source_url": "https://shvbsle.in/various-llm-smells/",
+  "summary": "这篇文章探讨了大型语言模型在实际应用中常见的反模式和问题模式，涵盖了提示工程缺陷、输出质量不稳定、上下文管理不当等技术债务。内容可能包括对常见LLM集成陷阱、可靠性挑战和最佳实践的讨论。",
+  "tags": [
+    "LLM",
+    "AI_Engineering",
+    "Best_Practices",
+    "HackerNews",
+    "Software_Quality"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-05-30T01:49:59.774190+00:00",
+  "metadata": {
+    "published_at": "2026-05-30T01:49:59.774190+00:00",
+    "analyzed_at": "2026-05-30T01:51:38.747814+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Hacker News (Best)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

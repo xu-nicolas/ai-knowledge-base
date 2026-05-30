@@ -1,0 +1,30 @@
+{
+  "id": "2026-05-30-007",
+  "title": "Building Machine Learning Systems for a Trillion Trillion Floating Point Operations (2024)",
+  "source": "hacker_news",
+  "source_url": "https://www.youtube.com/watch?v=139UPjoq7Kw",
+  "summary": "该文探讨了大规模机器学习系统的构建策略，重点关注如何高效处理极端规模的浮点运算需求。内容可能涉及分布式训练、计算优化以及大模型工程实践等核心技术领域。适合对大规模AI系统架构有兴趣的开发者和技术决策者参考。",
+  "tags": [
+    "机器学习系统",
+    "大规模计算",
+    "分布式训练",
+    "性能优化",
+    "AI基础设施"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-05-30T01:50:00.334352+00:00",
+  "metadata": {
+    "published_at": "2026-05-30T01:50:00.334352+00:00",
+    "analyzed_at": "2026-05-30T01:51:49.173106+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Lobsters (AI/ML)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

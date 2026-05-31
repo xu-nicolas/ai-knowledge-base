@@ -1,0 +1,30 @@
+{
+  "id": "2026-05-31-001",
+  "title": "harry0703/MoneyPrinterTurbo",
+  "source": "github_trending",
+  "source_url": "https://github.com/harry0703/MoneyPrinterTurbo",
+  "summary": "MoneyPrinterTurbo是一个基于AI大模型的自动化短视频生成工具，用户可通过简单操作实现一键生成高清视频内容。该项目利用LLM的文本理解和生成能力，结合视频合成技术，降低了专业视频制作的门槛，适合内容创作者和营销人员快速产出视频素材。技术架构融合了多模态生成能力，代表了AIGC在内容生产领域的重要应用方向。",
+  "tags": [
+    "AI视频生成",
+    "LLM应用",
+    "自动化创作",
+    "AIGC",
+    "内容生产"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-05-31T02:02:04.493715+00:00",
+  "metadata": {
+    "published_at": "2026-05-30T09:38:53Z",
+    "analyzed_at": "2026-05-31T02:03:47.835740+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "harry0703",
+    "stars": 72029,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

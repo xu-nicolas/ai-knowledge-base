@@ -1,0 +1,28 @@
+{
+  "id": "2026-06-01-002",
+  "title": "The solution might be cancelling my AI subscription",
+  "source": "hacker_news",
+  "source_url": "https://thoughts.hmmz.org/2026-05-31.html",
+  "summary": "用户在讨论取消AI订阅服务作为解决问题的方案，反映了对当前AI订阅模式的不满或成本考量。",
+  "tags": [
+    "AI订阅",
+    "用户体验",
+    "成本控制"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-06-01T02:10:43.917418+00:00",
+  "metadata": {
+    "published_at": "2026-06-01T02:10:43.917418+00:00",
+    "analyzed_at": "2026-06-01T02:13:30.213061+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Hacker News (Best)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

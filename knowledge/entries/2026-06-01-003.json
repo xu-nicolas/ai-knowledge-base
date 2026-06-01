@@ -1,0 +1,30 @@
+{
+  "id": "2026-06-01-003",
+  "title": "AI job grief: A psychological crisis hitting tech workers",
+  "source": "hacker_news",
+  "source_url": "https://jackmaguire.org/blog/ai-job-grief/",
+  "summary": "这篇文章探讨了AI技术对科技行业从业者心理健康的影响，揭示了AI发展带来的职业不安全感引发的心理危机。科技工作者正在经历一种新型的工作焦虑，即对被AI取代的担忧。Hacker News社区的讨论反映了对这一现象的广泛关注和反思。",
+  "tags": [
+    "AI_impact",
+    "mental_health",
+    "tech_workers",
+    "employment_anxiety",
+    "AI_replacement"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-06-01T02:10:43.917433+00:00",
+  "metadata": {
+    "published_at": "2026-06-01T02:10:43.917433+00:00",
+    "analyzed_at": "2026-06-01T02:13:32.778439+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Hacker News (Best)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

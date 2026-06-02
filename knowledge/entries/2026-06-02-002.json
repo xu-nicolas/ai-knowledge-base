@@ -1,0 +1,28 @@
+{
+  "id": "2026-06-02-002",
+  "title": "It's Not Just X. It's Y",
+  "source": "hacker_news",
+  "source_url": "https://mail.cyberneticforests.com/its-not-just-data-its-post-training/",
+  "summary": "该文章在 Hacker News 上讨论某个技术或产品（标题中的 X 和 Y 代表具体技术）不仅仅是表面所见的单一功能，实际上具有更丰富的能力或应用场景。内容聚焦于揭示技术的多面性和深层价值。",
+  "tags": [
+    "AI技术",
+    "技术深度分析",
+    "产品本质"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-06-02T02:11:39.966884+00:00",
+  "metadata": {
+    "published_at": "2026-06-02T02:11:39.966884+00:00",
+    "analyzed_at": "2026-06-02T02:13:39.313984+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Lobsters (AI/ML)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

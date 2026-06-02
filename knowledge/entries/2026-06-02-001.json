@@ -1,0 +1,30 @@
+{
+  "id": "2026-06-02-001",
+  "title": "Constraining LLMs Just Like Users",
+  "source": "hacker_news",
+  "source_url": "https://www.aeracode.org/2026/06/01/constraining-llms/",
+  "summary": "该文章探讨了如何像管理普通用户一样对大型语言模型进行行为约束，可能涉及权限控制、安全策略和访问限制等技术方案。这一主题与AI安全治理和系统可靠性密切相关，为企业级AI应用提供了实用的约束框架。",
+  "tags": [
+    "AI安全",
+    "LLM约束",
+    "权限管理",
+    "系统控制",
+    "AI治理"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-06-02T02:11:39.966866+00:00",
+  "metadata": {
+    "published_at": "2026-06-02T02:11:39.966866+00:00",
+    "analyzed_at": "2026-06-02T02:13:36.174999+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Lobsters (AI/ML)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

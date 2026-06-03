@@ -1,0 +1,30 @@
+{
+  "id": "2026-06-03-003",
+  "title": "strace-ui, Bonsai_term, and the TUI renaissance",
+  "source": "hacker_news",
+  "source_url": "https://blog.janestreet.com/strace-ui-bonsai-term-and-the-tui-renaissance/",
+  "summary": "本文讨论了终端用户界面(TUI)工具的最新发展，介绍了strace-ui和Bonsai_term等创新项目，展示了命令行工具在用户界面设计上的复兴趋势。这些工具通过改进可视化方式，使传统的命令行程序更加用户友好。",
+  "tags": [
+    "TUI",
+    "strace",
+    "Terminal",
+    "Developer Tools",
+    "CLI"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-06-03T02:29:01.475197+00:00",
+  "metadata": {
+    "published_at": "2026-06-03T02:29:01.475197+00:00",
+    "analyzed_at": "2026-06-03T02:31:27.846687+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Lobsters (AI/ML)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

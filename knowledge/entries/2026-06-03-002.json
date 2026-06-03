@@ -1,0 +1,31 @@
+{
+  "id": "2026-06-03-002",
+  "title": "thunderbolt-ibverbs: We have InfiniBand at home",
+  "source": "hacker_news",
+  "source_url": "https://blog.hellas.ai/blog/thunderbolt-ibverbs/",
+  "summary": "thunderbolt-ibverbs 是一个开源项目，通过 Linux 内核的 IBverbs API 在消费级 Thunderbolt 接口上实现类 InfiniBand 的高速网络互联。该项目利用 RDMA（远程直接内存访问）技术，让普通用户无需专业数据中心硬件即可构建低延迟、高带宽的网络环境，适用于家庭实验室和小型集群场景。",
+  "tags": [
+    "linux",
+    "networking",
+    "thunderbolt",
+    "rdma",
+    "open-source",
+    "hardware"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-06-03T02:29:01.475192+00:00",
+  "metadata": {
+    "published_at": "2026-06-03T02:29:01.475192+00:00",
+    "analyzed_at": "2026-06-03T02:31:19.198486+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Lobsters (AI/ML)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

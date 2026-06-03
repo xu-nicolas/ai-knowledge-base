@@ -1,0 +1,30 @@
+{
+  "id": "2026-06-03-001",
+  "title": "Microsoft CEO: We’re moving from OS and apps to agents instead",
+  "source": "hacker_news",
+  "source_url": "https://9to5mac.com/2026/06/02/microsoft-ceo-were-moving-from-os-and-apps-to-agents-instead/",
+  "summary": "微软CEO萨提亚·纳德拉宣布软件产业正在经历从传统操作系统和应用向AI代理的重大转变，AI代理将成为用户与计算交互的主要界面，这一趋势反映了大型语言模型技术正在重新定义人机交互方式和软件架构。",
+  "tags": [
+    "AI Agents",
+    "Microsoft",
+    "Software Paradigm",
+    "LLM",
+    "Industry Trend"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-06-03T02:29:01.475175+00:00",
+  "metadata": {
+    "published_at": "2026-06-03T02:29:01.475175+00:00",
+    "analyzed_at": "2026-06-03T02:31:16.142819+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Lobsters (AI/ML)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

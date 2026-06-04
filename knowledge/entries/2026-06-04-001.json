@@ -1,0 +1,30 @@
+{
+  "id": "2026-06-04-001",
+  "title": "Announcing Pyro Caml: The First Continuous Profiler for OCaml",
+  "source": "hacker_news",
+  "source_url": "https://semgrep.dev/blog/2026/announcing-pyro-caml-continuous-profiler-ocaml",
+  "summary": "Pyro Caml是首个面向OCaml语言的连续性能分析工具，能够持续监控和分析OCaml程序的运行时性能表现。该工具采用采样式分析方法，具有极低的性能开销，适合在生产环境中部署使用，帮助开发者识别性能瓶颈和优化机会。",
+  "tags": [
+    "profiling",
+    "ocaml",
+    "performance",
+    "continuous-profiling",
+    "developer-tools"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-06-04T02:26:32.463339+00:00",
+  "metadata": {
+    "published_at": "2026-06-04T02:26:32.463339+00:00",
+    "analyzed_at": "2026-06-04T02:29:07.510802+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Lobsters (AI/ML)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "2026-06-04-002",
+  "title": "Introducing RadixAttention to Trellis",
+  "source": "hacker_news",
+  "source_url": "https://trellis.unfoldml.com/blog/radix-attention-intro",
+  "summary": "RadixAttention 是被引入到 Trellis 项目中的一种新型注意力机制，旨在提升大规模语言模型的推理效率和信息检索能力。该技术可能采用了基数树（Radix Tree）或类似的层级化索引结构来优化注意力计算，降低计算复杂度。",
+  "tags": [
+    "attention-mechanism",
+    "inference-optimization",
+    "transformer",
+    "language-model",
+    "efficiency"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-06-04T02:26:32.463351+00:00",
+  "metadata": {
+    "published_at": "2026-06-04T02:26:32.463351+00:00",
+    "analyzed_at": "2026-06-04T02:29:09.413389+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Lobsters (AI/ML)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

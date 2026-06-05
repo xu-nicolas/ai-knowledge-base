@@ -1,0 +1,30 @@
+{
+  "id": "2026-06-05-003",
+  "title": "Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes",
+  "source": "hacker_news",
+  "source_url": "https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html",
+  "summary": "伯克利CS课程报告显示AI工具使用与不及格率上升及学生数学能力下降存在关联。教育工作者对AI辅助学习的效果表示担忧，认为过度依赖AI可能导致基础技能退化。该现象引发关于学术诚信、教育方法和AI辅助学习边界的讨论。",
+  "tags": [
+    "AI教育",
+    "学术诚信",
+    "CS教育",
+    "学生表现",
+    "数学能力"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-06-05T02:00:59.012948+00:00",
+  "metadata": {
+    "published_at": "2026-06-05T02:00:59.012948+00:00",
+    "analyzed_at": "2026-06-05T02:04:59.700765+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Hacker News (Best)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

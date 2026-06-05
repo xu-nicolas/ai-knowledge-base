@@ -1,0 +1,30 @@
+{
+  "id": "2026-06-05-006",
+  "title": "Mathematicians issue warning as AI rapidly gains ground",
+  "source": "hacker_news",
+  "source_url": "https://www.science.org/content/article/mathematicians-issue-warning-ai-rapidly-gains-ground",
+  "summary": "AI技术正在数学领域迅速扩展，从自动化定理证明到符号数学计算，AI系统展现出强大的数学推理能力。数学家群体对此发出警告，担忧AI可能削弱人类数学家的学术地位和创造性工作，同时也引发对AI生成数学证明可靠性的讨论。",
+  "tags": [
+    "AI应用",
+    "数学研究",
+    "学术伦理",
+    "自动化",
+    "人机协作"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-06-05T02:00:59.012955+00:00",
+  "metadata": {
+    "published_at": "2026-06-05T02:00:59.012955+00:00",
+    "analyzed_at": "2026-06-05T02:05:06.607997+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Hacker News (Best)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

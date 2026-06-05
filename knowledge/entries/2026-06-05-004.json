@@ -1,0 +1,30 @@
+{
+  "id": "2026-06-05-004",
+  "title": "32GB of DDR5 now costs $375 – AI shortage continues to squeeze PC building",
+  "source": "hacker_news",
+  "source_url": "https://www.tomshardware.com/pc-components/ddr5/32gb-of-ddr5-now-costs-usd375-minimum-ai-shortage-continues-to-squeeze-pc-building",
+  "summary": "32GB DDR5内存目前售价375美元，反映了AI芯片短缺对硬件供应链的持续影响。内存价格高企正在挤压个人电脑组装市场，可能导致消费者推迟升级或转向更经济的选择。",
+  "tags": [
+    "DDR5内存",
+    "AI芯片短缺",
+    "硬件供应链",
+    "PC组装",
+    "内存价格"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-06-05T02:00:59.012951+00:00",
+  "metadata": {
+    "published_at": "2026-06-05T02:00:59.012951+00:00",
+    "analyzed_at": "2026-06-05T02:05:01.615035+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Hacker News (Best)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

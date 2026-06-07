@@ -1,0 +1,29 @@
+{
+  "id": "2026-06-07-005",
+  "title": "AI Worm",
+  "source": "hacker_news",
+  "source_url": "https://arxiv.org/abs/2606.03811",
+  "summary": "AI Worm是一种利用人工智能技术实现的自我复制蠕虫程序，能够在AI系统中自主传播和执行恶意操作。这类蠕虫可能利用AI模型的漏洞或通过社会工程学手段进行传播，对AI系统的安全性构成严重威胁。安全研究人员正在积极研究其攻击向量和防御机制。",
+  "tags": [
+    "网络安全",
+    "AI安全",
+    "蠕虫病毒",
+    "机器学习"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-06-07T02:07:05.845104+00:00",
+  "metadata": {
+    "published_at": "2026-06-07T02:07:05.845104+00:00",
+    "analyzed_at": "2026-06-07T02:09:38.691504+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Lobsters (AI/ML)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

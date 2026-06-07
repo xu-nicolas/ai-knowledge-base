@@ -1,0 +1,29 @@
+{
+  "id": "2026-06-07-002",
+  "title": "Ask HN: Why is the HN crowd so anti-AI?",
+  "source": "hacker_news",
+  "source_url": "https://news.ycombinator.com/item?id=48420827",
+  "summary": "这是一篇 Hacker News 社区关于 AI 态度的讨论帖，发帖者好奇为何 HN 用户群体对 AI 技术持批评或怀疑态度。讨论通常涉及 AI 伦理、监管、技术影响等话题，反映了技术社区对 AI 发展的复杂情绪和审慎考量。",
+  "tags": [
+    "AI态度",
+    "技术社区",
+    "伦理讨论",
+    "HackerNews"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-06-07T02:07:05.397927+00:00",
+  "metadata": {
+    "published_at": "2026-06-07T02:07:05.397927+00:00",
+    "analyzed_at": "2026-06-07T02:09:21.141678+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Hacker News (Best)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

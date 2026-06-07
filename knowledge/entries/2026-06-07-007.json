@@ -1,0 +1,30 @@
+{
+  "id": "2026-06-07-007",
+  "title": "ZML: Model to Metal",
+  "source": "hacker_news",
+  "source_url": "https://zml.ai/",
+  "summary": "ZML (Zero ML) is a high-performance machine learning inference framework designed for efficient execution on various hardware backends. It focuses on minimizing latency and maximizing throughput by optimizing the path from model to hardware. The framework aims to simplify deployment of ML models across different platforms including Apple Metal for GPU acceleration.",
+  "tags": [
+    "machine-learning",
+    "inference",
+    "optimization",
+    "framework",
+    "performance"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-06-07T02:07:05.845108+00:00",
+  "metadata": {
+    "published_at": "2026-06-07T02:07:05.845108+00:00",
+    "analyzed_at": "2026-06-07T02:09:45.593153+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Lobsters (AI/ML)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

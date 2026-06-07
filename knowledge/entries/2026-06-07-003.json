@@ -1,0 +1,30 @@
+{
+  "id": "2026-06-07-003",
+  "title": "Harness engineering: leveraging Codex in an agent-first world",
+  "source": "hacker_news",
+  "source_url": "https://openai.com/index/harness-engineering/",
+  "summary": "本文探讨了在AI Agent优先的开发环境中，如何利用OpenAI的Codex模型进行代码生成和工程实践。内容涵盖AI辅助开发工作流、代码自动化以及将AI代理集成到软件工程流程中的最佳实践。重点关注如何通过Codex提升开发效率和自动化水平。",
+  "tags": [
+    "AI Agent",
+    "Codex",
+    "Code Generation",
+    "Software Engineering",
+    "AI-assisted Development"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-06-07T02:07:05.845088+00:00",
+  "metadata": {
+    "published_at": "2026-06-07T02:07:05.845088+00:00",
+    "analyzed_at": "2026-06-07T02:09:31.923351+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Lobsters (AI/ML)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

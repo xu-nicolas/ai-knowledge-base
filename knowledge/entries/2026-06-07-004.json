@@ -1,0 +1,30 @@
+{
+  "id": "2026-06-07-004",
+  "title": "If LLMs Have Human-Like Attributes, Then So Does Age of Empires II",
+  "source": "hacker_news",
+  "source_url": "https://arxiv.org/pdf/2605.31514",
+  "summary": "这篇文章在Hacker News上讨论了大型语言模型（LLM）是否真正具备类人属性的哲学问题。作者通过与《帝国时代II》这款游戏的类比，质疑我们对AI智能的判断标准，强调所谓的人类属性可能只是表象而非本质区别。讨论涉及AI意识、认知能力和智能定义的深层思考。",
+  "tags": [
+    "LLM",
+    "AI哲学",
+    "机器意识",
+    "认知智能",
+    "技术讨论"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-06-07T02:07:05.845100+00:00",
+  "metadata": {
+    "published_at": "2026-06-07T02:07:05.845100+00:00",
+    "analyzed_at": "2026-06-07T02:09:35.047058+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Lobsters (AI/ML)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

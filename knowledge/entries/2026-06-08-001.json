@@ -1,0 +1,30 @@
+{
+  "id": "2026-06-08-001",
+  "title": "How LLMs Actually Work",
+  "source": "hacker_news",
+  "source_url": "https://0xkato.xyz/how-llms-actually-work/",
+  "summary": "本文深入解析大型语言模型的实际工作原理，涵盖Transformer架构的核心机制、预训练与微调流程，以及推理阶段的token生成过程。内容重点讨论注意力机制如何处理上下文信息，并分析模型在生成文本时如何基于概率分布进行预测。",
+  "tags": [
+    "LLM",
+    "Transformer",
+    "深度学习",
+    "NLP",
+    "模型推理"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-06-08T02:11:56.135906+00:00",
+  "metadata": {
+    "published_at": "2026-06-08T02:11:56.135906+00:00",
+    "analyzed_at": "2026-06-08T02:14:59.429181+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Lobsters (AI/ML)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

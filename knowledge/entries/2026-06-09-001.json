@@ -1,0 +1,29 @@
+{
+  "id": "2026-06-09-001",
+  "title": "Self-hosting email the hard way from your own routable IPv4 block up",
+  "source": "hacker_news",
+  "source_url": "https://anil.recoil.org/notes/recoil-self-hosting-2026",
+  "summary": "这篇文章详细介绍了如何从零开始自托管邮件服务器，包括获取可路由 IPv4 地址块、配置邮件传输代理（如 Postfix）、设置 SPF/DKIM/DMARC 验证以及应对垃圾邮件过滤的技术挑战。内容涵盖网络基础设施配置、反垃圾邮件策略实施以及确保邮件送达率的高级技巧。",
+  "tags": [
+    "self-hosting",
+    "email-server",
+    "ipv4",
+    "sysadmin"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-06-09T01:49:32.204190+00:00",
+  "metadata": {
+    "published_at": "2026-06-09T01:49:32.204190+00:00",
+    "analyzed_at": "2026-06-09T01:52:20.146747+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Lobsters (AI/ML)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

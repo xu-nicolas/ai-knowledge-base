@@ -1,0 +1,30 @@
+{
+  "id": "2026-06-09-002",
+  "title": "Expanding Private Cloud Compute - Apple Security Research",
+  "source": "hacker_news",
+  "source_url": "https://security.apple.com/blog/expanding-pcc/",
+  "summary": "Apple 扩展其 Private Cloud Compute 技术，旨在将设备端的安全和隐私保护扩展到云端计算环境。该技术通过端到端加密和硬件级别的安全措施，确保用户数据在云端处理时仍保持隐私性。这是 Apple 在云服务领域强化隐私保护的重要技术演进。",
+  "tags": [
+    "cloud_security",
+    "privacy",
+    "encryption",
+    "apple",
+    "distributed_computing"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-06-09T01:49:32.204204+00:00",
+  "metadata": {
+    "published_at": "2026-06-09T01:49:32.204204+00:00",
+    "analyzed_at": "2026-06-09T01:52:33.277449+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Lobsters (AI/ML)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

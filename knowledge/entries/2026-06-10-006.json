@@ -1,0 +1,29 @@
+{
+  "id": "2026-06-10-006",
+  "title": "Ask HN: What are tools you have made for yourself since the advent of AI?",
+  "source": "hacker_news",
+  "source_url": "https://news.ycombinator.com/item?id=48449187",
+  "summary": "这是一个Hacker News上的社区问答帖，讨论开发者自生成式AI兴起以来为自己创建的各种工具和应用。内容涵盖AI辅助编程、自动化脚本、个性化助手等多个领域，反映了AI技术如何改变个人开发者的工作流程和生产力方式。",
+  "tags": [
+    "AI应用开发",
+    "个人效率工具",
+    "开发者社区",
+    "自动化"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-06-10T02:00:43.333542+00:00",
+  "metadata": {
+    "published_at": "2026-06-10T02:00:43.333542+00:00",
+    "analyzed_at": "2026-06-10T02:06:47.073253+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Hacker News (Best)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "2026-06-10-002",
+  "title": "Cleaning up after AI rockstar developers",
+  "source": "hacker_news",
+  "source_url": "https://www.codingwithjesse.com/blog/rockstar-developers/",
+  "summary": "文章讨论了AI编程助手（如Copilot、Claude等）在提升开发效率的同时带来的技术债务问题，指出'AI摇滚明星开发者'快速产出代码但往往忽视代码质量、可维护性和测试覆盖，导致后续清理工作繁重。建议在追求AI辅助开发效率的同时，需要建立代码审查流程和最佳实践规范。",
+  "tags": [
+    "AI编程工具",
+    "技术债务",
+    "代码质量",
+    "开发者效率",
+    "软件工程"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-06-10T02:00:43.333529+00:00",
+  "metadata": {
+    "published_at": "2026-06-10T02:00:43.333529+00:00",
+    "analyzed_at": "2026-06-10T02:06:06.002807+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Hacker News (Best)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

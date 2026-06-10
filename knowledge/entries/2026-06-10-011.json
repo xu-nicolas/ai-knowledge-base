@@ -1,0 +1,30 @@
+{
+  "id": "2026-06-10-011",
+  "title": "Claude Fable 5 and Claude Mythos 5",
+  "source": "hacker_news",
+  "source_url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
+  "summary": "Claude Fable 5 和 Claude Mythos 5 是 Anthropic 公司在 Hacker News 上发布的关于 Claude AI 模型的重要更新。Fable 5 可能专注于创意写作和叙事能力，而 Mythos 5 可能针对更广泛的知识处理和推理任务。这些更新反映了 AI 模型在多模态和专业化方向上的持续演进。",
+  "tags": [
+    "Claude",
+    "AI模型",
+    "Anthropic",
+    "自然语言处理",
+    "深度学习"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-06-10T02:00:43.469249+00:00",
+  "metadata": {
+    "published_at": "2026-06-10T02:00:43.469249+00:00",
+    "analyzed_at": "2026-06-10T02:07:14.452599+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Lobsters (AI/ML)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

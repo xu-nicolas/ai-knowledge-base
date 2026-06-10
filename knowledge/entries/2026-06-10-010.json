@@ -1,0 +1,28 @@
+{
+  "id": "2026-06-10-010",
+  "title": "It doesn’t matter if it works",
+  "source": "hacker_news",
+  "source_url": "https://henry.codes/writing/it-doesnt-matter-if-it-works/",
+  "summary": "这篇来自 Hacker News 的文章探讨了一个反直觉的软件开发观点：代码是否真正运行有时并不重要。文章可能讨论了原型开发、快速迭代或概念验证的场景下，交付速度和验证想法的价值可能超过代码的完整性和可靠性。",
+  "tags": [
+    "software_development",
+    "product_strategy",
+    "startup"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-06-10T02:00:43.469246+00:00",
+  "metadata": {
+    "published_at": "2026-06-10T02:00:43.469246+00:00",
+    "analyzed_at": "2026-06-10T02:07:11.960738+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Lobsters (AI/ML)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

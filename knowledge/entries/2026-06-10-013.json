@@ -1,0 +1,30 @@
+{
+  "id": "2026-06-10-013",
+  "title": "What about OpenCL and CUDA C++ alternatives?",
+  "source": "hacker_news",
+  "source_url": "https://www.modular.com/blog/democratizing-ai-compute-part-5-what-about-cuda-c-alternatives",
+  "summary": "该讨论聚焦于GPU并行计算的编程框架选择，CUDA作为NVIDIA专属生态具有性能优势但受硬件限制，而OpenCL虽具跨平台特性但维护负担较重。当前涌现出HIP、SYCL、OpenMP等新兴替代方案，为开发者提供了更多元的技术路径选择。",
+  "tags": [
+    "OpenCL",
+    "CUDA",
+    "GPU编程",
+    "并行计算",
+    "SYCL"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-06-10T02:00:43.469253+00:00",
+  "metadata": {
+    "published_at": "2026-06-10T02:00:43.469253+00:00",
+    "analyzed_at": "2026-06-10T02:07:20.193125+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Lobsters (AI/ML)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

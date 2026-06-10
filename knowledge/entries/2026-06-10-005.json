@@ -1,0 +1,30 @@
+{
+  "id": "2026-06-10-005",
+  "title": "Apple Core AI Framework",
+  "source": "hacker_news",
+  "source_url": "https://developer.apple.com/documentation/coreai/",
+  "summary": "Apple Core AI Framework 是苹果公司推出的设备端 AI 推理框架，专注于在 iPhone、iPad 和 Mac 等苹果设备上高效运行机器学习模型。该框架集成了 Neural Engine、CPU 和 GPU 的协同计算能力，支持自然语言处理、图像识别和增强现实等多种 AI 应用场景。",
+  "tags": [
+    "Apple",
+    "Core-AI",
+    "On-Device-AI",
+    "Mobile-ML",
+    "Neural-Engine"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-06-10T02:00:43.333539+00:00",
+  "metadata": {
+    "published_at": "2026-06-10T02:00:43.333539+00:00",
+    "analyzed_at": "2026-06-10T02:06:24.015088+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Hacker News (Best)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

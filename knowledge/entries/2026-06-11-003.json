@@ -1,0 +1,31 @@
+{
+  "id": "2026-06-11-003",
+  "title": "A line-by-line translation of the OCaml runtime from C to Rust",
+  "source": "hacker_news",
+  "source_url": "https://discuss.ocaml.org/t/a-line-by-line-translation-of-the-ocaml-runtime-from-c-to-rust/18247",
+  "summary": "该项目展示了如何将 OCaml 运行时系统从 C 代码逐行翻译为 Rust，旨在利用 Rust 的内存安全特性提升运行时系统的安全性。翻译工作需要深入理解 OCaml 运行时机制和 Rust 所有权模型，涉及垃圾回收、内存布局和 FFI 等核心技术领域。",
+  "tags": [
+    "rust",
+    "ocaml",
+    "runtime",
+    "systems-programming",
+    "porting",
+    "compiler"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-06-11T02:11:37.092170+00:00",
+  "metadata": {
+    "published_at": "2026-06-11T02:11:37.092170+00:00",
+    "analyzed_at": "2026-06-11T02:15:19.600772+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Lobsters (AI/ML)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

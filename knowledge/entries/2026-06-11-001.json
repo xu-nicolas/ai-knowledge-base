@@ -1,0 +1,31 @@
+{
+  "id": "2026-06-11-001",
+  "title": "German ruling declares Google liable for false answers in AI Overviews",
+  "source": "hacker_news",
+  "source_url": "https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/",
+  "summary": "德国法院裁定 Google 需对 AI Overviews 功能中生成的错误搜索结果负责，这是全球首例针对 AI 搜索摘要功能的法律责任判决。该判决对 AI 幻觉问题（AI Hallucination）提出了法律层面的质疑，可能对 AI 搜索引擎服务提供商的责任界定产生深远影响，并推动行业在 AI 内容准确性方面加强监管。",
+  "tags": [
+    "AI Liability",
+    "Google AI Overviews",
+    "AI Hallucination",
+    "Search AI",
+    "Legal Regulation",
+    "AI Ethics"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-06-11T02:11:36.874379+00:00",
+  "metadata": {
+    "published_at": "2026-06-11T02:11:36.874379+00:00",
+    "analyzed_at": "2026-06-11T02:14:51.336862+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Hacker News (Best)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

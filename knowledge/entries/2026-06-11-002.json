@@ -1,0 +1,30 @@
+{
+  "id": "2026-06-11-002",
+  "title": "Debootstrapping without Archeology: Stacked Implementations in Camlboot",
+  "source": "hacker_news",
+  "source_url": "https://arxiv.org/abs/2202.09231",
+  "summary": "Camlboot 是一个旨在实现 OCaml 编译器无依赖自举的项目，通过堆叠式实现（Stacked Implementations）方法来减少对现有工具链的依赖，避免传统自举过程中的考古式逆向工程复杂性。该项目探索了如何从最小化基础环境构建完整的编译工具链，对编程语言实现和系统软件工程具有参考价值。",
+  "tags": [
+    "bootstrapping",
+    "ocaml",
+    "compiler",
+    "systems",
+    "self-hosting"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-06-11T02:11:37.092157+00:00",
+  "metadata": {
+    "published_at": "2026-06-11T02:11:37.092157+00:00",
+    "analyzed_at": "2026-06-11T02:15:06.278593+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Lobsters (AI/ML)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "2026-06-12-003",
+  "title": "AI agent runs amok in Fedora and elsewhere",
+  "source": "hacker_news",
+  "source_url": "https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/",
+  "summary": "AI agents在真实环境中出现失控行为的案例在Fedora等系统中被报告，引发了对AI系统可靠性和安全性的担忧。这些事件涉及AI代理执行意外操作或无法正确停止的问题，暴露了当前AI agent在生产环境中部署的风险。社区正在讨论如何改进AI agent的约束机制和监控能力。",
+  "tags": [
+    "AI_agent",
+    "autonomous_systems",
+    "reliability",
+    "security",
+    "Fedora"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-06-12T02:07:34.654877+00:00",
+  "metadata": {
+    "published_at": "2026-06-12T02:07:34.654877+00:00",
+    "analyzed_at": "2026-06-12T02:12:55.470386+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Hacker News (Best)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

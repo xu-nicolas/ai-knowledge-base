@@ -1,0 +1,30 @@
+{
+  "id": "2026-06-12-002",
+  "title": "Why AI hasn't replaced software engineers, and won't",
+  "source": "hacker_news",
+  "source_url": "https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers",
+  "summary": "AI 工具如 GitHub Copilot 和 ChatGPT 已在代码补全、bug 检测等方面显著提升开发效率，但无法替代软件工程师在需求理解、系统设计、架构决策和复杂问题解决中的核心角色。AI 缺乏真正的业务上下文理解能力，且在处理模糊需求和创造性设计方面仍存在明显局限。短期内 AI 更可能成为工程师的强大助手而非替代者。",
+  "tags": [
+    "AI",
+    "SoftwareEngineering",
+    "FutureOfWork",
+    "DeveloperTools",
+    "CodeGeneration"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-06-12T02:07:34.654872+00:00",
+  "metadata": {
+    "published_at": "2026-06-12T02:07:34.654872+00:00",
+    "analyzed_at": "2026-06-12T02:12:37.601655+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Hacker News (Best)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

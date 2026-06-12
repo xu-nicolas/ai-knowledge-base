@@ -1,0 +1,29 @@
+{
+  "id": "2026-06-12-004",
+  "title": "To Gen or Not To Gen: The Ethical Use of Generative AI",
+  "source": "hacker_news",
+  "source_url": "https://blog.johanneslink.net/2025/11/04/to-gen-or-not-to-gen/",
+  "summary": "该内容讨论了生成式AI在应用中的伦理考量，包括知识产权、隐私保护、内容真实性等问题，并探讨了如何在创新与责任之间取得平衡。",
+  "tags": [
+    "生成式AI",
+    "AI伦理",
+    "技术责任",
+    "内容创作"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-06-12T02:07:34.888073+00:00",
+  "metadata": {
+    "published_at": "2026-06-12T02:07:34.888073+00:00",
+    "analyzed_at": "2026-06-12T02:12:59.839396+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Lobsters (AI/ML)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

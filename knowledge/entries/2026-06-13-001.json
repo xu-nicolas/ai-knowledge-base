@@ -1,0 +1,29 @@
+{
+  "id": "2026-06-13-001",
+  "title": "What’s New in WeatherMesh-6",
+  "source": "hacker_news",
+  "source_url": "https://windbornesystems.com/blog/introducing-wm-6",
+  "summary": "WeatherMesh-6是WeatherMesh天气平台的第六代版本，可能引入了更先进的气象预测算法和增强的数据可视化功能。作为天气数据处理领域的技术产品，该版本预计在数据采集、分析精度或实时处理能力方面有所提升。从HackerNews的讨论热度来看，该技术受到了技术社区的关注。",
+  "tags": [
+    "weather",
+    "data-processing",
+    "prediction-model",
+    "visualization"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-06-13T02:00:58.598084+00:00",
+  "metadata": {
+    "published_at": "2026-06-13T02:00:58.598084+00:00",
+    "analyzed_at": "2026-06-13T02:03:21.903191+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Lobsters (AI/ML)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

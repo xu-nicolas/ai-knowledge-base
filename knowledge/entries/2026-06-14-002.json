@@ -1,0 +1,30 @@
+{
+  "id": "2026-06-14-002",
+  "title": "AI Economics for Dummies",
+  "source": "hacker_news",
+  "source_url": "https://www.mcsweeneys.net/articles/ai-economics-for-dummies",
+  "summary": "这是一个关于AI经济学基础概念的入门指南，可能涵盖AI技术的商业价值评估、成本结构分析以及AI市场的发展趋势。内容可能涉及AI项目的ROI计算、投资回报分析等核心经济指标，适合希望了解AI商业化基础知识的读者。",
+  "tags": [
+    "AI经济学",
+    "商业价值",
+    "成本分析",
+    "投资回报",
+    "入门指南"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-06-14T02:11:15.740251+00:00",
+  "metadata": {
+    "published_at": "2026-06-14T02:11:15.740251+00:00",
+    "analyzed_at": "2026-06-14T02:14:07.606122+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Lobsters (AI/ML)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

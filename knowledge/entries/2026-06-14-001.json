@@ -1,20 +1,17 @@
 {
   "id": "2026-06-14-001",
-  "title": "The Curse of Depth in Large Language Models",
+  "title": "The future of Siri, or: why private inference isn’t private enough",
   "source": "hacker_news",
-  "source_url": "https://arxiv.org/pdf/2502.05795",
-  "summary": "“深度诅咒“指的是大语言模型在堆叠过多Transformer层时出现的性能退化问题，表现为信息在深层网络中丢失或扭曲，影响模型理解和生成能力。该研究揭示了模型深度与性能之间并非简单的线性关系，需要在架构设计和训练策略上做出权衡。",
+  "source_url": "https://blog.cryptographyengineering.com/2026/06/09/apples-siri-ai-or-more-shouting-into-the-void-about-private-agents/",
+  "summary": "",
   "tags": [
-    "large-language-models",
-    "deep-learning",
-    "model-architecture",
-    "transformer"
+    "llm"
   ],
-  "status": "analyzed",
-  "collected_at": "2026-06-14T02:11:15.740232+00:00",
+  "status": "raw",
+  "collected_at": "2026-06-14T06:48:54.207666+00:00",
   "metadata": {
-    "published_at": "2026-06-14T02:11:15.740232+00:00",
-    "analyzed_at": "2026-06-14T02:14:02.533298+00:00",
+    "published_at": "2026-06-14T06:48:54.207666+00:00",
+    "analyzed_at": "2026-06-14T06:50:27.712978+00:00",
     "analysis": {
       "highlights": [],
       "use_cases": [],
@@ -22,7 +19,7 @@
     },
     "author": "Lobsters (AI/ML)",
     "stars": 0,
-    "score": 7,
+    "score": 5,
     "score_reason": "",
     "audience": "intermediate"
   }

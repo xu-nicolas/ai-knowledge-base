@@ -1,0 +1,26 @@
+{
+  "id": "2026-06-15-005",
+  "title": "AI OSS tool repo goes archived over night after raising $7.3M Seed",
+  "source": "hacker_news",
+  "source_url": "https://github.com/tensorzero/tensorzero",
+  "summary": "",
+  "tags": [
+    "llm"
+  ],
+  "status": "raw",
+  "collected_at": "2026-06-15T02:14:54.044530+00:00",
+  "metadata": {
+    "published_at": "2026-06-15T02:14:54.044530+00:00",
+    "analyzed_at": "2026-06-15T02:18:22.728606+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Hacker News (Best)",
+    "stars": 0,
+    "score": 5,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

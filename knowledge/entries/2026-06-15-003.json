@@ -1,0 +1,30 @@
+{
+  "id": "2026-06-15-003",
+  "title": "Police officer investigated for using AI to 'create evidence' in multiple cases",
+  "source": "hacker_news",
+  "source_url": "https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661",
+  "summary": "一名警察因涉嫌使用AI技术伪造多起案件证据而接受调查，凸显了AI生成内容在司法领域滥用的风险。该事件引发了对数字证据真实性和可靠性的担忧，以及执法机构如何适当使用AI工具的伦理讨论。",
+  "tags": [
+    "AI滥用",
+    "数字证据",
+    "深度伪造",
+    "执法技术",
+    "法律伦理"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-06-15T02:14:54.044523+00:00",
+  "metadata": {
+    "published_at": "2026-06-15T02:14:54.044523+00:00",
+    "analyzed_at": "2026-06-15T02:18:05.110853+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Hacker News (Best)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

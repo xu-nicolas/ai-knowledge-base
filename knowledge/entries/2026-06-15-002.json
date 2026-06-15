@@ -1,0 +1,29 @@
+{
+  "id": "2026-06-15-002",
+  "title": "Not everyone is using AI for everything",
+  "source": "hacker_news",
+  "source_url": "https://gabrielweinberg.com/p/people-are-consuming-ai-like-they",
+  "summary": "The article discusses the reality that artificial intelligence adoption is not uniform across all users and use cases. Despite significant AI advancements, many individuals and organizations still prefer traditional methods for certain tasks. The piece highlights important considerations for AI developers and businesses about realistic adoption expectations.",
+  "tags": [
+    "AI_adoption",
+    "technology_trends",
+    "user_behavior",
+    "HackerNews"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-06-15T02:14:54.044518+00:00",
+  "metadata": {
+    "published_at": "2026-06-15T02:14:54.044518+00:00",
+    "analyzed_at": "2026-06-15T02:17:49.962241+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Hacker News (Best)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

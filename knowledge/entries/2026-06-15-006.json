@@ -1,0 +1,30 @@
+{
+  "id": "2026-06-15-006",
+  "title": "Open source AI must win",
+  "source": "hacker_news",
+  "source_url": "https://opensourceaimustwin.com/?share=v2",
+  "summary": "本文讨论了开源AI的重要性及其面临的机遇与挑战，强调开源模式在促进AI技术民主化、加速创新和确保技术透明度方面的关键作用。开源AI通过降低准入门槛、促进社区协作和防止技术垄断，有望在AI领域取得竞争优势。",
+  "tags": [
+    "开源AI",
+    "人工智能民主化",
+    "开源社区",
+    "AI伦理",
+    "技术竞争"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-06-15T02:14:54.044534+00:00",
+  "metadata": {
+    "published_at": "2026-06-15T02:14:54.044534+00:00",
+    "analyzed_at": "2026-06-15T02:18:29.372351+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Hacker News (Best)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

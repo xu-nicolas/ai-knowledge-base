@@ -1,0 +1,30 @@
+{
+  "id": "2026-06-15-008",
+  "title": "The Curse of Depth in Large Language Models",
+  "source": "hacker_news",
+  "source_url": "https://arxiv.org/pdf/2502.05795",
+  "summary": "该话题探讨了大型语言模型中层数增加带来的技术挑战，包括梯度传播困难、计算成本上升和长距离依赖建模问题，可能涉及Transformer架构中深度网络的信息瓶颈现象。",
+  "tags": [
+    "LLM",
+    "深度学习",
+    "模型架构",
+    "Transformer",
+    "神经网络优化"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-06-15T02:14:54.834028+00:00",
+  "metadata": {
+    "published_at": "2026-06-15T02:14:54.834028+00:00",
+    "analyzed_at": "2026-06-15T02:18:49.524467+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Lobsters (AI/ML)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

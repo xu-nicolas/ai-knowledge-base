@@ -1,0 +1,30 @@
+{
+  "id": "2026-06-15-004",
+  "title": "AI coding at home without going broke",
+  "source": "hacker_news",
+  "source_url": "https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/",
+  "summary": "本文探讨了开发者在家庭环境中利用 AI 技术进行编程的成本控制策略，涵盖了本地模型部署、开源工具选择以及性价比最高的云服务方案等技术实现路径。",
+  "tags": [
+    "AI编程",
+    "成本优化",
+    "本地部署",
+    "开源工具",
+    "开发效率"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-06-15T02:14:54.044527+00:00",
+  "metadata": {
+    "published_at": "2026-06-15T02:14:54.044527+00:00",
+    "analyzed_at": "2026-06-15T02:18:07.458957+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Hacker News (Best)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

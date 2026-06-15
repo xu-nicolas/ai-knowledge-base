@@ -1,0 +1,29 @@
+{
+  "id": "2026-06-15-007",
+  "title": "AI, Gods and Selves: Incredibly Effective Illusions",
+  "source": "hacker_news",
+  "source_url": "https://www.youtube.com/watch?v=9X1CQlrwgDI",
+  "summary": "该文探讨了人工智能与人类意识、宗教概念之间的哲学关联，讨论了AI系统可能产生的\"幻觉\"现象及其对AGI发展的影响。作者从哲学和技术的双重角度分析了AI在模拟人类思维和自我意识方面的局限性，指出当前AI系统的'智能'可能更多是一种表象幻觉。",
+  "tags": [
+    "AGI",
+    "AI哲学",
+    "意识研究",
+    "机器学习"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-06-15T02:14:54.834012+00:00",
+  "metadata": {
+    "published_at": "2026-06-15T02:14:54.834012+00:00",
+    "analyzed_at": "2026-06-15T02:18:44.277669+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Lobsters (AI/ML)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

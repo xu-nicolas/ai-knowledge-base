@@ -1,0 +1,30 @@
+{
+  "id": "2026-06-16-002",
+  "title": "Why adding ontologies to LLMs won't yield machine intelligence",
+  "source": "hacker_news",
+  "source_url": "https://youtu.be/Ce-cN5Llaz4?t=93",
+  "summary": "本文探讨了在大型语言模型中整合本体论（ontologies）是否能够产生真正的机器智能。作者认为，尽管本体论提供了结构化的知识表示，但LLM的工作机制与符号AI的逻辑推理存在根本性差异，简单叠加知识库并不能实现真正的机器认知能力。该讨论反映了当前AI领域对于符号主义与连接主义融合边界的深入思考。",
+  "tags": [
+    "LLM",
+    "ontologies",
+    "machine_intelligence",
+    "knowledge_representation",
+    "AI_research"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-06-16T02:29:54.358831+00:00",
+  "metadata": {
+    "published_at": "2026-06-16T02:29:54.358831+00:00",
+    "analyzed_at": "2026-06-16T02:33:27.246485+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Lobsters (AI/ML)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

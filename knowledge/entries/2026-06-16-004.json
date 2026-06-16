@@ -1,0 +1,29 @@
+{
+  "id": "2026-06-16-004",
+  "title": "Building llm-driven “ai” still requires domain knowledge",
+  "source": "hacker_news",
+  "source_url": "https://lobste.rs/s/q9sd1m/building_llm_driven_ai_still_requires",
+  "summary": "本文讨论了在构建基于大语言模型的AI应用时，领域知识仍然是不可或缺的关键要素。虽然LLM具备强大的自然语言理解和生成能力，但要构建真正有效的AI系统，开发者必须具备相关业务领域的专业知识，才能正确地设计prompt、评估输出质量并进行系统优化。",
+  "tags": [
+    "LLM应用",
+    "领域知识",
+    "AI系统设计",
+    "Prompt工程"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-06-16T02:29:54.358848+00:00",
+  "metadata": {
+    "published_at": "2026-06-16T02:29:54.358848+00:00",
+    "analyzed_at": "2026-06-16T02:33:35.706875+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Lobsters (AI/ML)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

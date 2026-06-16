@@ -1,0 +1,29 @@
+{
+  "id": "2026-06-16-003",
+  "title": "June Framework Memory and storage pricing updates",
+  "source": "hacker_news",
+  "source_url": "https://frame.work/ca/en/blog/updates-on-memory-pricing-and-navigating-the-volatile-memory-market",
+  "summary": "June Framework 发布了内存和存储定价更新，该更新可能影响现有用户的成本结构和资源分配策略。定价变更可能涉及存储容量的计费模式调整或内存资源配置的优化。建议用户关注官方文档以了解具体的定价变化细节和可能的成本影响。",
+  "tags": [
+    "框架更新",
+    "定价策略",
+    "云服务",
+    "成本优化"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-06-16T02:29:54.358844+00:00",
+  "metadata": {
+    "published_at": "2026-06-16T02:29:54.358844+00:00",
+    "analyzed_at": "2026-06-16T02:33:30.626619+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Lobsters (AI/ML)",
+    "stars": 0,
+    "score": 6,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

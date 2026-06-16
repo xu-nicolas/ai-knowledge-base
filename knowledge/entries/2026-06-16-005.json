@@ -1,0 +1,29 @@
+{
+  "id": "2026-06-16-005",
+  "title": "CrankGPT — Local Human-powered AI",
+  "source": "hacker_news",
+  "source_url": "https://crankgpt.com",
+  "summary": "CrankGPT 是一个强调本地运行和人类协作的 AI 系统，允许用户在本地环境中与 AI 交互，并通过人类输入来增强 AI 的响应质量和准确性。该系统结合了本地部署的隐私优势和人类反馈的准确性提升，为用户提供了一个可控的 AI 交互环境。",
+  "tags": [
+    "local-ai",
+    "human-in-the-loop",
+    "privacy",
+    "chatgpt-alternative"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-06-16T02:29:54.358850+00:00",
+  "metadata": {
+    "published_at": "2026-06-16T02:29:54.358850+00:00",
+    "analyzed_at": "2026-06-16T02:33:37.918251+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Lobsters (AI/ML)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

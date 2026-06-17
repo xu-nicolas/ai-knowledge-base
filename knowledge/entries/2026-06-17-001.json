@@ -1,0 +1,26 @@
+{
+  "id": "2026-06-17-001",
+  "title": "pewdiepie-archdaemon/odysseus",
+  "source": "github_trending",
+  "source_url": "https://github.com/pewdiepie-archdaemon/odysseus",
+  "summary": "Self-hosted AI workspace. ",
+  "tags": [
+    "llm"
+  ],
+  "status": "raw",
+  "collected_at": "2026-06-17T02:13:58.322314+00:00",
+  "metadata": {
+    "published_at": "2026-06-16T14:34:54Z",
+    "analyzed_at": "2026-06-17T02:17:14.619883+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "pewdiepie-archdaemon",
+    "stars": 72518,
+    "score": 5,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

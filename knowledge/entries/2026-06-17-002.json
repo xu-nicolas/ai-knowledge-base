@@ -1,0 +1,30 @@
+{
+  "id": "2026-06-17-002",
+  "title": "Can gzip be a language model?",
+  "source": "hacker_news",
+  "source_url": "https://nathan.rs/posts/gzip-lm/",
+  "summary": "探讨了使用gzip压缩算法作为语言模型的实验性方法，利用压缩比与预测能力之间的关联性。该方法基于信息论原理，通过比较上下文条件下字符串的压缩率来估计下一个token的概率，展示了压缩与语言建模之间的深层联系。",
+  "tags": [
+    "compression",
+    "language-model",
+    "information-theory",
+    "experiment",
+    "nlp"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-06-17T02:13:59.892501+00:00",
+  "metadata": {
+    "published_at": "2026-06-17T02:13:59.892501+00:00",
+    "analyzed_at": "2026-06-17T02:17:33.474568+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Lobsters (AI/ML)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "2026-06-17-003",
+  "title": "Language integrated LLMs as an OCaml function",
+  "source": "hacker_news",
+  "source_url": "https://anil.recoil.org/notes/language-integrated-llms",
+  "summary": "该项目探讨了如何将大语言模型（LLM）以函数调用的形式无缝集成到 OCaml 函数式编程语言中，让开发者能够像使用普通函数一样调用 AI 能力，实现了 LLM 与静态类型函数式编程的深度融合。",
+  "tags": [
+    "LLM集成",
+    "OCaml",
+    "函数式编程",
+    "编程语言扩展"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-06-17T02:13:59.892513+00:00",
+  "metadata": {
+    "published_at": "2026-06-17T02:13:59.892513+00:00",
+    "analyzed_at": "2026-06-17T02:17:41.662884+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Lobsters (AI/ML)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

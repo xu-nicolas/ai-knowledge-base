@@ -1,0 +1,30 @@
+{
+  "id": "2026-06-18-001",
+  "title": "Only 16 Percent of Americans Think AI Will Have a Positive Impact on Society",
+  "source": "hacker_news",
+  "source_url": "https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows/",
+  "summary": "皮尤研究中心调查显示，仅有16%的美国人对AI发展持乐观态度，多数人担忧AI对社会的负面影响。该数据反映了当前公众对AI技术的信任危机，揭示了技术发展与社会接受度之间的显著鸿沟，凸显了AI伦理和透明度问题的重要性。",
+  "tags": [
+    "AI社会影响",
+    "公众态度",
+    "AI信任",
+    "技术伦理",
+    "调查报告"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-06-18T02:12:05.926801+00:00",
+  "metadata": {
+    "published_at": "2026-06-18T02:12:05.926801+00:00",
+    "analyzed_at": "2026-06-18T02:18:20.666729+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Hacker News (Best)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

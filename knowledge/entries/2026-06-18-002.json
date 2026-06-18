@@ -1,0 +1,30 @@
+{
+  "id": "2026-06-18-002",
+  "title": "AI demands more engineering discipline. Not less",
+  "source": "hacker_news",
+  "source_url": "https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline",
+  "summary": "文章强调AI开发过程中需要更严格的工程纪律，而非忽视工程实践。讨论了AI项目中系统设计、代码质量和可维护性的重要性，指出随着AI系统复杂度提升，必须采用更严谨的软件工程方法来确保系统的可靠性和可扩展性。",
+  "tags": [
+    "engineering-discipline",
+    "software-engineering",
+    "ai-development",
+    "best-practices",
+    "system-design"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-06-18T02:12:05.926817+00:00",
+  "metadata": {
+    "published_at": "2026-06-18T02:12:05.926817+00:00",
+    "analyzed_at": "2026-06-18T02:18:33.548424+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Hacker News (Best)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

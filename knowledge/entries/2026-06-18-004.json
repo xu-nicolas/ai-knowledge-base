@@ -1,0 +1,30 @@
+{
+  "id": "2026-06-18-004",
+  "title": "Has AI already killed self-help nonfiction books?",
+  "source": "hacker_news",
+  "source_url": "https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/",
+  "summary": "该话题探讨了AI技术对自助类非虚构书籍出版行业的冲击和变革影响。AI写作工具如ChatGPT等的快速发展使得自动化内容生成成为可能，对传统自助书籍的写作、出版和销售模式构成挑战。同时也讨论了AI生成内容与人类创作内容在质量和价值上的差异，以及这种技术变革对内容创作者和读者的影响。",
+  "tags": [
+    "AI写作",
+    "内容创作",
+    "出版行业",
+    "自助类书籍",
+    "AI工具"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-06-18T02:12:05.926827+00:00",
+  "metadata": {
+    "published_at": "2026-06-18T02:12:05.926827+00:00",
+    "analyzed_at": "2026-06-18T02:19:55.242982+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Hacker News (Best)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

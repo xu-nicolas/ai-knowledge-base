@@ -1,0 +1,30 @@
+{
+  "id": "2026-06-19-002",
+  "title": "The Future of the Con Is Already Here, It's Just Not Evenly Distributed",
+  "source": "hacker_news",
+  "source_url": "http://manishearth.github.io/blog/2026/06/17/the-future-of-the-con-is-already-here/",
+  "summary": "该帖子讨论了 AI 欺诈技术（如 deepfake、语音克隆等）已经在某些领域出现，但由于技术门槛、成本和监管差异，这些能力在不同群体和地区间的分布并不均衡。文章可能探讨了如何识别和应对这些新兴的 AI 驱动骗局，以及技术民主化带来的双刃剑效应。",
+  "tags": [
+    "AI安全",
+    "深度伪造",
+    "技术伦理",
+    "网络安全",
+    "欺诈检测"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-06-19T02:39:20.554816+00:00",
+  "metadata": {
+    "published_at": "2026-06-19T02:39:20.554816+00:00",
+    "analyzed_at": "2026-06-19T02:43:06.881227+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Lobsters (AI/ML)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "2026-06-19-001",
+  "title": "Agent memory on Elasticsearch: hybrid retrieval and DLS",
+  "source": "hacker_news",
+  "source_url": "https://www.elastic.co/search-labs/blog/agent-memory-elasticsearch",
+  "summary": "该技术探讨了如何利用Elasticsearch作为AI Agent的记忆存储系统,结合混合检索方法(Hybrid Retrieval)提升上下文获取能力,并通过文档级安全(DLS)机制实现精细化的访问控制。这一方案旨在解决大模型Agent在长期记忆和私有数据检索方面的挑战。",
+  "tags": [
+    "AI_Agent",
+    "Elasticsearch",
+    "Hybrid_Retrieval",
+    "Memory_System",
+    "RAG",
+    "Document_Level_Security"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-06-19T02:39:20.554800+00:00",
+  "metadata": {
+    "published_at": "2026-06-19T02:39:20.554800+00:00",
+    "analyzed_at": "2026-06-19T02:42:56.914185+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Lobsters (AI/ML)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

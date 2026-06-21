@@ -1,0 +1,30 @@
+{
+  "id": "2026-06-21-003",
+  "title": "Is AI ruining our skills? Early results are in – and they're not good",
+  "source": "hacker_news",
+  "source_url": "https://www.nature.com/articles/d41586-026-01947-1",
+  "summary": "一篇讨论 AI 工具使用对人类技能影响的分析文章，基于早期研究数据显示 AI 的广泛使用可能正在削弱人们的某些核心能力，特别是批判性思维和独立解决问题的能力。 Hacker News 社区对此展开了激烈讨论，涉及 AI 是否会导致技能退化的担忧，以及如何在利用 AI 提升效率的同时保持人类核心竞争力的平衡问题。",
+  "tags": [
+    "AI",
+    "skill_degradation",
+    "productivity",
+    "research",
+    "AI_impact"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-06-21T02:13:06.908501+00:00",
+  "metadata": {
+    "published_at": "2026-06-21T02:13:06.908501+00:00",
+    "analyzed_at": "2026-06-21T02:16:21.113675+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Hacker News (Best)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

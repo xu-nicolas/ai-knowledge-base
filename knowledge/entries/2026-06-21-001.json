@@ -1,0 +1,30 @@
+{
+  "id": "2026-06-21-001",
+  "title": "nextlevelbuilder/ui-ux-pro-max-skill",
+  "source": "github_trending",
+  "source_url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
+  "summary": "这是一个基于 AI 的 UI/UX 设计技能工具，旨在为跨平台专业界面构建提供智能设计支持。该工具利用人工智能技术自动化设计流程，帮助开发者快速生成符合多个平台规范的 UI/UX 设计，提升开发效率。",
+  "tags": [
+    "AI",
+    "UI/UX",
+    "Design Automation",
+    "Multi-platform",
+    "Design Intelligence"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-06-21T02:13:04.277065+00:00",
+  "metadata": {
+    "published_at": "2026-06-20T19:00:04Z",
+    "analyzed_at": "2026-06-21T02:14:53.677069+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "nextlevelbuilder",
+    "stars": 94383,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

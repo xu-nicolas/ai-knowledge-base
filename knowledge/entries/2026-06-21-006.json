@@ -1,0 +1,30 @@
+{
+  "id": "2026-06-21-006",
+  "title": "OCaml 5.5.0 released",
+  "source": "hacker_news",
+  "source_url": "https://discuss.ocaml.org/t/ocaml-5-5-0-released/18265",
+  "summary": "OCaml 5.5.0 正式发布，这是 OCaml 5.x 系列的最新次版本更新。作为一种强调类型安全和高性能的功能性编程语言，该版本预计包含编译器改进、标准库更新以及 bug 修复，旨在提升开发者的使用体验和程序运行效率。",
+  "tags": [
+    "OCaml",
+    "函数式编程",
+    "编译器",
+    "编程语言",
+    "开源"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-06-21T02:13:08.229840+00:00",
+  "metadata": {
+    "published_at": "2026-06-21T02:13:08.229840+00:00",
+    "analyzed_at": "2026-06-21T02:16:54.017488+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Lobsters (AI/ML)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

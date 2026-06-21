@@ -1,0 +1,26 @@
+{
+  "id": "2026-06-21-005",
+  "title": "Norway imposes near ban on AI in elementary school",
+  "source": "hacker_news",
+  "source_url": "https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/",
+  "summary": "",
+  "tags": [
+    "llm"
+  ],
+  "status": "raw",
+  "collected_at": "2026-06-21T02:13:06.908508+00:00",
+  "metadata": {
+    "published_at": "2026-06-21T02:13:06.908508+00:00",
+    "analyzed_at": "2026-06-21T02:16:42.566496+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Hacker News (Best)",
+    "stars": 0,
+    "score": 5,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

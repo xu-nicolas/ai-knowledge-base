@@ -1,0 +1,30 @@
+{
+  "id": "2026-06-21-004",
+  "title": "AI Engineer Claims to Have Cracked Linear A",
+  "source": "hacker_news",
+  "source_url": "https://aiclambake.com/clamtakes/linear-a/",
+  "summary": "一位AI工程师声称使用机器学习技术破解了古代米诺斯文明的线性A文字系统。线性A是一种公元前15世纪左右的未破译文字，目前只有其近亲线性B被成功破译（线性B记录的是早期希腊语）。该声称引发了学术界的质疑，因为验证古代文字破译需要严格的语言学证据和专家审查。",
+  "tags": [
+    "AI",
+    "NLP",
+    "Archaeology",
+    "History",
+    "Deep Learning"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-06-21T02:13:06.908505+00:00",
+  "metadata": {
+    "published_at": "2026-06-21T02:13:06.908505+00:00",
+    "analyzed_at": "2026-06-21T02:16:29.610872+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Hacker News (Best)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

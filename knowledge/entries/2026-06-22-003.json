@@ -1,0 +1,30 @@
+{
+  "id": "2026-06-22-003",
+  "title": "Lighthouse agentic browsing scoring",
+  "source": "hacker_news",
+  "source_url": "https://developer.chrome.com/docs/lighthouse/agentic-browsing/scoring",
+  "summary": "该技术探讨了如何利用AI代理（agent）实现自动化的Lighthouse性能测试评分。Lighthouse是Google开发的网页性能审计工具，agentic browsing指的是AI系统自主导航和交互网页的能力。这两者结合可实现自动化的网站性能监测和优化评估。",
+  "tags": [
+    "AI代理",
+    "性能测试",
+    "自动化工具",
+    "Web开发",
+    "机器学习"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-06-22T02:28:04.962127+00:00",
+  "metadata": {
+    "published_at": "2026-06-22T02:28:04.962127+00:00",
+    "analyzed_at": "2026-06-22T02:32:58.029978+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Lobsters (AI/ML)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}

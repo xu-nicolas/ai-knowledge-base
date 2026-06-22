@@ -1,0 +1,29 @@
+{
+  "id": "2026-06-22-002",
+  "title": "When I reject AI code even if it works",
+  "source": "hacker_news",
+  "source_url": "https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/",
+  "summary": "这是一个关于AI生成代码的讨论，作者认为即使AI生成的代码能够正常运行，也不应该盲目采用。讨论涉及代码质量标准、可维护性、潜在技术债务以及对AI辅助编程的批判性思考。",
+  "tags": [
+    "AI代码审查",
+    "软件质量",
+    "开发者最佳实践",
+    "代码可靠性"
+  ],
+  "status": "analyzed",
+  "collected_at": "2026-06-22T02:28:03.479475+00:00",
+  "metadata": {
+    "published_at": "2026-06-22T02:28:03.479475+00:00",
+    "analyzed_at": "2026-06-22T02:32:00.631746+00:00",
+    "analysis": {
+      "highlights": [],
+      "use_cases": [],
+      "risks": []
+    },
+    "author": "Hacker News (Best)",
+    "stars": 0,
+    "score": 7,
+    "score_reason": "",
+    "audience": "intermediate"
+  }
+}
